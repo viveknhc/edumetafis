@@ -1,0 +1,298 @@
+/* media screen */
+
+@media only screen and (max-width:1640px) {
+    .blog-section {
+        padding: 50px 30px;
+    }
+}
+
+
+/* pad */
+@media only screen and (max-width:999px) {
+    .get-in-touch-box {
+        border-style: none;
+        padding-left: 0;
+        margin-top: 50px;
+        padding: 10px 20px;
+    }
+
+    .contact-map-section iframe {
+        height: 400px;
+        margin-bottom: -8px;
+    }
+
+    .ftr-sm-icons {
+        margin-bottom: 10px;
+    }
+
+    .ftr-links-head {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .footer-hr {
+        margin-top: 40px;
+    }
+
+    .edumetfis-navbar .nav-left-btn {
+        display: none;
+    }
+
+    .blog-section {
+        padding: 50px 0;
+    }
+
+    .blog-inner-pg-section {
+        padding: 50px 10px;
+    }
+
+    .blog-inner-pg-section .blog-img img {
+        height: 340px;
+    }
+
+    .related-blogs-btm {
+        padding: 0px;
+    }
+
+    .our-partners-section .partners-img {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .our-partners-section .partners-img img {
+        width: 330px;
+        margin-bottom: 20px;
+    }
+
+    .investors-section .investors-img {
+        grid-template-columns: repeat(3, 1fr);
+
+    }
+
+    .investors-section .investors-img img {
+        margin-bottom: 20px;
+    }
+
+    .career-section .career-box {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .career-section .career-box .right-section .apply-btn {
+        margin-top: 30px;
+        display: block;
+    }
+
+    .career-section .career-box .left-section p {
+        font-size: 14px;
+    }
+
+}
+
+
+/* mobile */
+@media only screen and (max-width:767px) {
+    .pg-banner {
+        min-height: 220px;
+        padding-top: 70px;
+    }
+
+    .book-icon {
+        top: 18%;
+        left: 10%;
+        width: 40px;
+    }
+
+    .cap-icon {
+        width: 55px;
+    }
+
+    .edumetfis-navbar .nav-left-btn {
+        display: none;
+    }
+
+    .contact-pg-form-section {
+        padding: 50px 5px;
+    }
+
+    .contact-pg-form-section .contact-form {
+        padding: 50px 20px 20px;
+    }
+
+    .contact-pg-form-section .contact-form .head {
+        font-size: 26px;
+    }
+
+    .contact-form .input-form {
+        margin-top: 20px;
+    }
+
+    .contact-form .contact-btn {
+        margin-top: 0;
+    }
+
+    .get-in-touch-box {
+        border-style: none;
+        padding: 40px 20px;
+    }
+
+    .pg-banner .head {
+        font-size: 22px;
+        line-height: 34px;
+    }
+
+    .pg-banner .pages-link .non-link {
+        font-size: 14px;
+    }
+
+    .pg-banner .pages-link .active-link {
+        font-size: 14px;
+    }
+
+    .contact-map-section iframe {
+        margin-top: -120px;
+        height: 320px;
+        margin-bottom: -8px;
+    }
+
+
+
+
+    /* about */
+
+    .about .img-box {
+
+        height: 39vh;
+    }
+
+    .counter-box {
+        position: absolute;
+        top: 200px;
+        right: 224px;
+        z-index: 111;
+    }
+
+    .counter-box div img {
+        position: absolute;
+        width: 110px;
+    }
+
+    .about .img-box .about-img1 {
+        top: -74px !important;
+        right: 68px !important;
+        max-width: 233px !important;
+    }
+
+    .about .img-box .about-img2 {
+        left: 38px !important;
+        top: 148px !important;
+        max-width: 145px;
+    }
+
+    .about .img-box .about-shape1 {
+        top: -73px !important;
+        right: 71px !important;
+        max-width: 234px !important;
+    }
+
+    .feature {
+        margin: 5px;
+        padding: 37px;
+
+    }
+
+    .footer-news-letter h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .footer-news-letter .input-box {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .footer-news-letter .input-box input {
+        width: 100%;
+        padding: 8px 20px;
+    }
+
+    .footer-news-letter {
+        padding: 40px 20px;
+        background-color: #007CB9;
+        border-radius: 20px;
+        margin-bottom: 40px;
+    }
+
+    .footer-news-letter .input-box a {
+        margin-left: 0;
+        margin-top: 10px;
+        font-size: 14px;
+        padding: 8px 25px;
+    }
+
+    .footer-section {
+        padding: 60px 10px 10px;
+    }
+
+    .copyrigt-text {
+        font-size: 14px;
+    }
+
+    .blog-section {
+        padding: 50px 10px;
+    }
+
+    .blog-inner-pg-section .heading {
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 600;
+        margin-top: 10px;
+    }
+
+    .blog-inner-pg-section .blog-img img {
+        height: 240px;
+    }
+
+    .blog-inner-pg-section .blog-content {
+        margin-bottom: 15px;
+    }
+
+    .related-blogs-btm {
+        margin-bottom: 40px;
+    }
+
+    .our-partners-section .partners-img img {
+        width: 160px;
+        margin-bottom: 20px;
+    }
+
+    .investors-section .investors-img {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .partners-investors-section {
+        padding: 50px 10px;
+    }
+
+    .our-partners-section {
+        padding-top: 50px;
+    }
+
+    .career-section {
+        padding: 50px 10px;
+    }
+
+    .career-section .career-box .left-section p {
+        font-size: 14px;
+    }
+
+    .career-section .career-box .job-prefernces {
+        font-size: 14px;
+    }
+
+    .career-section .career-box .right-section .apply-btn {
+        margin-top: 20px;
+        display: block;
+        font-size: 14px;
+    }
+
+}
