@@ -9,8 +9,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- style -->
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css"
+        integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
+    <!-- aos -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- style -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
@@ -193,31 +200,42 @@
     <!-- career -->
     <section>
         <div class="career-index">
-            <div class="container">
-                <div class="career-content">
-                    <div class="flag">
-                        <div>
-                            <img src="assets/images/career/country1.png" alt="">
-                        </div>
-                        <div>
-                            <img src="assets/images/career/country2.png" alt="">
-                        </div>
-                        <div>
-                            <img src="assets/images/career/country3.png" alt="">
-                        </div>
-                        <div>
-                            <img src="assets/images/career/country4.png" alt="">
-                        </div>
 
+           
+            <div class="container">
+                <div class="relative-box">
+
+                        <img data-aos="fade-down-right"  data-aos-duration="2000" class="shape1" src="assets/images/career/red-shape.png" alt="">
+                        <img data-aos="fade-up-left"  data-aos-duration="2000" class="shape2" src="assets/images/career/black-shape.png" alt="">
+
+                    <div class="career-content">
+                        <!-- <img class="" src="assets/images/career/small shapes/shape1.png" alt=""> -->
+                        <div class="flag">
+                            <div>
+                                <img src="assets/images/career/country1.png" alt="">
+                            </div>
+                            <div>
+                                <img src="assets/images/career/country2.png" alt="">
+                            </div>
+                            <div>
+                                <img src="assets/images/career/country3.png" alt="">
+                            </div>
+                            <div>
+                                <img src="assets/images/career/country4.png" alt="">
+                            </div>
+
+                        </div>
+                        <h5 class="section-top-head">Choose your</h5>
+                        <h2 class="section-head">Career Abroad</h2>
+                        <p>
+                            There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered
+                            alteration in some form, by injected humour, or randomised words which don't.
+                        </p>
+                        <button class="primary-btn">read more</button>
                     </div>
-                    <h5 class="section-top-head">Choose your</h5>
-                    <h2 class="section-head">Career Abroad</h2>
-                    <p>
-                        There are many variations of passages of Lorem Ipsum available, but the majority have suffered
-                        alteration in some form, by injected humour, or randomised words which don't.
-                    </p>
-                    <button class="primary-btn">read more</button>
                 </div>
+
 
             </div>
 
@@ -225,14 +243,14 @@
     </section>
     <!-- career end -->
 
-    <!-- course -->
+    <!-- courses -->
     <section>
         <div class="courses">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
                         <div>
-                            <img src="assets/images/courses/girl.png" alt="">
+                            <img class="img-fluid" src="assets/images/courses/girl.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -253,14 +271,251 @@
                                 suffered alteration in some form, by injected humour, or randomised words which don't
                                 look even slightly believable. If you are going to use a passage.
                             </p>
+
+                            <ul class="course-feature-list">
+                                <li class="pb-2"> <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    Suffered alteration in some
+                                    form</li>
+                                <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    Have suffered alteration in
+                                    some things</li>
+                                <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    Randomised words which don't
+                                    look even slightly</li>
+                            </ul>
+
+                            <button class="primary-btn">read more</button>
                         </div>
+                    </div>
+                </div>
+
+
+                <div class="course-carousel-box">
+                    <div id="courseIndexCarousel" class="owl-carousel">
+                        <div class="item h-100">
+                            <h2>bba</h2>
+                            <img src="assets/images/courses/bba.png" alt="">
+
+                        </div>
+                        <div class="item h-100">
+                            <h2>mbbs</h2>
+                            <img src="assets/images/courses/mbbs.png" alt="">
+                        </div>
+                        <div class="item h-100">
+                            <h2>engineering</h2>
+                            <img src="assets/images/courses/engineering.png" alt="">
+                        </div>
+
+                        <div class="item h-100">
+                            <h2>bba</h2>
+                            <img src="assets/images/courses/bba.png" alt="">
+
+                        </div>
+                        <div class="item h-100">
+                            <h2>mbbs</h2>
+                            <img src="assets/images/courses/mbbs.png" alt="">
+                        </div>
+                        <div class="item h-100">
+                            <h2>engineering</h2>
+                            <img src="assets/images/courses/engineering.png" alt="">
+                        </div>
+
+                        <div class="item h-100">
+                            <h2>bba</h2>
+                            <img src="assets/images/courses/bba.png" alt="">
+
+                        </div>
+                        <div class="item h-100">
+                            <h2>mbbs</h2>
+                            <img src="assets/images/courses/mbbs.png" alt="">
+                        </div>
+                        <div class="item h-100">
+                            <h2>engineering</h2>
+                            <img src="assets/images/courses/engineering.png" alt="">
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!-- course end -->
+
+    <!-- student counselling -->
+
+    <section>
+        <div class="counselling">
+            <div class="text-center">
+                <h5 class="section-top-head">student</h5>
+                <h2 class="section-head">counselling</h2>
+            </div>
+            <div class="content-box">
+                <div class="container">
+                    <div class="row main">
+                        <div class="col-lg-6">
+                            <div class="left">
+                                <div class="career-partner">
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <img src="assets/images/counselling/icon1.png" alt="">
+                                        </div>
+
+                                        <div class="col-9">
+                                            <div class="ps-3">
+                                                <h5>Your Career <br>
+                                                    Partner</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                                <img src="assets/images/counselling/girl-index.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="right">
+                                <h5 class="section-top-head-white">student</h5>
+                                <h2 class="section-head-white">counselling</h2>
+
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                                    suffered alteration in some form, by injected humour.</p>
+
+
+                                <form class="d-flex flex-column counselling-form" action="">
+                                    <input type="text" placeholder="Enter Your Name">
+                                    <input type="text" placeholder="Enter Email Address">
+                                    <button class="primary-btn">read more</button>
+                                </form>
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- student counselling end -->
+
+    <!-- mentor -->
+    <section>
+        <div class="mentor">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex flex-column justify-content-center">
+
+                        <h5 class="section-top-head">my mentor</h5>
+                        <h2 class="section-head">meet your <br> creer instructor</h2>
+
+                        <p>
+                            There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look
+                        </p>
+
+                        <p>
+                            There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look
+                            even slightly believable. If you are going to use a passage.
+                        </p>
+
+                        <ul class="course-feature-list">
+                            <li class="pb-2"> <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                Suffered alteration in some
+                                form</li>
+                            <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                Have suffered alteration in
+                                some things</li>
+                            <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                Randomised words which don't
+                                look even slightly</li>
+                        </ul>
+
+                        <button class="primary-btn">read more</button>
+
+
+
+                    </div>
+                    <div class="col-lg-6">
+                        <img class="img-fluid" src="assets/images/mentor/girl-index.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
 
     </section>
-    <!-- course end -->
+    <!-- mentor end -->
+
+    <!-- education event -->
+    <section>
+        <div class="event">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div>
+                            <img class="img-fluid" src="assets/images/mentor/event.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex flex-column justify-content-center">
+                        <h5 class="section-top-head">events</h5>
+                        <h2 class="section-head">education events</h2>
+
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look.
+                            There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look
+                            even slightly believable. If you are going to use a passage.</p>
+
+                        <button class="primary-btn">read more</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- education event end -->
+
+    <!-- sports event -->
+    <section>
+        <div class="sports">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex flex-column justify-content-center">
+                        <h5 class="section-top-head">sports</h5>
+                        <h2 class="section-head">sports events</h2>
+
+                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look.
+                            There are many variations of passages of Lorem Ipsum available, but the majority have
+                            suffered alteration in some form, by injected humour, or randomised words which don't look
+                            even slightly believable. If you are going to use a passage.</p>
+
+                        <button class="primary-btn">read more</button>
+                    </div>
+                    <div class="col-lg-6">
+
+                        <div>
+                            <img class="img-fluid" src="assets/images/mentor/event.png" alt="">
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+    <!-- sports event end -->
+
 
     <!-- career end -->
     <!-- footer start -->
@@ -323,9 +578,31 @@
     <!-- footer end -->
 
 
+    <!-- bootstrap -->
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
         crossorigin="anonymous"></script>
+
+    <!-- owl carousel -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+        integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+        integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- aos -->
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <!-- script -->
+
+    <script src="assets/javascript/script.js"></script>
+
+
+
 </body>
 
 </html>

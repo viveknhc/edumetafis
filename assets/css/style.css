@@ -29,19 +29,34 @@
     width: 150px;
 }
 
-.section-top-head{
+.section-top-head {
     color: var(--black-col);
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
 }
 
-.section-head{
+.section-top-head-white {
+    color: var(--white-col);
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.section-head {
     color: var(--primary-col);
     font-size: 39px;
     font-weight: 700;
     text-transform: uppercase;
 }
+
+.section-head-white {
+    color: var(--white-col);
+    font-size: 39px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
 
 
 
@@ -393,7 +408,7 @@
 
 /* career */
 
-.career-content{
+.career-content {
     max-width: 36%;
     max-width: 36%;
     height: 100vh;
@@ -404,7 +419,6 @@
 }
 
 .career-index {
-    height: 100vh;
     background-image: url('../images/career/background.png');
     background-size: cover;
     background-position: center center;
@@ -412,18 +426,211 @@
     /* background-attachment: fixed;  */
 }
 
-.flag{
+.relative-box{
+    position: relative;
+}
+
+
+.relative-box .shape1{
+    position: absolute;
+    left: 157px;
+    top: 15px;
+
+}
+
+
+.relative-box .shape2{
+    position: absolute;
+    left: 188px;
+    top: 33px;
+}
+
+
+
+
+
+.flag {
     display: flex;
 }
 
-.flag img{
+.flag img {
     max-width: 56px;
 }
 
 
-.courses{
-    height: 100vh;
+.courses {
+
     padding: 100px 0px;
+}
+
+.course-feature-list {
+    list-style: none;
+    padding: 0;
+}
+
+.course-carousel-box {
+    padding: 100px 0px 0px 0px;
+}
+
+
+.course-carousel-box .owl-nav button {
+    position: absolute;
+    top: 50%;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.course-carousel-box .owl-nav button.owl-prev {
+    left: 0;
+}
+
+.course-carousel-box .owl-nav button.owl-next {
+    right: 0;
+}
+
+.course-carousel-box .owl-dots {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.course-carousel-box .owl-dots button.owl-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    background: var(--primary-col);
+    margin: 0 3px;
+    transition: 0.3s all ease;
+}
+
+.course-carousel-box .owl-dots button.owl-dot.active {
+    background-color: var(--primary-col);
+    width: 50px;
+    border-radius: 10px;
+    height: 10px;
+    transition: 0.3s all ease;
+}
+
+.course-carousel-box .owl-dots button.owl-dot:focus {
+    outline: none;
+}
+
+.course-carousel-box .owl-nav button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.38) !important;
+}
+
+.course-carousel-box span {
+    display: none;
+}
+
+.course-carousel-box .owl-nav button:focus {
+    outline: none;
+}
+
+.course-carousel-box .item {
+    position: relative;
+}
+
+.course-carousel-box h2 {
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 10px;
+    left: 50;
+    color: #fff;
+    left: 50%;
+    transform: translate(-50%);
+    text-transform: uppercase;
+
+}
+
+/* counselling */
+
+.counselling .section-head {
+    padding-bottom: 50px;
+    /* padding-top: 100px; */
+
+}
+
+.counselling .content-box {
+    background-image: url('../images/counselling/bg-pattern.png');
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+}
+
+.counselling .main {
+    height: 75vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.counselling .left {
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.content-box p {
+    color: var(--white-col);
+    font-size: 16px;
+    width: 81%;
+}
+
+.counselling-form input {
+    width: 58%;
+    margin-bottom: 12px;
+    padding: 13px;
+    /* padding-bottom: 10px; */
+    border: 0;
+    border-radius: 30px;
+}
+
+.counselling-form input::placeholder {
+    color: rgba(0, 0, 0, 0.50);
+    padding-left: 15px;
+    font-size: 16px;
+}
+
+.career-partner{
+    position: absolute;
+    left: 65px;
+    bottom: 116px;
+    background-color: #fff;
+    padding: 9px;
+    border-radius: 20px;
+}
+
+.career-partner h5{
+    font-weight: 600;
+}
+
+
+
+/* mentor */
+
+.mentor{
+    padding: 50px 0;
+}
+
+/* event */
+
+.event{
+    padding: 50px 0;
+}
+
+/* sports */
+
+.sports{
+    padding: 50px 0;
 }
 
 /* footer */
