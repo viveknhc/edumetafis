@@ -2,6 +2,7 @@
 
 AOS.init();
 
+// course carousel
 
 jQuery("#courseIndexCarousel").owlCarousel({
     // autoplay: true,
@@ -35,4 +36,31 @@ jQuery("#courseIndexCarousel").owlCarousel({
     }
 });
 
+
+// course carousel
+$(document).ready(function () {
+    $("#testimonial-carousel").owlCarousel({
+        loop: true,
+        // autoplay:true,
+        margin: 10,
+        nav: true,
+        navText: [
+            '<i class="fa fa-thin fa-arrow-left fa-2x"></i>',
+            '<i class="fa fa-thin fa-arrow-right fa-2x"></i>'
+        ],
+        responsive: {
+            0: {
+                items: 1,
+                nav: false,
+            },
+            600: {
+                items: 2,
+                nav: false,
+            },
+            1000: {
+                items: 2
+            }
+        }
+    });
+});
 

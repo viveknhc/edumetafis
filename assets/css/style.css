@@ -287,7 +287,7 @@
     position: absolute;
     top: -74px;
     right: 46px;
-    animation: aboutRotation 4s infinite linear;
+    animation: aboutRotation 3s infinite linear;
 }
 
 
@@ -309,8 +309,8 @@
 
 .about .img-box .about-img2 {
     position: absolute;
-    left: 122px;
-    top: 253px;
+    left: 65px;
+    top: 283px;
 }
 
 .counter-box {
@@ -411,11 +411,12 @@
 .career-content {
     max-width: 36%;
     max-width: 36%;
-    height: 100vh;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding-top: 231px;
+    position: relative;
 }
 
 .career-index {
@@ -426,12 +427,12 @@
     /* background-attachment: fixed;  */
 }
 
-.relative-box{
+.relative-box {
     position: relative;
 }
 
 
-.relative-box .shape1{
+.relative-box .shape1 {
     position: absolute;
     left: 157px;
     top: 15px;
@@ -439,14 +440,36 @@
 }
 
 
-.relative-box .shape2{
+.relative-box .shape2 {
     position: absolute;
     left: 188px;
     top: 33px;
 }
 
+.relative-box .career-content .sm-shape1 {
+    max-width: 22px;
+    position: absolute;
+    right: 83px;
+    bottom: 243px;
+    animation: sm-career-roatation 6s infinite linear;
+}
 
+.relative-box .career-content .sm-shape2 {
+    max-width: 22px;
+    position: absolute;
+    right: 145px;
+    bottom: -5px;
+    animation: sm-career-roatation 6s infinite linear;
+}
 
+.relative-box .career-content .sm-shape3 {
+    max-width: 30px;
+    position: absolute;
+    right: -46px;
+    bottom: 113px;
+    animation: sm-career-roatation 6s infinite backwards;
+
+}
 
 
 .flag {
@@ -458,8 +481,9 @@
 }
 
 
-.courses {
+/* courses */
 
+.courses {
     padding: 100px 0px;
 }
 
@@ -549,7 +573,32 @@
 
 }
 
+
+.courses .sm-shape1 {
+    position: absolute;
+    right: 20px;
+    top: 44px;
+}
+
+.courses .sm-shape2 {
+    position: absolute;
+    right: 40%;
+    top: 182px;
+}
+
+.courses .sm-shape3 {
+    position: absolute;
+    right: 67px;
+    bottom: 102px;
+    animation: upDown 4s infinite;
+}
+
+
+
+
+
 /* counselling */
+
 
 .counselling .section-head {
     padding-bottom: 50px;
@@ -600,37 +649,253 @@
     font-size: 16px;
 }
 
-.career-partner{
+.career-partner {
     position: absolute;
-    left: 65px;
+    left: 14px;
     bottom: 116px;
     background-color: #fff;
     padding: 9px;
     border-radius: 20px;
+    animation: upDown 4s infinite;
 }
 
-.career-partner h5{
+.career-partner h5 {
     font-weight: 600;
 }
+
+
+.counselling .white-shape1 {
+    position: absolute;
+    position: absolute;
+    left: 31px;
+    top: 55%;
+}
+
+.counselling .white-shape2 {
+    position: absolute;
+    top: 54%;
+    right: 61%;
+}
+
+
+.counselling .white-shape3 {
+    position: absolute;
+    left: 147px;
+    bottom: 72px;
+}
+
+.counselling .right {
+    position: relative;
+}
+
+.counselling .right .white-shape4 {
+    position: absolute;
+    right: 10px;
+    top: -53px;
+    animation: roatation 4s linear infinite;
+}
+
+.counselling .content-box {
+    position: relative;
+}
+
+.counselling .content-box .white-shape5 {
+    position: absolute;
+    max-width: 133px;
+    right: 87px;
+    top: 57%;
+
+}
+
 
 
 
 /* mentor */
 
-.mentor{
+.mentor {
     padding: 50px 0;
+}
+
+.mentor .relative-box .shape1 {
+    left: -7px;
+    max-width: 123px;
+    top: 176px;
+    animation: diagonalMove 4s infinite linear;
+
+
+
+
 }
 
 /* event */
 
-.event{
+.event {
     padding: 50px 0;
 }
 
 /* sports */
 
-.sports{
+.sports {
     padding: 50px 0;
+}
+
+/* testimonial */
+
+.testimonial {
+    /* padding: 50px 0; */
+    height: 100vh;
+}
+
+.testimonial-box {
+    padding: 47px;
+    border-radius: 20px;
+    border: 1px solid var(--black-col);
+    background: var(--white-col);
+}
+
+
+.testimonial .testimonial-box h4 {
+    color: var(--black-col);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+
+.testimonial .testimonial-box p {
+    color: var(--black-col);
+    font-weight: 400;
+    font-size: 14px;
+}
+
+
+#testimonial-carousel .item {
+    padding: 100px 0 0;
+}
+
+.testimonial-box .rating img {
+    max-width: 110px;
+}
+
+#testimonial-carousel .item .person {
+    max-width: 100px;
+    position: absolute;
+    right: 43px;
+    top: 44px;
+}
+
+#testimonial-carousel .item .quote {
+    max-width: 77px;
+    right: 22px;
+    bottom: 30px;
+    position: absolute;
+}
+
+
+#testimonial-carousel .owl-prev {
+    position: absolute;
+    right: 76px;
+    bottom: -33px;
+}
+
+#testimonial-carousel .fa {
+    color: #fff;
+    background-color: #000;
+    padding: 2px 20px 2px 20px;
+    border-radius: 10px;
+}
+
+
+
+
+#testimonial-carousel .owl-next {
+    position: absolute;
+    right: 0px;
+    bottom: -33px;
+}
+
+
+
+/* blog */
+
+.blog {
+    height: 100vh;
+}
+
+.blog-card {
+    border: none;
+    border-radius: 27.813px;
+    background: #FFF;
+    box-shadow: 3px 3px 27px 0px rgba(0, 0, 0, 0.10);
+}
+
+.blog .calender {
+    max-width: 19px;
+}
+
+.blog-card .card-footer {
+    border: none;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.blog-card .read-more {
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: var(--black-col);
+    color: var(--white-col);
+    padding: 7px 19px 7px 19px;
+    /* border-radius: 10px; */
+    border-radius: 27.813px;
+    font-size: 14px;
+
+}
+
+.blog-card .card-text {
+    font-size: 14px;
+}
+
+
+/*  */
+
+.cta {
+    padding: 50px 0;
+}
+
+.cta h2 {
+    font-size: 50px;
+    font-weight: 700;
+    color: var(--black-col);
+    text-transform: uppercase;
+}
+
+.cta p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cta input {
+    border-radius: 30px;
+    background: #F7F7F7;
+    padding: 15px;
+    margin: 6px 0px;
+    border: none;
+}
+.cta textarea{
+    border-radius: 30px;
+    border: none;
+    background-color: #f7f7f7;
+    border-radius: 30px;
+}
+.cta input::placeholder{
+    color: rgba(0, 0, 0, 0.50);
+}
+.cta form{
+    display: flex;
+    flex-direction: column;
 }
 
 /* footer */
@@ -957,4 +1222,64 @@
 .career-section .career-box .right-section .apply-btn {
     text-decoration: none;
     color: var(--black-col);
+}
+
+
+
+
+@keyframes upDown {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(15px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes diagonalMove {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    50% {
+        transform: translate(20px, -20px);
+    }
+
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+
+@keyframes roatation {
+    0% {
+        transform: rotate(0);
+    }
+
+    50% {
+        transform: rotate(180deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes sm-career-roatation {
+    0% {
+        transform: rotate(0);
+    }
+
+    50% {
+        transform: rotate(180deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }

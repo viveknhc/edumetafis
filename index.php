@@ -64,10 +64,8 @@
 
 
     <!-- Banner Start -->
-
     <section>
         <div class="banner bg-warning">
-
         </div>
     </section>
     <!-- Banner Start -->
@@ -201,15 +199,18 @@
     <section>
         <div class="career-index">
 
-           
+
             <div class="container">
                 <div class="relative-box">
-
-                        <img data-aos="fade-down-right"  data-aos-duration="2000" class="shape1" src="assets/images/career/red-shape.png" alt="">
-                        <img data-aos="fade-up-left"  data-aos-duration="2000" class="shape2" src="assets/images/career/black-shape.png" alt="">
+                    <img data-aos="fade-down-right" data-aos-duration="2000" class="shape1"
+                        src="assets/images/career/red-shape.png" alt="">
+                    <img data-aos="fade-up-left" data-aos-duration="2000" class="shape2"
+                        src="assets/images/career/black-shape.png" alt="">
 
                     <div class="career-content">
-                        <!-- <img class="" src="assets/images/career/small shapes/shape1.png" alt=""> -->
+                        <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="">
+                        <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="">
+                        <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
                         <div class="flag">
                             <div>
                                 <img src="assets/images/career/country1.png" alt="">
@@ -249,14 +250,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div>
+                        <div class="position-relative">
+
+                            <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="">
+                            <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="">
+                            <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
+
+
                             <img class="img-fluid" src="assets/images/courses/girl.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div>
-                            <h5 class="section-top-head">Choose your</h5>
-                            <h2 class="section-head">Career Abroad</h2>
+                            <h5 class="section-top-head">Courses</h5>
+                            <h2 class="section-head">We provide</h2>
                         </div>
 
                         <div>
@@ -344,7 +351,6 @@
     <!-- course end -->
 
     <!-- student counselling -->
-
     <section>
         <div class="counselling">
             <div class="text-center">
@@ -352,17 +358,28 @@
                 <h2 class="section-head">counselling</h2>
             </div>
             <div class="content-box">
+
+                <img class="white-shape5" src="assets/images/counselling/shapes/white-shape5.png" alt="shape">
+
+
                 <div class="container">
                     <div class="row main">
                         <div class="col-lg-6">
+
                             <div class="left">
+                                <img class="white-shape1" src="assets/images/counselling/shapes/white-shape1.png"
+                                    alt="shape">
+                                <img class="white-shape2" src="assets/images/counselling/shapes/white-shape2.png"
+                                    alt="shape">
+                                <img class="white-shape3" src="assets/images/counselling/shapes/white-shape3.png"
+                                    alt="shape">
                                 <div class="career-partner">
                                     <div class="row">
                                         <div class="col-3">
                                             <img src="assets/images/counselling/icon1.png" alt="">
                                         </div>
 
-                                        <div class="col-9">
+                                        <div class="col-9 d-flex">
                                             <div class="ps-3">
                                                 <h5>Your Career <br>
                                                     Partner</h5>
@@ -377,6 +394,10 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="right">
+
+                                <img class="white-shape4" src="assets/images/counselling/shapes/white-shape4.png"
+                                    alt="shape">
+
                                 <h5 class="section-top-head-white">student</h5>
                                 <h2 class="section-head-white">counselling</h2>
 
@@ -401,7 +422,6 @@
         </div>
 
     </section>
-
     <!-- student counselling end -->
 
     <!-- mentor -->
@@ -412,7 +432,7 @@
                     <div class="col-lg-6 d-flex flex-column justify-content-center">
 
                         <h5 class="section-top-head">my mentor</h5>
-                        <h2 class="section-head">meet your <br> creer instructor</h2>
+                        <h2 class="section-head">meet your <br> career instructor</h2>
 
                         <p>
                             There are many variations of passages of Lorem Ipsum available, but the majority have
@@ -443,7 +463,11 @@
 
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid" src="assets/images/mentor/girl-index.png" alt="">
+                        <div class="relative-box">
+                            <img class="shape1" src="assets/images/mentor/shapes/shape1.png" alt="">
+                            <img class="img-fluid" src="assets/images/mentor/girl-index.png" alt="">
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -516,8 +540,281 @@
     </section>
     <!-- sports event end -->
 
+    <!-- testimonials -->
 
-    <!-- career end -->
+    <section>
+        <div class="testimonial">
+
+            <div class="text-center pb-3">
+                <h5 class="section-top-head">testimonials</h5>
+                <h2 class="section-head">student testimonials</h2>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="owl-carousel" id="testimonial-carousel">
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img class="person" src="assets/images/testimonial/person.png" alt="">
+
+                            <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+
+                            <div class="testimonial-box">
+
+
+                                <div class="d-flex">
+                                    <h4>Sharon-armin,</h4> <span class="ps-3">MBBS-Germany</span>
+                                </div>
+
+                                <div>
+                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority
+                                        have suffered alteration in some form, by injected humour, or randomised words
+                                        which don't look. There are many variations of passages of Lorem Ipsum
+                                        available, but the majority have suffered alteration in some form.</p>
+                                </div>
+
+                                <div class="rating">
+                                    <img src="assets/images/testimonial/star.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- testimonials end -->
+
+
+    <!-- blog -->
+    <section>
+        <div class="blog">
+            <div class="text-center pb-5">
+                <h5 class="section-top-head">blog</h5>
+                <h2 class="section-head">latest blog</h2>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="card blog-card">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lorem Ipsum</h5>
+                                <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                    the majority have suffered alteration in some form, by injected humour, or
+                                    randomised words which.</p>
+                            </div>
+
+                            <div class="card-footer">
+                                <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                        alt="">18/7/2023</p>
+                                <a class="read-more" href="#" class="">read more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card blog-card">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lorem Ipsum</h5>
+                                <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                    the majority have suffered alteration in some form, by injected humour, or
+                                    randomised words which.</p>
+                            </div>
+
+                            <div class="card-footer">
+                                <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                        alt="">18/7/2023</p>
+                                <a class="read-more" href="#" class="">read more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="card blog-card">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lorem Ipsum</h5>
+                                <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                    the majority have suffered alteration in some form, by injected humour, or
+                                    randomised words which.</p>
+                            </div>
+
+                            <div class="card-footer">
+                                <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                        alt="">18/7/2023</p>
+                                <a class="read-more" href="#" class="">read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- blog end -->
+
+
+    <!-- cta -->
+
+    <section>
+
+        <div class="cta">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div>
+                            <div>
+                                <h2>get in touch</h2>
+                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            </div>
+                            <form action="">
+                                <input type="text" placeholder="enter your name">
+                                <input type="text" placeholder="enter your email address">
+                                <textarea name="" id="" cols="30" rows="10"></textarea>
+
+                                <button class="primary-btn mt-4">submit</button>
+
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- cta end -->
+
+
+
     <!-- footer start -->
     <!-- <div class="footer-section">
         <div class="container">
