@@ -160,8 +160,7 @@
     /* about */
 
     .about .img-box {
-
-        height: 39vh;
+        height: 55vh;
     }
 
     .counter-box {
@@ -300,5 +299,10 @@
         display: block;
         font-size: 14px;
     }
+
+    .career-index {
+        background-image: none;
+    }
+
 
 }

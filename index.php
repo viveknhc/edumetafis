@@ -72,7 +72,7 @@
 
 
     <!-- about -->
-    <section>
+    <!-- <section>
         <div class="about container">
             <div class="row">
 
@@ -117,7 +117,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- about end-->
 
     <!-- feature -->
@@ -127,56 +127,65 @@
                 <div class="row">
 
                     <div class="col-lg-3">
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="assets/images/feature/lock.png" alt="">
+                        <div class="py-3">
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="assets/images/feature/lock.png" alt="">
+                                </div>
+                                <div class="col-8">
+                                    <div>
+                                        <h4>Lifetime Access</h4>
+                                        <p>There are many variations
+                                            of passages of Lorem</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-8">
-                                <div>
-                                    <h4>Lifetime Access</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                        </div>
+                   
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="pb-3">
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="assets/images/feature/arrow.png" alt="">
+                                </div>
+                                <div class="col-8">
+                                    <div>
+                                        <h4>Expert Mentors</h4>
+                                        <p>There are many variations
+                                            of passages of Lorem</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="pb-3">
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="assets/images/feature/certificate.png" alt="">
+                                </div>
+                                <div class="col-8">
+                                    <div>
+                                        <h4>Official Certificate</h4>
+                                        <p>There are many variations
+                                            of passages of Lorem</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-lg-3">
+                       <div class="pb-3">
                         <div class="row">
                             <div class="col-4">
-                                <img src="assets/images/feature/arrow.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <div>
-                                    <h4>Expert Mentors</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="assets/images/feature/certificate.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <div>
-                                    <h4>Official Certificate</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="row">
-                            <div class="col-lg-4">
                                 <img src="assets/images/feature/office.png" alt="">
                             </div>
-                            <div class="col-lg-8">
+                            <div class="col-8">
                                 <div>
                                     <h4>Offline Mode</h4>
                                     <p>There are many variations
@@ -184,9 +193,8 @@
                                 </div>
                             </div>
                         </div>
+                       </div>
                     </div>
-
-
 
 
                 </div>
@@ -525,8 +533,10 @@
                     </div>
                     <div class="col-lg-6">
 
-                        <div>
-                            <img class="img-fluid" src="assets/images/mentor/event.png" alt="">
+                    <div>
+                        <img src="" alt="">
+                    </div>
+
                         </div>
 
 
@@ -711,6 +721,7 @@
 
 
     <!-- blog -->
+    
     <section>
         <div class="blog">
             <div class="text-center pb-5">
@@ -776,13 +787,13 @@
 
         </div>
     </section>
+
     <!-- blog end -->
 
 
     <!-- cta -->
 
     <section>
-
         <div class="cta">
             <div class="container">
                 <div class="row">
@@ -802,7 +813,52 @@
                             </form>
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 d-">
+                        <div class="contact-information">
+                            <img class="shape1" src="assets/images/contact/shape1.png" alt="">
+                            <img class="shape2" src="assets/images/contact/shape2.png" alt="">
+                            <div>
+                                <h2>contact <br> information</h2>
+                            </div>
+
+
+
+                            <div>
+                                <ul>
+                                    <li>
+                                        <div class="list">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon1.png" alt="">
+                                            <p>adrdress line</p>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <div class="list">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="">
+                                            <p>info@metafis</p>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <div class="list">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon3.png" alt="">
+                                            <p>+91 4565 132 456, +91 6545 856 132</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="social-links">
+                                <p>social links</p>
+                                <div class="d-flex justify-content-between pt-3">
+                                    <img src="assets/images/contact/icon4.png" alt="">
+                                    <img src="assets/images/contact/icon7.png" alt="">
+                                    <img src="assets/images/contact/icon5.png" alt="">
+                                    <img src="assets/images/contact/icon6.png" alt="">
+
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
@@ -813,22 +869,29 @@
 
     <!-- cta end -->
 
-
-
-    <!-- footer start -->
-    <!-- <div class="footer-section">
+    <div class="footer-section">
         <div class="container">
             <div class="footer-news-letter">
+
                 <div class="row">
-                    <div class="col-lg-6 col-12">
-                        <h3>Subscribe Our Newsletter !</h3>
+                    <div class="col-lg-6 col-12 relative-box">
+
+                        <img class="footer-shape1" src="assets/images/footer/shape1.png" alt="">
+                        <img class="footer-shape2" src="assets/images/footer/shape2.png" alt="">
+                        <img class="footer-shape3" src="assets/images/footer/shape3.png" alt="">
+
+
+                        <h3>Subscribe Our <br><span>Newsletter....!</span></h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nemo vero minima voluptatem hic
                             explicabo.</p>
                     </div>
                     <div class="col-lg-6 col-12">
                         <div class="input-box">
-                            <input type="text" placeholder="Enter Email Address">
-                            <a href="#">SUBSCRIBE</a>
+                            <div>
+                                <input type="text" placeholder="Enter Email Address">
+                                <button class="primary-btn">read more</button>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -867,12 +930,21 @@
                     </div>
                 </div>
             </div>
-            <hr class="footer-hr">
-            <p class="copyrigt-text">Copyright © 2023 Edumetafis. All Rights Reserved | Designed by Mentegoz Technologies
-            </p>
+
         </div>
-    </div> -->
-    <!-- footer end -->
+
+    </div>
+
+    <div>
+
+        <p class="copyrigt-text">Copyright ©
+            <script>document.write(new Date().getFullYear())</script> <span> Edumetafis. </span>All Rights Reserved |
+            Designed by <span>Mentegoz Technologies</span>
+        </p>
+
+    </div>
+
+
 
 
     <!-- bootstrap -->
