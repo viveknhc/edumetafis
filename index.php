@@ -64,7 +64,7 @@
 
 
     <!-- Banner Start -->
-    <section>
+    <section class="banner-section">
         <div class="banner bg-warning">
         </div>
     </section>
@@ -141,7 +141,7 @@
                                 </div>
                             </div>
                         </div>
-                   
+
                     </div>
 
                     <div class="col-lg-3">
@@ -159,7 +159,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
 
                     <div class="col-lg-3">
@@ -180,20 +180,20 @@
                     </div>
 
                     <div class="col-lg-3">
-                       <div class="pb-3">
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="assets/images/feature/office.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <div>
-                                    <h4>Offline Mode</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                        <div class="pb-3">
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="assets/images/feature/office.png" alt="">
+                                </div>
+                                <div class="col-8">
+                                    <div>
+                                        <h4>Offline Mode</h4>
+                                        <p>There are many variations
+                                            of passages of Lorem</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                       </div>
                     </div>
 
 
@@ -234,8 +234,11 @@
                             </div>
 
                         </div>
-                        <h5 class="section-top-head">Choose your</h5>
-                        <h2 class="section-head">Career Abroad</h2>
+                        <div class="heading-box">
+                            <h5 class="section-top-head">Choose your</h5>
+                            <h2 class="section-head">Career Abroad</h2>
+                        </div>
+
                         <p>
                             There are many variations of passages of Lorem Ipsum available, but the majority have
                             suffered
@@ -269,7 +272,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div>
+                        <div class="heading-box">
                             <h5 class="section-top-head">Courses</h5>
                             <h2 class="section-head">We provide</h2>
                         </div>
@@ -288,15 +291,45 @@
                             </p>
 
                             <ul class="course-feature-list">
-                                <li class="pb-2"> <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                    Suffered alteration in some
-                                    form</li>
-                                <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                    Have suffered alteration in
-                                    some things</li>
-                                <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                    Randomised words which don't
-                                    look even slightly</li>
+                                <li class="pb-2">
+
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        </div>
+                                        <div class="col-11">
+                                            Suffered alteration in some
+                                            form
+                                        </div>
+                                    </div>
+
+
+                                </li>
+                                <li class="pb-2">
+
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        </div>
+                                        <div class="col-11">
+                                            Have suffered alteration in
+                                            some things
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="pb-2">
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        </div>
+                                        <div class="col-11">
+                                            Randomised words which don't
+                                    look even slightly
+                                        </div>
+                                    </div>
+
+                                    
+                                    </li>
                             </ul>
 
                             <button class="primary-btn">read more</button>
@@ -397,7 +430,7 @@
 
 
                                 </div>
-                                <img src="assets/images/counselling/girl-index.png" alt="">
+                                <img class="img-fluid" src="assets/images/counselling/girl-index.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -416,7 +449,10 @@
                                 <form class="d-flex flex-column counselling-form" action="">
                                     <input type="text" placeholder="Enter Your Name">
                                     <input type="text" placeholder="Enter Email Address">
-                                    <button class="primary-btn">read more</button>
+                                    <div class="btn-box">
+                                        <button class="primary-btn">read more</button>
+                                    </div>
+
                                 </form>
 
 
@@ -438,9 +474,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 d-flex flex-column justify-content-center">
+                        <div class="heading-box">
+                            <h5 class="section-top-head">my mentor</h5>
+                            <h2 class="section-head">meet your <br> career instructor</h2>
+                        </div>
 
-                        <h5 class="section-top-head">my mentor</h5>
-                        <h2 class="section-head">meet your <br> career instructor</h2>
 
                         <p>
                             There are many variations of passages of Lorem Ipsum available, but the majority have
@@ -454,15 +492,50 @@
                         </p>
 
                         <ul class="course-feature-list">
-                            <li class="pb-2"> <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                Suffered alteration in some
-                                form</li>
-                            <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                Have suffered alteration in
-                                some things</li>
-                            <li class="pb-2"><img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
-                                Randomised words which don't
-                                look even slightly</li>
+                            <li class="pb-2">
+                                <div class="row">
+                                    <div class="col-1">
+
+                                        <img class="" src="assets/images/courses/list-icon.png" alt="">
+
+                                    </div>
+                                    <div class="col-11">
+                                        Suffered alteration in some
+                                        form
+                                    </div>
+                                </div>
+
+                            </li>
+                            <li class="pb-2">
+
+                                <div class="row">
+                                    <div class="col-1">
+
+                                        <img class="" src="assets/images/courses/list-icon.png" alt="">
+
+                                    </div>
+                                    <div class="col-11">
+                                        Have suffered alteration in
+                                        some things
+                                    </div>
+                                </div>
+
+
+                            </li>
+                            <li class="pb-2">
+
+                                <div class="row">
+                                    <div class="col-1">
+
+                                        <img class="" src="assets/images/courses/list-icon.png" alt="">
+
+                                    </div>
+                                    <div class="col-11">
+                                        Randomised words which don't
+                                        look even slightly
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
 
                         <button class="primary-btn">read more</button>
@@ -473,7 +546,7 @@
                     <div class="col-lg-6">
                         <div class="relative-box">
                             <img class="shape1" src="assets/images/mentor/shapes/shape1.png" alt="">
-                            <img class="img-fluid" src="assets/images/mentor/girl-index.png" alt="">
+                            <img class="img-fluid girl-shape" src="assets/images/mentor/girl-index.png" alt="">
                         </div>
 
                     </div>
@@ -490,8 +563,24 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div>
-                            <img class="img-fluid" src="assets/images/mentor/event.png" alt="">
+                        <div class="row ">
+
+                            <div class="col-lg-4 col-8 event-img1 relative-box">
+                                <div>
+                                    <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
+                                    <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
+                                    <img data-aos="fade-left" 
+                                    data-aos-duration="1500" src="assets/images/mentor/event2.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-8 col-8 event-img2 relative-box">
+                                <div>
+                                    <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
+                                    <img data-aos="fade-right" 
+                                    data-aos-duration="1500"  src="assets/images/mentor/event1.png" alt="">
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
                     <div class="col-lg-6 d-flex flex-column justify-content-center">
@@ -515,7 +604,7 @@
     <!-- education event end -->
 
     <!-- sports event -->
-    <section>
+    <!-- <section>
         <div class="sports">
             <div class="container">
                 <div class="row">
@@ -547,12 +636,12 @@
         </div>
 
 
-    </section>
+    </section> -->
     <!-- sports event end -->
 
     <!-- testimonials -->
 
-    <section>
+    <!-- <section>
         <div class="testimonial">
 
             <div class="text-center pb-3">
@@ -715,14 +804,14 @@
             </div>
         </div>
 
-    </section>
+    </section> -->
 
     <!-- testimonials end -->
 
 
     <!-- blog -->
-    
-    <section>
+
+    <!-- <section>
         <div class="blog">
             <div class="text-center pb-5">
                 <h5 class="section-top-head">blog</h5>
@@ -786,13 +875,13 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- blog end -->
 
 
     <!-- cta -->
-
+    <!-- 
     <section>
         <div class="cta">
             <div class="container">
@@ -865,11 +954,11 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
 
     <!-- cta end -->
 
-    <div class="footer-section">
+    <!-- <div class="footer-section">
         <div class="container">
             <div class="footer-news-letter">
 
@@ -942,7 +1031,7 @@
             Designed by <span>Mentegoz Technologies</span>
         </p>
 
-    </div>
+    </div> -->
 
 
 

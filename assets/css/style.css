@@ -22,6 +22,12 @@ section{
     padding: 50px 0 0 0;
 }
 
+.banner-section{
+    padding: 0px;
+}
+
+
+
 .primary-btn {
     color: var(--white-col);
     box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
@@ -477,6 +483,10 @@ section{
 }
 
 
+
+
+
+
 .flag {
     display: flex;
 }
@@ -717,19 +727,17 @@ section{
 
 /* mentor */
 
-.mentor {
-    padding: 50px 0;
-}
+
 
 .mentor .relative-box .shape1 {
     left: -7px;
     max-width: 123px;
     top: 176px;
     animation: diagonalMove 4s infinite linear;
+}
 
-
-
-
+.mentor .girl-shape {
+    padding: 90px;
 }
 
 /* event */
@@ -737,6 +745,34 @@ section{
 .event {
     padding: 50px 0;
 }
+
+.event-img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.event-img2{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.event .red-shape{
+    position: absolute;
+    right: 11px;
+}
+.event .black-shape{
+    bottom: 28%;
+    position: absolute;
+
+}
+
+.event .orange-shape{
+    position: absolute;
+    bottom: 20px;
+}
+
 
 /* sports */
 

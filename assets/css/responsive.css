@@ -4,11 +4,32 @@
     .blog-section {
         padding: 50px 30px;
     }
+
+
 }
+
+@media only screen and (min-width:999px) {
+    .career-partner {
+        left: 9px;
+        bottom: 182px;
+    }
+}
+
 
 
 /* pad */
 @media only screen and (max-width:999px) {
+
+    .heading-box {
+        padding: 40px 0px 10px 0px;
+    }
+
+    .primary-btn {
+        padding: 11px 1px;
+        width: 123px;
+        font-size: 14px;
+    }
+
     .get-in-touch-box {
         border-style: none;
         padding-left: 0;
@@ -201,9 +222,17 @@
 
     /* career */
 
-    .career-content{
+    .career-content {
         max-width: 100%;
+        padding-top: 7px;
     }
+
+    /* mentor */
+
+    .mentor .girl-shape {
+        padding: 13px;
+    }
+
 
     .footer-news-letter h3 {
         font-size: 22px;
@@ -300,9 +329,156 @@
         font-size: 14px;
     }
 
+    .relative-box .career-content .sm-shape3 {
+        right: 12px;
+        bottom: 154px;
+    }
+
+    .cta .contact-information .shape1 {
+        top: -43px;
+        right: 14px;
+    }
+
     .career-index {
         background-image: none;
     }
 
+    .relative-box .shape1 {
+        display: none;
+    }
+
+    .relative-box .shape2 {
+        display: none;
+    }
+
+    .flag img {
+        max-width: 40px;
+    }
+
+    .section-top-head {
+        font-size: 15px;
+    }
+
+    .section-head {
+        font-size: 24px;
+    }
+
+    .career-content p {
+        font-size: 14px;
+    }
+
+    .relative-box .career-content .sm-shape3 {
+        display: none;
+    }
+
+    .relative-box .career-content .sm-shape2 {
+        display: none;
+    }
+
+    .relative-box .career-content .sm-shape3 {
+        display: none;
+    }
+
+    /* courses */
+
+    .courses {
+        padding: 0;
+    }
+
+    .courses .sm-shape2 {
+        right: 36%;
+        top: 160px;
+    }
+
+    .courses .sm-shape1 {
+        right: 82px;
+        top: 4px;
+    }
+
+    .courses .sm-shape3 {
+        right: 43px;
+        bottom: 125px;
+    }
+
+    .courses .right {
+        padding: 50px 0px 20px 0px;
+    }
+
+    .course-carousel-box {
+        padding: 34px 0px 0px 0px;
+    }
+
+    .counselling .white-shape2 {
+        display: none;
+    }
+
+    .counselling .right .white-shape4 {
+        display: none;
+    }
+
+    .counselling .white-shape1 {
+        display: none;
+    }
+
+
+    .counselling .white-shape3 {
+        display: none;
+    }
+
+
+
+    .banner-section {
+        padding: 0px;
+    }
+
+    .counselling .content-box {
+        height: 145vh;
+    }
+
+    .counselling .content-box .white-shape5 {
+        display: none; 
+    }
+
+    .section-top-head-white {
+        font-size: 15px;
+    }
+
+    .section-head-white {
+        font-size: 24px;
+    }
+
+    .content-box p {
+        width: 100%;
+    }
+
+    .counselling-form input {
+        width: 100%;
+    }
+
+    .career-partner h5 {
+        font-size: 14px;
+    }
+
+    .right .btn-box{
+        text-align: center;
+    }
+
+    .mentor .relative-box .shape1 {
+        left: -7px;
+        max-width: 120px;
+        top: 285px;
+    }
+
+    /* mentor */
+
+    .mentor .girl-shape {
+        padding: 13px;
+    }
+
+    .event-img2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
 }
