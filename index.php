@@ -5,18 +5,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EduMetaFis</title>
+
     <!-- bootstrap css -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- fontawesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- aos -->
+    <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
+
+
     <!-- owl carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css"
         integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-    <!-- aos -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-
     <!-- style -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
@@ -50,10 +52,10 @@
                         <a class="nav-link" href="#">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="blog.php">Blogs</a>
+                        <a class="nav-link" href="blog">Blogs</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact Us</a>
+                        <a class="nav-link" href="contact">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -62,16 +64,52 @@
     </nav>
     <!-- navbar end -->
 
-
     <!-- Banner Start -->
-    <section class="banner-section">
-        <div class="banner bg-warning">
+    <!-- <section id="banner">
+        <div class="banner-slider owl-carousel">
+            <div class="banner-item banner-item-1">
+                <video class="video-bg" autoplay muted loop>
+                    <source src="assets/images/banner/video1.mp4" type="video/mp4">
+                </video>
+                <div class="container">
+                    <div class="banner-content">
+
+                        <h1> Your <span>Top Best</span></h1>
+
+
+                        <h1>Study Partner</h1>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        <a href="#" class="banner-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-item banner-item-2">
+                <video class="video-bg" autoplay muted loop>
+                    <source src="assets/images/banner/video2.mp4" type="video/mp4">
+                </video>
+                <div class="container">
+                    <div class="banner-content">
+
+                        <h1> Your <span>Top Best</span></h1>
+
+                        <h1>Study Partner</h1>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        <a href="#" class="banner-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
-    <!-- Banner Start -->
 
+        <h1>
+            sdjkfdsf
+        </h1>
+    </section> -->
+    <!-- Banner Start -->
 
     <!-- about -->
+
     <!-- <section>
         <div class="about container">
             <div class="row">
@@ -118,10 +156,13 @@
             </div>
         </div>
     </section> -->
+
+
     <!-- about end-->
 
     <!-- feature -->
-    <section>
+
+    <!-- <section>
         <div class="container-fluid">
             <div class="feature">
                 <div class="row">
@@ -200,11 +241,13 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
     <!-- feature end -->
 
     <!-- career -->
-    <section>
+    <!-- <section>
         <div class="career-index">
 
 
@@ -252,11 +295,11 @@
             </div>
 
         </div>
-    </section>
+    </section> -->
     <!-- career end -->
 
     <!-- courses -->
-    <section>
+    <!-- <section>
         <div class="courses">
             <div class="container">
                 <div class="row">
@@ -324,12 +367,12 @@
                                         </div>
                                         <div class="col-11">
                                             Randomised words which don't
-                                    look even slightly
+                                            look even slightly
                                         </div>
                                     </div>
 
-                                    
-                                    </li>
+
+                                </li>
                             </ul>
 
                             <button class="primary-btn">read more</button>
@@ -388,11 +431,11 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- course end -->
 
     <!-- student counselling -->
-    <section>
+    <!-- <section>
         <div class="counselling">
             <div class="text-center">
                 <h5 class="section-top-head">student</h5>
@@ -465,11 +508,13 @@
 
         </div>
 
-    </section>
+    </section> -->
     <!-- student counselling end -->
 
     <!-- mentor -->
-    <section>
+
+
+    <!-- <section>
         <div class="mentor">
             <div class="container">
                 <div class="row">
@@ -478,26 +523,20 @@
                             <h5 class="section-top-head">my mentor</h5>
                             <h2 class="section-head">meet your <br> career instructor</h2>
                         </div>
-
-
                         <p>
                             There are many variations of passages of Lorem Ipsum available, but the majority have
                             suffered alteration in some form, by injected humour, or randomised words which don't look
                         </p>
-
                         <p>
                             There are many variations of passages of Lorem Ipsum available, but the majority have
                             suffered alteration in some form, by injected humour, or randomised words which don't look
                             even slightly believable. If you are going to use a passage.
                         </p>
-
                         <ul class="course-feature-list">
                             <li class="pb-2">
                                 <div class="row">
                                     <div class="col-1">
-
                                         <img class="" src="assets/images/courses/list-icon.png" alt="">
-
                                     </div>
                                     <div class="col-11">
                                         Suffered alteration in some
@@ -507,7 +546,6 @@
 
                             </li>
                             <li class="pb-2">
-
                                 <div class="row">
                                     <div class="col-1">
 
@@ -519,16 +557,12 @@
                                         some things
                                     </div>
                                 </div>
-
-
                             </li>
                             <li class="pb-2">
 
                                 <div class="row">
                                     <div class="col-1">
-
                                         <img class="" src="assets/images/courses/list-icon.png" alt="">
-
                                     </div>
                                     <div class="col-11">
                                         Randomised words which don't
@@ -537,53 +571,51 @@
                                 </div>
                             </li>
                         </ul>
-
                         <button class="primary-btn">read more</button>
-
-
-
                     </div>
                     <div class="col-lg-6">
                         <div class="relative-box">
                             <img class="shape1" src="assets/images/mentor/shapes/shape1.png" alt="">
                             <img class="img-fluid girl-shape" src="assets/images/mentor/girl-index.png" alt="">
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
+    </section> -->
 
-    </section>
+
     <!-- mentor end -->
 
     <!-- education event -->
+
+
     <section>
         <div class="event">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-md-6 order-lg-0 order-1">
                         <div class="row ">
 
                             <div class="col-lg-4 col-8 event-img1 relative-box">
                                 <div>
                                     <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
                                     <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
-                                    <img data-aos="fade-left" 
-                                    data-aos-duration="1500" src="assets/images/mentor/event2.png" alt="">
+                                    <img class="img-fluid" data-aos="fade-left" data-aos-duration="1500"
+                                        src="assets/images/mentor/event2.png" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-8 event-img2 relative-box">
                                 <div>
                                     <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
-                                    <img data-aos="fade-right" 
-                                    data-aos-duration="1500"  src="assets/images/mentor/event1.png" alt="">
+                                    <img class="img-fluid" data-aos="fade-right" data-aos-duration="1500"
+                                        src="assets/images/mentor/event1.png" alt="">
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
-                    <div class="col-lg-6 d-flex flex-column justify-content-center">
+                    <div class="col-lg-6 col-md-6 d-flex flex-column justify-content-center order-lg-0 order-0">
                         <h5 class="section-top-head">events</h5>
                         <h2 class="section-head">education events</h2>
 
@@ -598,17 +630,18 @@
                 </div>
             </div>
         </div>
-
-
     </section>
+
+
     <!-- education event end -->
 
     <!-- sports event -->
-    <!-- <section>
+
+    <section>
         <div class="sports">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 d-flex flex-column justify-content-center">
+                    <div class="col-lg-6 col-md-6 d-flex flex-column justify-content-center">
                         <h5 class="section-top-head">sports</h5>
                         <h2 class="section-head">sports events</h2>
 
@@ -620,28 +653,45 @@
 
                         <button class="primary-btn">read more</button>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="row">
+                            <div class="col-lg-8 sports-img1 relative-box">
+                                <div>
 
-                    <div>
-                        <img src="" alt="">
-                    </div>
+                                    <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
 
+                                    <img class="img-fluid" data-aos="fade-left" data-aos-duration="1500"
+                                        src="assets/images/mentor/sports1.png" alt="">
+
+                                </div>
+
+                            </div>
+                            <div class="col-lg-4 sports-img2 relative-box">
+                                <div>
+                                    <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
+                                    <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
+
+
+                                    <img class="img-fluid" data-aos="fade-right" data-aos-duration="1500"
+                                        src="assets/images/mentor/sports2.png" alt="">
+                                </div>
+
+
+                            </div>
                         </div>
-
-
 
                     </div>
                 </div>
             </div>
         </div>
+        </div>
+    </section>
 
-
-    </section> -->
     <!-- sports event end -->
 
     <!-- testimonials -->
 
-    <!-- <section>
+    <section>
         <div class="testimonial">
 
             <div class="text-center pb-3">
@@ -804,14 +854,16 @@
             </div>
         </div>
 
-    </section> -->
+    </section>
 
     <!-- testimonials end -->
 
 
     <!-- blog -->
 
-    <!-- <section>
+    
+
+    <section>
         <div class="blog">
             <div class="text-center pb-5">
                 <h5 class="section-top-head">blog</h5>
@@ -819,10 +871,13 @@
             </div>
 
             <div class="container">
-                <div class="row">
+                <div class="row g-4">
                     <div class="col-lg-4">
                         <div class="card blog-card">
-                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <div class="relative-box">
+                                <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                                <span></span>
+                            </div>
                             <div class="card-body">
                                 <h5 class="card-title">Lorem Ipsum</h5>
                                 <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
@@ -839,7 +894,12 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="card blog-card">
-                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+
+                            <div class="relative-box">
+                                <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                                <span></span>
+                            </div>
+                           
                             <div class="card-body">
                                 <h5 class="card-title">Lorem Ipsum</h5>
                                 <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
@@ -856,7 +916,10 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="card blog-card">
-                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <div class="relative-box">
+                                <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                                <span></span>
+                            </div>
                             <div class="card-body">
                                 <h5 class="card-title">Lorem Ipsum</h5>
                                 <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
@@ -872,16 +935,19 @@
                         </div>
                     </div>
                 </div>
-            </div>
 
+                <div class="text-center mt-4">
+                    <button class="primary-btn">More Blogs</button>
+                </div>
+            </div>
         </div>
-    </section> -->
+    </section>
 
     <!-- blog end -->
 
 
     <!-- cta -->
-    <!-- 
+
     <section>
         <div class="cta">
             <div class="container">
@@ -902,7 +968,7 @@
                             </form>
                         </div>
                     </div>
-                    <div class="col-lg-6 d-">
+                    <div class="col-lg-6">
                         <div class="contact-information">
                             <img class="shape1" src="assets/images/contact/shape1.png" alt="">
                             <img class="shape2" src="assets/images/contact/shape2.png" alt="">
@@ -954,11 +1020,11 @@
             </div>
 
         </div>
-    </section> -->
+    </section>
 
     <!-- cta end -->
 
-    <!-- <div class="footer-section">
+    <div class="footer-section">
         <div class="container">
             <div class="footer-news-letter">
 
@@ -1024,7 +1090,7 @@
 
     </div>
 
-    <div>
+    <!-- <div>
 
         <p class="copyrigt-text">Copyright ©
             <script>document.write(new Date().getFullYear())</script> <span> Edumetafis. </span>All Rights Reserved |
@@ -1050,14 +1116,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
         integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="assets/javascript/script.js"></script>
 
+        
     <!-- aos -->
 
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> -->
 
     <!-- script -->
-
-    <script src="assets/javascript/script.js"></script>
 
 
 

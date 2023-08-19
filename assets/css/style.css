@@ -1,6 +1,14 @@
 /* poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+
+
+@font-face {
+    font-family: 'CristianoSignature';
+    src: url('../fonts/cristianosignature-ezlwn.otf') format('opentype');
+
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -18,13 +26,11 @@
 
 }
 
+
 section{
     padding: 50px 0 0 0;
 }
 
-.banner-section{
-    padding: 0px;
-}
 
 
 
@@ -97,6 +103,116 @@ section{
 
 .edumetfis-navbar .nav-item .nav-link.active {
     font-weight: 600;
+}
+
+
+/* banner */
+
+
+
+#banner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    padding: 0px;
+    overflow: hidden;
+}
+
+#banner .banner-slider {
+    width: 100%;
+    height: 100%;
+}
+
+#banner .banner-item {
+    height: 85vh;
+    display: flex;
+    align-items: center;
+
+}
+
+#banner .top-best {
+    max-width: 210px;
+}
+
+#banner .banner-item-1 {
+    width: 100%;
+    background: url('../img/Banner/banner-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#banner .banner-item-2 {
+    width: 100%;
+    background: url('../img/Banner/banner-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+
+#banner .banner-item-3 {
+    width: 100%;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.5690651260504201) 26%, rgba(0, 0, 0, 0) 59%);
+
+}
+
+#banner .video-bg {
+    object-fit: cover;
+    height: 85vh;
+    width: 100vw !important;
+    position: absolute;
+    z-index: -1;
+     overflow: hidden;
+}
+
+#banner .banner-item .banner-content {
+    display: flex;
+    flex-direction: column;
+    color: #fff !important;
+    gap: 20px;
+}
+
+#banner .banner-item .banner-content h1 {
+    color: #fff !important;
+    font-size: 60px;
+}
+
+#banner .banner-item .banner-content h1 span {
+    font-family: 'CristianoSignature', sans-serif;
+    font-size: 32px;
+}
+
+
+
+#banner .banner-item .banner-content p {
+    width: 40%;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.banner-btn {
+    padding: 10px 60px;
+    border: 3px solid #fff;
+    border-radius: 40px;
+    width: fit-content;
+    text-decoration: none;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    transition: .3s ease;
+}
+
+.banner-btn:hover {
+    background: #e86017;
+    border-color: #e86017;
+}
+
+#banner .banner-slider .owl-dots {
+    position: absolute;
+    left: 50%;
+    bottom: 2%;
 }
 
 
@@ -780,11 +896,39 @@ section{
     padding: 50px 0;
 }
 
+.sports .sports-img1{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.sports .sports-img2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sports .orange-shape{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.sports .red-shape{
+    position: absolute;
+    top: 22%;
+}
+
+.sports .black-shape{
+    position: absolute;
+    right: 12px;
+    bottom: 27%;
+}
+
+
 /* testimonial */
 
-.testimonial{
-    padding: 50px 0;
-}
 
 .testimonial-box {
     padding: 47px;
@@ -855,8 +999,21 @@ section{
 }
 
 
-.blog {
-    padding: 50px 0;
+
+
+
+.blog .relative-box span{
+    position: absolute;
+    left: 0;
+    bottom: -40px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 78px;
+    transform: skewY(5deg);
+}
+
+.blog .relative-box{
+    overflow: hidden;
 }
 
 .blog-card {

@@ -1,273 +1,116 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css"
-    integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+
+
+        .first-text {
+            animation: showup 7s infinite;
+        }
+
+        .second-text {
+            width: 0px;
+            animation: reveal 7s infinite;
+        }
+
+        .second-text span {
+            margin-left: -355px;
+            animation: slidein 7s infinite;
+        }
+
+        @keyframes showup {
+            0% {
+                opacity: 0;
+            }
+
+            20% {
+                opacity: 1;
+            }
+
+            80% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0;
+            }
+        }
+
+        @keyframes slidein {
+            0% {
+                margin-left: -800px;
+            }
+
+            20% {
+                margin-left: -800px;
+            }
+
+            35% {
+                margin-left: 0px;
+            }
+
+            100% {
+                margin-left: 0px;
+            }
+        }
+
+        @keyframes reveal {
+            0% {
+                opacity: 0;
+                width: 0px;
+            }
+
+            20% {
+                opacity: 1;
+                width: 0px;
+            }
+
+            30% {
+                width: 355px;
+            }
+
+            80% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0;
+                width: 355px;
+            }
+        }
+    </style>
+
+    <div class="d-flex">
+        <div class="first-text">Escape</div>
+        <div class="second-text">
+            <span>into amazing experiences</span>
+        </div>
+    </div>
+
 
 
     <style>
-        
-/* TESTIMONIAL */
-
-.testimonialArrow {
-	width: 0; 
-	height: 0; 
-	border-left: 20px solid transparent;
-	border-right: 20px solid transparent;
-	border-top: 20px solid #FFFFFF; 
-    margin-left: 50%;
-}
-.testimonial{
-    background-color: #F2F7FF;
-}
-.testimonial-card{
-    background-color: #FFFFFF;
-    border-radius: 10px;
-}
-.testimonial-head{
-    font-family: 'Poppins', sans-serif;
-}
-.testimonial-subhead{
-    font-family: 'Poppins', sans-serif;
-}
-
-
-#testimonial .owl-prev{
-    position: absolute;
-    top: 21%;
-    left: -70px;
-}
-
-
-#testimonial .owl-next{
-    position: absolute;
-    top: 21%;
-    right : -70px;
-
-}
-
-
-.auther{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.auther-name{
-    font-family: 'Inter', sans-serif;
-    font-weight: 900 !important;
-    color: #151617;
-    font-size: 18px;
-}
-
-.auther-designation{
-    font-family: 'Inter';
-    font-weight: 400;
-    font-size: 14px;
-    
-}
-
+        #triangle-bottomleft {
+            width: 0;
+            height: 0;
+            border-bottom: 100% solid red;
+            border-right: 100% solid transparent;
+        }
     </style>
 
 
-<!-- TESTIMONIAL -->
-
-<section class="testimonial">
-    <div class="text-center py-5">
-        <h2 class="count-value">Clients Testimonial</h2>
-    </div>
-
-
-    <div class="container">
-        <div class="row">
-            <div class="owl-carousel" id="testimonial">
-                <div class="item">
-                    <div class="text-center testimonial-card p-lg-5 p-3 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="item">
-                    <div class="text-center testimonial-card p-3 p-lg-5 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text-center testimonial-card p-3 p-lg-5 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text-center testimonial-card p-3 p-lg-5 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text-center testimonial-card p-3 p-lg-5 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text-center testimonial-card p-3 p-lg-5 shadow-sm">
-                        <h4 class="testimonial-head">Incredible Experience</h4>
-                        <h6 class="testimonial-subhead">We had an incredible experience working with Landify and
-                            were
-                            impressed they made such a big difference in only three weeks. Our team is so grateful
-                            for
-                            the wonderful improvements they made and their ability to get familiar with the concept
-                            so
-                            quickly.</h6>
-                    </div>
-                    <div class="testimonialArrow"></div>
-                    <div class="auther">
-                        <div class="row">
-                            <div class="col-4">
-                                <img class="" src="assets/image/testimonial.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h4 class="auther-name">Anya Tailor Joy</h4>
-                                <h6 class="auther-designation">CEO, SF Industires</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div id="triangle-bottomleft">
 
     </div>
+</body>
 
-</section>
-
-
-
-
-
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
-    integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
-    integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script>
-    $(document).ready(function () {
-        $("#testimonial").owlCarousel({
-            loop: true,
-            // autoplay:true,
-            margin: 10,
-            nav: true,
-            navText: [
-                '<i class="fa fa-thin fa-arrow-left fa-2x"></i>',
-                '<i class="fa fa-thin fa-arrow-right fa-2x"></i>'
-            ],
-            responsive: {
-                0: {
-                    items: 1,
-                    nav: false,
-                },
-                600: {
-                    items: 2,
-                    nav: false,
-                },
-                1000: {
-                    items: 2
-                }
-            }
-        });
-    });
-</script>
+</html>

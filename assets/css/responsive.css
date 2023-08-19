@@ -17,8 +17,16 @@
 
 
 
-/* pad */
+/* tab */
 @media only screen and (max-width:999px) {
+
+    /* cta */
+
+    .cta .contact-information {
+        margin-top: 35px;
+    }
+
+
 
     .heading-box {
         padding: 40px 0px 10px 0px;
@@ -71,6 +79,13 @@
         height: 340px;
     }
 
+
+    .blog .relative-box span {
+        bottom: -62px;
+        height: 83px;
+    }
+
+
     .related-blogs-btm {
         padding: 0px;
     }
@@ -106,6 +121,28 @@
     .career-section .career-box .left-section p {
         font-size: 14px;
     }
+
+    /* footer */
+    .footer-news-letter .footer-shape2 {
+        position: absolute;
+        right: 77%;
+        bottom: -41px;
+    }
+
+    #testimonial-carousel .item {
+        padding: 40px 0 0;
+    }
+
+    #testimonial-carousel .item .person {
+        max-width: 71px;
+        right: 43px;
+        top: 7px;
+    }
+
+    .sports .sports-img2 {
+        display: none;
+    }
+    
 
 }
 
@@ -175,9 +212,6 @@
         margin-bottom: -8px;
     }
 
-
-
-
     /* about */
 
     .about .img-box {
@@ -233,6 +267,12 @@
         padding: 13px;
     }
 
+    .sports .sports-img1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
 
     .footer-news-letter h3 {
         font-size: 22px;
@@ -251,7 +291,7 @@
 
     .footer-news-letter {
         padding: 40px 20px;
-        background-color: #007CB9;
+        background-color: #ffffff;
         border-radius: 20px;
         margin-bottom: 40px;
     }
@@ -266,6 +306,42 @@
     .footer-section {
         padding: 60px 10px 10px;
     }
+
+    .footer-news-letter .footer-shape1 {
+        display: none;
+    }
+
+    .footer-news-letter .footer-shape2 {
+        display: none;
+    }
+
+    .footer-news-letter .footer-shape3 {
+        display: none;
+    }
+
+    .footer-news-letter h3 span {
+        font-size: 25px;
+    }
+
+    .footer-news-letter h3 {
+        font-size: 15px;
+    }
+
+    .footer-news-letter .input-box input {
+        width: 100%;
+        padding: 0px 2px;
+    }
+
+    .footer-news-letter .input-box div {
+        padding: 3px;
+    }
+
+    .footer-news-letter p {
+        margin-top: 6px;
+        font-size: 14px;
+    }
+
+    
 
     .copyrigt-text {
         font-size: 14px;
@@ -335,8 +411,19 @@
     }
 
     .cta .contact-information .shape1 {
-        top: -43px;
-        right: 14px;
+        top: -13px;
+        right: 30px;
+        max-width: 51px;
+    }
+
+    .cta .contact-information .shape2 {
+        top: -23px;
+        max-width: 44px;
+        right: 69px;
+    }
+
+    .cta .contact-information {
+        margin-top: 35px;
     }
 
     .career-index {
@@ -436,7 +523,7 @@
     }
 
     .counselling .content-box .white-shape5 {
-        display: none; 
+        display: none;
     }
 
     .section-top-head-white {
@@ -459,7 +546,7 @@
         font-size: 14px;
     }
 
-    .right .btn-box{
+    .right .btn-box {
         text-align: center;
     }
 
@@ -476,9 +563,56 @@
     }
 
     .event-img2 {
+        display: none;
+    }
+
+    .event .red-shape{
+        display: none;
+    }
+    .event .black-shape{
+        display: none;
+    }
+    
+    .event .orange-shape{
+        display: none;
+    }
+
+    .sports .sports-img1 {
         display: flex;
         justify-content: center;
         align-items: center;
     }
+
+    .sports .sports-img2 {
+        display: none;
+    }
+    
+
+
+    /* sports */
+
+    .sports .orange-shape {
+      display: none;
+    }
+
+    .sports .red-shape {
+        display: none;
+    }
+
+    .sports .black-shape {
+        display: none;
+    }
+
+    /* testimonial */
+
+    #testimonial-carousel .item {
+        padding: 40px 0 0;
+    }
+    #testimonial-carousel .item .person {
+        max-width: 71px;
+        right: 43px;
+        top: 7px;
+    }
+
 
 }

@@ -1,6 +1,39 @@
 // aos
 
-AOS.init();
+// AOS.init();
+
+
+// banner
+
+$(document).ready(function () {
+    $('.banner-slider').owlCarousel({
+        loop: true,
+        // margin:10,
+        // nav:true,
+        // dots:true,
+        // autoplay: true,
+        autoplayTimeout: 30000,
+        autoplayHoverPause: false,
+        items: 2.5,
+        // navText: ["<i class='fa-solid fa-chevron-left'></i>", "<i class='fa-solid fa-chevron-right'></i>"],
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1,
+                dots: true
+            },
+            1300: {
+                items: 1
+            },
+            1500: {
+                items: 1
+            }
+        }
+    })
+});
+
 
 // course carousel
 
@@ -37,11 +70,11 @@ jQuery("#courseIndexCarousel").owlCarousel({
 });
 
 
-// course carousel
+// testimonial carousel
 $(document).ready(function () {
     $("#testimonial-carousel").owlCarousel({
         loop: true,
-        // autoplay:true,
+        autoplay:true,
         margin: 10,
         nav: true,
         navText: [
@@ -63,4 +96,6 @@ $(document).ready(function () {
         }
     });
 });
+
+
 
