@@ -11,9 +11,11 @@ $(document).ready(function () {
         // margin:10,
         // nav:true,
         // dots:true,
-        // autoplay: true,
-        autoplayTimeout: 30000,
+        autoplay: true,
+        autoplayTimeout: 4000,
         autoplayHoverPause: false,
+        animateOut: 'fadeOut',
+        animateIn: 'fadeIn',
         items: 2.5,
         // navText: ["<i class='fa-solid fa-chevron-left'></i>", "<i class='fa-solid fa-chevron-right'></i>"],
         responsive: {
@@ -38,7 +40,7 @@ $(document).ready(function () {
 // course carousel
 
 jQuery("#courseIndexCarousel").owlCarousel({
-    // autoplay: true,
+    autoplay: true,
     rewind: true, /* use rewind if you don't want loop */
     margin: 20,
     /*  center:true,   make center the div*/
@@ -96,6 +98,5 @@ $(document).ready(function () {
         }
     });
 });
-
 
 

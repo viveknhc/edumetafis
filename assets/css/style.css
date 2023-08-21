@@ -532,6 +532,14 @@ section{
     ;
 }
 
+.feature img{
+    transition: all .3s ease-in-out;
+}
+
+.feature img:hover{
+    transform: scale(1.2);
+}
+
 
 /* career */
 
@@ -686,6 +694,21 @@ section{
 .course-carousel-box .owl-nav button:focus {
     outline: none;
 }
+
+
+
+.owl-carousel .owl-item img{
+    transition: all .3s ease-in-out;
+}
+
+.owl-carousel .owl-item img:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
 
 .course-carousel-box .item {
     position: relative;
@@ -1057,7 +1080,14 @@ section{
 
 .blog-card img{
     border-radius: 27px 27px 0 0;
+    transition: all .3s ease-in-out;
 }
+
+.blog-card img:hover{
+    transform: scale(1.1);
+}
+
+
 
 .blog-card .card-text {
     font-size: 14px;
@@ -1346,7 +1376,7 @@ section{
 /* blog page */
 
 .blog-section {
-    padding: 100px 20%;
+    padding: 100px;
 }
 
 .edumetafis-blog-card {
@@ -1547,6 +1577,21 @@ section{
     text-decoration: none;
     color: var(--black-col);
 }
+
+
+
+
+
+/* =========== ABOUT PAGE */
+
+
+.pg-about .about2{
+    position: absolute;
+    left: -182px;
+    top: -11px;
+    animation: diagonalMove 3s linear infinite ;
+}
+
 
 
 

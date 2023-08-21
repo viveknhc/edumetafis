@@ -111,6 +111,65 @@
     <div id="triangle-bottomleft">
 
     </div>
+
+
+
+    <button class="full-rounded">
+        <span>Hover me</span>
+        <div class="border full-rounded"></div>
+    </button>
+
+
+    <button class="primary-btn"><span>Hover me</span>
+        <div class="border full-rounded"></div>
+    </button>
+
+    <style>
+        .primary-btn {
+            color: var(--white-col);
+            box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
+            border-radius: 40px;
+            padding: 10px 30px;
+            border: none;
+            text-transform: uppercase;
+            background-image: linear-gradient(var(--gradient-button));
+            width: 170px;
+            font-weight: 700;
+
+            position: relative;
+            margin: auto;
+            transition: all 0.1s linear;
+        }
+
+        .primary-btn:active {
+            transform: scale(0.95);
+        }
+
+        .primary-btn span {
+            color: #464646;
+        }
+
+        .primary-btn .border {
+            position: absolute;
+            border: 0.15em solid #000000;
+            transition: all 0.3s 0.08s linear;
+            top: 50%;
+            left: 50%;
+            width: 170px;
+            height: 3em;
+            transform: translate(-50%, -50%);
+        }
+
+        .primary-btn:hover .border {
+            display: block;
+            width: 9.9em;
+            height: 3.7em;
+        }
+
+        .full-rounded {
+            border-radius: 2em;
+        }
+    </style>
 </body>
 
 </html>

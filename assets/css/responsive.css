@@ -20,7 +20,60 @@
 /* tab */
 @media only screen and (max-width:999px) {
 
+
+    /* about */
+
+    /* .about .img-box .about-img1 {
+  
+    }
+ 
+
+    .about .img-box .about-shape1 {
+        display: none;
+    }
+
+    .about .img-box {
+        height: 95vh;
+    }
+
+        */
+
+    /* career */
+
+    .relative-box .shape2 {
+        left: 134px;
+        top: 12px;
+    }
+    .relative-box .shape1 {
+        left: 94px;
+        top: 7px;
+    }
+
+    .career-content {
+        max-width: 65%;
+    }
+
     /* cta */
+
+    .counselling .right .white-shape4 {
+        position: absolute;
+        top: 0px;
+        right: 0;
+        max-width: 36px;
+        }
+
+
+    .counselling .content-box .white-shape5 {
+        display: none;
+    }
+
+    .content-box p {
+        width: 100%;
+    }
+
+    .counselling-form input {
+        width: 100%;
+    }
 
     .cta .contact-information {
         margin-top: 35px;
@@ -147,8 +200,34 @@
 }
 
 
-/* mobile */
+/* ==========MOBILE============= */
+
+
 @media only screen and (max-width:767px) {
+
+
+    /* banner */
+
+    #banner .banner-item .banner-content {
+        gap: 3px;
+    }
+
+    #banner .banner-item .banner-content p {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    #banner .banner-item .banner-content h1 {
+        font-size: 32px;
+    }
+
+    #banner .banner-item .banner-content h1 span {
+        font-size: 20px;
+    }
+    .banner-btn {
+        padding: 4px 15px;
+    }
+
     .pg-banner {
         min-height: 220px;
         padding-top: 70px;
@@ -612,6 +691,17 @@
         max-width: 71px;
         right: 43px;
         top: 7px;
+    }
+
+    /* ABOUT PAGE */
+
+    .pg-about {
+        overflow-x: hidden;
+    }
+
+    .pg-about .about2 {
+        left: 23px;
+        top: -115px;
     }
 
 
