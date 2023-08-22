@@ -1,175 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
+<style>
+    html {
+        background-color: #28505D;
+    }
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+    svg {
+        width: 800px;
+        height: 600px;
+    }
 
-<body>
-    <style>
-        @import url('https://fonts.googleapis.com/css?family=Roboto:300');
+    #spaceship {
+        transform: translateY(11px) rotate(180deg);
+    }
+</style>
 
+<svg viewBox="0 0 284.5 362.5">
+    <g id="svg-doc">
 
+        <path id="dottedpath" fill="none" stroke="#FFF" stroke-width="3" stroke-miterlimit="10"
+            d="M209.833 195.513c-17.085-1.122-58.39-2.184-94.537 9.785-13.627 4.512-28.945 7.1-43.084 3.492-60.386-15.41.68-94.015 28.278-55.553 17.84 24.868 17.506 63.215-12.228 84.158-14.99 9.958-33.146 8.858-49.114 1.945-11.19-4.846-28.903-14.976-35.59-27"
+            stroke-linecap="round" stroke-dasharray="1.993 6.976"></path>
 
-        .first-text {
-            animation: showup 7s infinite;
-        }
+        <g id="spaceship">
 
-        .second-text {
-            width: 0px;
-            animation: reveal 7s infinite;
-        }
+            <g id="plane">
 
-        .second-text span {
-            margin-left: -355px;
-            animation: slidein 7s infinite;
-        }
+                <path fill="#FFF" stroke="#393027" stroke-width="2" stroke-miterlimit="10"
+                    d="M1.758 11.046l47.598 10.93L58.272 1.69z" stroke-linecap="round" stroke-linejoin="round"></path>
 
-        @keyframes showup {
-            0% {
-                opacity: 0;
-            }
+                <path fill="#FFF" stroke="#393027" stroke-width="2" stroke-miterlimit="10"
+                    d="M1.38 11.086l46.005 34.307 1.97-23.418z" stroke-linecap="round" stroke-linejoin="round"></path>
 
-            20% {
-                opacity: 1;
-            }
+                <path fill="#FFF" stroke="#3A3128" stroke-width="2" stroke-miterlimit="10"
+                    d="M49.615 21.527l5.382 8.716-5.81-1.483z" stroke-linecap="round" stroke-linejoin="round"></path>
 
-            80% {
-                opacity: 1;
-            }
+                <path fill="#3A3128"
+                    d="M22.252 21.247c-.237.145-.533.198-.827.125l-1.37-.333c-.587-.15-.945-.74-.803-1.33.144-.59.736-.95 1.324-.81l1.367.33c.588.14.95.73.805 1.32-.07.29-.256.53-.496.67zm22.513 4.71c-.07.293-.255.527-.493.675-.24.143-.535.198-.827.128L25.64 22.405c-.59-.142-.946-.737-.803-1.325.143-.588.736-.946 1.322-.804l17.8 4.354c.59.147.94.74.8 1.326z">
+                </path>
 
-            100% {
-                opacity: 0;
-            }
-        }
+                <animateMotion xlink:href="#spaceship" dur="5s" repeatCount="indefinite" rotate="auto">
+                    <mpath xlink:href="#dottedpath" />
+                </animateMotion>
+            </g>
 
-        @keyframes slidein {
-            0% {
-                margin-left: -800px;
-            }
+        </g>
 
-            20% {
-                margin-left: -800px;
-            }
-
-            35% {
-                margin-left: 0px;
-            }
-
-            100% {
-                margin-left: 0px;
-            }
-        }
-
-        @keyframes reveal {
-            0% {
-                opacity: 0;
-                width: 0px;
-            }
-
-            20% {
-                opacity: 1;
-                width: 0px;
-            }
-
-            30% {
-                width: 355px;
-            }
-
-            80% {
-                opacity: 1;
-            }
-
-            100% {
-                opacity: 0;
-                width: 355px;
-            }
-        }
-    </style>
-
-    <div class="d-flex">
-        <div class="first-text">Escape</div>
-        <div class="second-text">
-            <span>into amazing experiences</span>
-        </div>
-    </div>
-
-
-
-    <style>
-        #triangle-bottomleft {
-            width: 0;
-            height: 0;
-            border-bottom: 100% solid red;
-            border-right: 100% solid transparent;
-        }
-    </style>
-
-
-    <div id="triangle-bottomleft">
-
-    </div>
-
-
-
-    <button class="full-rounded">
-        <span>Hover me</span>
-        <div class="border full-rounded"></div>
-    </button>
-
-
-    <button class="primary-btn"><span>Hover me</span>
-        <div class="border full-rounded"></div>
-    </button>
-
-    <style>
-        .primary-btn {
-            color: var(--white-col);
-            box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
-            border-radius: 40px;
-            padding: 10px 30px;
-            border: none;
-            text-transform: uppercase;
-            background-image: linear-gradient(var(--gradient-button));
-            width: 170px;
-            font-weight: 700;
-
-            position: relative;
-            margin: auto;
-            transition: all 0.1s linear;
-        }
-
-        .primary-btn:active {
-            transform: scale(0.95);
-        }
-
-        .primary-btn span {
-            color: #464646;
-        }
-
-        .primary-btn .border {
-            position: absolute;
-            border: 0.15em solid #000000;
-            transition: all 0.3s 0.08s linear;
-            top: 50%;
-            left: 50%;
-            width: 170px;
-            height: 3em;
-            transform: translate(-50%, -50%);
-        }
-
-        .primary-btn:hover .border {
-            display: block;
-            width: 9.9em;
-            height: 3.7em;
-        }
-
-        .full-rounded {
-            border-radius: 2em;
-        }
-    </style>
-</body>
-
-</html>
+    </g>
+</svg>

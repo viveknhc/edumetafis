@@ -27,10 +27,9 @@
             <div class="container">
                 <div class="banner-content">
 
-                    <h1> Your Passport to <span>Excellence</span></h1>
-
-                    <h1>Study Abroad Opportunities Await!</h1>
-                    <p>Unleash Your Potential Abroad!.</p>
+                    <h1> We help to <span>Build</span></h1>
+                    <h1> Your dream</h1>
+                    <p>thfhgfhty htft h</p>
                     <a href="#" class="banner-btn">Read More</a>
                 </div>
             </div>

@@ -46,6 +46,18 @@ section{
     font-weight: 700;
 }
 
+.primary-white-btn{
+    color: var(--gradient-button);
+    box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
+    border-radius: 40px;
+    padding: 10px 30px;
+    border: none;
+    text-transform: uppercase;
+    background-color: var(--white-col);
+    width: 170px;
+    font-weight: 700;
+}
+
 .section-top-head {
     color: var(--black-col);
     font-size: 24px;
@@ -1582,7 +1594,7 @@ section{
 
 
 
-/* =========== ABOUT PAGE */
+/* =========== ABOUT PAGE ==========*/
 
 
 .pg-about .about2{
@@ -1591,6 +1603,196 @@ section{
     top: -11px;
     animation: diagonalMove 3s linear infinite ;
 }
+
+/* =========== ABOUT STUDY ABROAD =============*/
+
+.career-path .career-img1{
+    padding: 0px 55px;
+}
+
+
+.career-path .career-img2{
+    position: absolute;
+    left: -6px;
+    top: 90px;
+    padding: 0 98px;
+
+}
+
+.career-path-box{
+    height: 100vh;
+}
+
+
+.abroad-study-profiling{
+    /* background-image: url('../images/study-abroad/abroad-profiling.png');
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+    position: relative;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+.svg-calLoader {
+    width: 500px;
+    height: 500px;
+    transform-origin: 200px 200px;
+    animation: 8s linear infinite loader-spin;
+
+    position: absolute;
+    left: 94px;
+    top: 51px;
+    z-index: -3;
+}
+
+.cal-loader__plane {
+    fill: #4fc9f2;
+}
+
+.cal-loader__path {
+    stroke: #4fc9f2;
+    animation: 5s ease-in-out infinite loader-path;
+}
+
+
+.abroad-study-cta{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abroad-study-cta .row{
+    background-color: #e6e5e1;
+    padding: 60px;
+    border-radius: 35px;
+    position: relative;
+
+}
+
+.abroad-study-cta .row .cta-girl{
+    position: absolute;
+    bottom: 0;
+}
+
+.abroad-study-cta .row .shape1{
+    position: absolute;
+    top: -33px;
+    left: -17px;
+    max-width: 74px;
+    z-index: 1;
+    animation: downUp 3s infinite linear;
+}
+
+.abroad-study-cta .row .shape2{
+    position: absolute;
+    top: 3px;
+    left: 6px;
+    max-width: 74px;
+}
+
+
+
+.abroad-study-cta h3{
+    font-size: 37px;
+    font-weight: 800;
+    color: var(--primary-col);
+}
+
+.abroad-study-cta p{
+    color: var(--primary-col);
+}
+
+.top-ucity-box{
+    padding: 100px 0;
+}
+
+
+.top-ucity-box .icon1 {
+    background-color: #d46b1a4f;
+    max-width: 77px;
+    padding: 14px;
+    border-radius: 36%;
+    transition: all .3s ease-in-out;
+}
+
+.top-ucity-box .icon1:hover {
+    transform: scale(1.1);
+}
+
+.top-ucity-box .icon2 {
+    background-color: #5c23fb4d;
+    max-width: 77px;
+    padding: 19px;
+    border-radius: 36%;
+    transition: all .3s ease-in-out;
+}
+
+.top-ucity-box .icon2:hover {
+    transform: scale(1.1);
+}
+
+.top-ucity-box .icon3 {
+    background-color: #19d68236;
+    max-width: 77px;
+    padding: 19px;
+    border-radius: 36%;
+    transition: all .3s ease-in-out;
+}
+
+.top-ucity-box .icon3:hover {
+    transform: scale(1.1);
+}
+
+.top-ucity-box .icon4 {
+    background-color: #d815d936;
+    max-width: 77px;
+    padding: 19px;
+    border-radius: 36%;
+    transition: all .3s ease-in-out;
+}
+.top-ucity-box .icon4:hover {
+    transform: scale(1.1);
+}
+
+
+.top-ucity-box h2{
+    font-weight: 700;
+    color: #0000009e;
+}
+
+.top-ucity-box p{
+    padding: 0px 5px;
+}
+
+
+
+
+
+@keyframes loader-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes loader-path {
+    0% {
+        stroke-dasharray: 0, 580, 0, 0, 0, 0, 0, 0, 0;
+    }
+
+    50% {
+        stroke-dasharray: 0, 450, 10, 30, 10, 30, 10, 30, 10;
+    }
+
+    100% {
+        stroke-dasharray: 0, 580, 0, 0, 0, 0, 0, 0, 0;
+    }
+}
+
+
+
 
 
 

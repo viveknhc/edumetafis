@@ -46,7 +46,7 @@
                         <a class="nav-link" href="courses">Courses</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Study Abroad</a>
+                        <a class="nav-link" href="study-abroad">Study Abroad</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Services</a>

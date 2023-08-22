@@ -20,6 +20,17 @@
 /* tab */
 @media only screen and (max-width:999px) {
 
+    
+    /* ==abroad study page== */
+    .abroad-study-profiling{
+        display: none;
+    }
+
+    .abroad-study-cta .row .cta-girl {
+        display: none;
+    }
+
+
 
     /* about */
 
@@ -204,6 +215,17 @@
 
 
 @media only screen and (max-width:767px) {
+
+
+
+    /* ==abroad study page== */
+    .abroad-study-profiling{
+        display: none;
+    }
+
+    .abroad-study-cta .row .cta-girl {
+        display: none;
+    }
 
 
     /* banner */
