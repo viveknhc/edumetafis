@@ -211,7 +211,7 @@
                         suffered
                         alteration in some form, by injected humour, or randomised words which don't.
                     </p>
-                    <button class="primary-btn">read more</button>
+                    <a href="study-abroad" class="primary-btn">read more</a>
                 </div>
             </div>
 

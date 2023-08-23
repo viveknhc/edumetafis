@@ -49,8 +49,22 @@
                         <a class="nav-link" href="study-abroad">Study Abroad</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Services</a>
+                        <a class="nav-link" href="services">Services</a>
                     </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="events" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Events
+                        </a>
+                        <ul class="dropdown-menu drop-list">
+                            <li><a class="dropdown-item" href="sports-event">Sports Events</a></li>
+                            <li><a class="dropdown-item" href="education-event">Education Events</a></li>
+
+                        </ul>
+                    </li>
+
+
                     <li class="nav-item">
                         <a class="nav-link" href="blog">Blogs</a>
                     </li>

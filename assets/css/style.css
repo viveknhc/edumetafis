@@ -31,7 +31,11 @@ section{
     padding: 50px 0 0 0;
 }
 
-
+.drop-list{
+    border: 0;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
 
 
 .primary-btn {
@@ -44,8 +48,13 @@ section{
     background-image: linear-gradient(var(--gradient-button));
     width: 170px;
     font-weight: 700;
+    text-decoration: none;
 }
 
+
+.primary-btn:hover{
+    color: white;
+}
 .primary-white-btn{
     color: var(--gradient-button);
     box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
@@ -56,6 +65,7 @@ section{
     background-color: var(--white-col);
     width: 170px;
     font-weight: 700;
+    text-decoration: none;
 }
 
 .section-top-head {
@@ -307,7 +317,7 @@ section{
 .contact-pg-form-section .contact-form {
     padding: 80px 40px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    background-color: var(--white-col);
+    background-color: var(--black-col);
     position: relative;
     z-index: 10;
     border-radius: 10px;
@@ -317,6 +327,7 @@ section{
     font-size: 34px;
     line-height: 40px;
     margin-bottom: 10px;
+    color: var(--white-col);
 }
 
 .contact-form .input-form {
@@ -336,6 +347,7 @@ section{
     padding-left: 10px;
     font-size: 14px;
     color: gray;
+    background-color: var(--black-col);
 }
 
 .contact-form .input-form textarea {
@@ -345,6 +357,7 @@ section{
     padding-left: 10px;
     font-size: 14px;
     color: gray;
+    background-color: var(--black-col);
 }
 
 .contact-form .input-form i {
@@ -371,10 +384,11 @@ section{
 }
 
 .details-box p {
-    font-size: 15px;
     margin-bottom: 0;
     margin-left: 20px;
-    color: gray;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .details-box i {
@@ -385,14 +399,10 @@ section{
     font-size: 14px;
     margin-top: 5px;
     display: block;
+    color: #ccc;
 }
 
-.contact-map-section iframe {
-    margin-top: -200px;
-    height: 500px;
-    z-index: -1;
-    margin-bottom: -8px;
-}
+
 
 
 /* Banner */
@@ -1606,6 +1616,62 @@ section{
 
 /* =========== ABOUT STUDY ABROAD =============*/
 
+.countries img{
+    border-radius: 20px;
+}
+
+.study-abroad{
+    padding: 100px 0 0 0;
+}
+
+.college-seletion{
+    padding: 100px 0 0 0;
+}
+.application-process{
+    padding: 100px 0 0 0;
+}
+
+.study-abroad-counter{
+    background-image: url('../images/study-abroad/17128684_travel41-[Converted]\ 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.study-abroad-counter h2{
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 800;
+    color:var(--white-col);
+    text-align: end;
+}
+
+.pg-study-abroad{
+    height: 85vh;
+    background-image: url('../images/study-abroad/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+.pg-study-abroad .banner-box{
+    height: 400px;
+    width: 400px;
+    background-color: var(--white-col);
+    border-radius: 100%;
+}
+
+
+
+.career-path-box{
+    padding: 100px 0;
+}
+
 .career-path .career-img1{
     padding: 0px 55px;
 }
@@ -1619,9 +1685,9 @@ section{
 
 }
 
-.career-path-box{
+/* .career-path-box{
     height: 100vh;
-}
+} */
 
 
 .abroad-study-profiling{
@@ -1705,6 +1771,7 @@ section{
     color: var(--primary-col);
 }
 
+
 .top-ucity-box{
     padding: 100px 0;
 }
@@ -1765,6 +1832,21 @@ section{
 
 .top-ucity-box p{
     padding: 0px 5px;
+}
+
+
+/* events */
+
+.pg-event-banner{
+    height: 50vh;
+}
+
+.prev-event-box img{
+    border-radius: 24px;
+}
+
+.prev-event-box .card{
+    border: none;
 }
 
 

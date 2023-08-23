@@ -3,8 +3,50 @@
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
 
-<section>
-    <div class="d-flex justify-content-center align-items-center">
+<header>
+
+    <div class="pg-study-abroad">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-g-6">
+                    <div class="">
+
+                        
+                        <!-- <svg width="1200" height="600" viewBox="0 0 900 350">
+                            <path id="motionPath" fill="none" stroke="#FFF" stroke-miterlimit="20" d="
+                                M 100, 100
+                                L 800, 300
+                            " />
+
+                            <g id="plane" transform="scale(0.05, 0.05) translate(0,20) rotate(-133 100 100)">
+                                <defs id="defs0" />
+                                <path
+                                    d="M 439.48098,95.969555 L 393.34268,142.46481 L 305.91233,133.41187 L 324.72376,114.58551 L 308.61525,98.464215 L 276.15845,130.94677 L 185.25346,123.08136 L 201.15145,107.27643 L 186.46085,92.574165 L 158.32,120.73735 L 45.386032,112.12042 L 15.000017,131.66667 L 221.20641,192.48691 L 298.26133,237.01135 L 191.91028,345.62828 L 152.82697,408.6082 L 41.549634,393.05411 L 21.037984,413.58203 L 109.25334,470.93369 L 166.38515,558.95725 L 186.8968,538.42933 L 171.35503,427.06371 L 234.28504,387.94939 L 342.81586,281.51396 L 387.305,358.63003 L 448.07703,565.00001 L 467.60778,534.58989 L 458.99769,421.56633 L 487.16033,393.38134 L 473.14247,379.35235 L 456.6139,395.97492 L 448.79636,303.63439 L 481.25315,271.15184 L 465.14464,255.03055 L 446.33321,273.8569 L 436.04766,185.1164 L 482.35108,138.7864 C 501.1942,119.92833 560.62425,61.834815 564.99998,14.999985 C 515.28999,23.707295 476.1521,61.495405 439.48098,95.969555 z "
+                                    style="opacity:1;color:#000000;fill:#ff5b00;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible"
+                                    id="path1" />
+                            </g>
+                            <animateMotion xlink:href="#plane" dur="9s" begin="0s" fill="freeze"
+                                repeatCount="indefinite" rotate="auto-reverse">
+                                <mpath xlink:href="#motionPath" />
+                            </animateMotion>
+                        </svg> -->
+
+
+
+                    </div>
+                </div>
+                <div class="col-g-6">
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!-- <div class="d-flex justify-content-center align-items-center">
         <svg width="1200" height="600" viewBox="0 0 900 350">
             <path id="motionPath" fill="none" stroke="#FFF" stroke-miterlimit="20" d="
                   M 150, 100
@@ -26,12 +68,8 @@
             </animateMotion>
             
         </svg>
-
-
-
-
-    </div>
-</section>
+    </div> -->
+</header>
 
 <!-- <section>
     <div class="container">
@@ -57,12 +95,62 @@
     </div>
 </section> -->
 
+<section>
+    <div class="container">
+        <div class="top-university">
+            <div class="heading-box text-center">
+                <h5 class="section-top-head">Tied up with universities</h5>
+                <h2 class="section-head">across various countries</h2>
+            </div>
+            <div class="top-ucity-box">
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="text-center">
+                            <img class="icon1" src="assets/images/study-abroad/icon1.png" alt="">
+                            <h2 class="pt-3">100000+</h2>
+                            <p>Students</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="text-center">
+                            <img class="icon2" src="assets/images/study-abroad/icon2.png" alt="">
+                            <h2 class="pt-3">22+</h2>
+                            <p>Countries</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="text-center">
+                            <img class="icon3" src="assets/images/study-abroad/icon3.png" alt="">
+                            <h2 class="pt-3">1500+</h2>
+                            <p>Top Universities</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="text-center">
+                            <img class="icon4" src="assets/images/study-abroad/icon4.png" alt="">
+                            <h2 class="pt-3">3000+</h2>
+                            <p>Occupations</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
+<section>
+    <div class="study-abroad-counter">
+        <div class="pe-5 ps-md-5">
+            <h2>Study Abroad <br> Explore, Learn, Grow</h2>
+            <div class="text-lg-end pt-4">
+                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-white-btn">read more</a>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="career-path-box">
-
     <div class="container">
-
         <div class="row">
             <div class="col-lg-6">
                 <div>
@@ -71,8 +159,6 @@
                         <h2 class="section-head">analysis</h2>
                     </div>
                     <p>
-
-
                         Utilizing a 5-dimensional career assessment encompassing strengths, interests, values,
                         personality traits, and skills helps pinpoint the ideal career path and overseas study course.
                     </p>
@@ -81,27 +167,46 @@
                         university program that aligns with their aspirations for a successful international academic
                         journey and a fulfilling career.
                     </p>
-
-
                 </div>
             </div>
             <div class="col-lg-6">
-
                 <div class="relative-box career-path">
-                    <img  data-aos="fade-down"  data-aos-duration="3000" class="img-fluid career-img1" src="assets/images/study-abroad/career1.png" alt="">
-                    <img data-aos="fade-up" data-aos-easing="linear"
-                    data-aos-duration="1500" class="img-fluid career-img2" src="assets/images/study-abroad/career2.png" alt="">
+                    <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid career-img1"
+                        src="assets/images/study-abroad/career1.png" alt="">
+                    <img data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"
+                        class="img-fluid career-img2" src="assets/images/study-abroad/career2.png" alt="">
                 </div>
             </div>
         </div>
     </div>
-
-
 </section>
 
+<section class="countries">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 ">
+                <img data-aos="fade-down" data-aos-duration="3000"  class="img-fluid h-75 w-100" src="assets/images/study-abroad/australia.png" alt="">
+            </div>
+            <div class="col-lg-2">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/germany.png" alt="">
+            </div>
+            <div class="col-lg-2">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/new-zealand.png" alt="">
+            </div>
+            <div class="col-lg-2">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/uk.png" alt="">
+            </div>
+            <div class="col-lg-2">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/us.png" alt="">
+            </div>
+            <div class="col-lg-2">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/canada.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
 
-
-<section>
+<section class="study-abroad">
     <div class="container">
 
         <div class="row">
@@ -135,8 +240,6 @@
                         Trust us to predict your admission possibilities and pave the way for your academic success on a
                         global scale
                     </p>
-
-
                     <ul class="course-feature-list">
                         <li class="pb-2">
 
@@ -162,7 +265,6 @@
                                 </div>
                             </div>
                         </li>
-
                     </ul>
                 </div>
             </div>
@@ -170,104 +272,139 @@
     </div>
 </section>
 
-<section>
-    <div class="container">
 
-        <div class="row">
+
+<section class="college-seletion">
+    <div class="container">
+        <div class="row g-5">
             <div class="col-lg-6">
                 <div>
                     <div class="heading-box">
-                        <h5 class="section-top-head">Career path</h5>
-                        <h2 class="section-head">analysis</h2>
+                        <h5 class="section-top-head">College</h5>
+                        <h2 class="section-head">Selection</h2>
                     </div>
                     <p>
 
-
-                        Utilizing a 5-dimensional career assessment encompassing strengths, interests, values,
-                        personality traits, and skills helps pinpoint the ideal career path and overseas study course.
+                        Discover your ideal college match effortlessly with our revolutionary platform. With real-time
+                        admission predictions for over 20,000 top universities worldwide, we eliminate uncertainty.
                     </p>
                     <p>
-                        By aligning these aspects, individuals can narrow down options, seek guidance, and choose a
-                        university program that aligns with their aspirations for a successful international academic
-                        journey and a fulfilling career.
+                        Our
+                        advanced algorithms consider your achievements, preferences, and desired fields of study to
+                        provide accurate insights. Say goodbye to stress and hello to a future full of opportunities as
+                        you make confident, data-backed decisions about your education.
                     </p>
                 </div>
             </div>
             <div class="col-lg-6">
                 <div>
-                    <div class="heading-box">
-                        <h5 class="section-top-head">Career path</h5>
-                        <h2 class="section-head">analysis</h2>
-                    </div>
-                    <p>
-
-
-                        Utilizing a 5-dimensional career assessment encompassing strengths, interests, values,
-                        personality traits, and skills helps pinpoint the ideal career path and overseas study course.
-                    </p>
-                    <p>
-                        By aligning these aspects, individuals can narrow down options, seek guidance, and choose a
-                        university program that aligns with their aspirations for a successful international academic
-                        journey and a fulfilling career.
-                    </p>
+                    <img class="img-fluid" src="assets/images/study-abroad/college.png" alt="">
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-
-
-
-<section>
+<section class="application-process">
     <div class="container">
-        <div class="top-university">
-            <div class="heading-box">
-                <h5 class="section-top-head">Tied up with universities</h5>
-                <h2 class="section-head">across various countries</h2>
-            </div>
+        <div class="row g-5">
+            <div class="col-lg-6">
 
-            <div class="top-ucity-box">
-
-                <div class="row">
-                    <div class="col-lg-3">
-                        <div class="text-center">
-                            <img class="icon1" src="assets/images/study-abroad/icon1.png" alt="">
-                            <h2 class="pt-3">22+</h2>
-                            <p>studies profiling and application</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="text-center">
-                            <img class="icon2" src="assets/images/study-abroad/icon2.png" alt="">
-                            <h2 class="pt-3">22+</h2>
-                            <p>studies profiling and application</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="text-center">
-                            <img class="icon3" src="assets/images/study-abroad/icon3.png" alt="">
-                            <h2 class="pt-3">22+</h2>
-                            <p>studies profiling and application</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3">
-                        <div class="text-center">
-                            <img class="icon4" src="assets/images/study-abroad/icon4.png" alt="">
-                            <h2 class="pt-3">22+</h2>
-                            <p>studies profiling and application</p>
-                        </div>
-                    </div>
+                <div>
+                    <img class="img-fluid" src="assets/images/study-abroad/application-process.png" alt="">
                 </div>
 
             </div>
+            <div class="col-lg-6">
+                <div>
+                    <div class="heading-box">
+                        <h5 class="section-top-head">Application</h5>
+                        <h2 class="section-head">process</h2>
+                    </div>
+                    <ul class="course-feature-list">
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    Application submission to top universities
+                                </div>
+                            </div>
 
 
+                        </li>
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    Strong file management for better chances to get a seat in top universities
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    Visa coordination
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    SOP Support
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    University coordination
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="pb-2">
+
+                            <div class="row">
+                                <div class="col-1">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                </div>
+                                <div class="col-11">
+                                    Scholarships
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+
+
+
+
+                </div>
+            </div>
         </div>
     </div>
 </section>
-
-
 
 <section class="abroad-study-cta">
     <div class="container">

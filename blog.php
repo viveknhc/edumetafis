@@ -6,7 +6,7 @@
     <div class="container">
         <h3 class="head">Blog</h3>
         <div class="pages-link">
-            <a href="#" class="active-link">Home</a>
+            <a href="blog-inner" class="active-link">Home</a>
             <span class="ms-1 me-1">/</span>
             <p class="non-link">Blog</p>
         </div>
@@ -16,8 +16,83 @@
 </div>
 <!-- banner end -->
 
+<section>
+    <div class="blog py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-4">
+                    <div class="card blog-card">
+                        <div class="relative-box">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <span></span>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Lorem Ipsum</h5>
+                            <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                the majority have suffered alteration in some form, by injected humour, or
+                                randomised words which.</p>
+                        </div>
+
+                        <div class="card-footer">
+                            <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                    alt="">18/7/2023</p>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card blog-card">
+
+                        <div class="relative-box">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <span></span>
+                        </div>
+
+                        <div class="card-body">
+                            <h5 class="card-title">Lorem Ipsum</h5>
+                            <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                the majority have suffered alteration in some form, by injected humour, or
+                                randomised words which.</p>
+                        </div>
+
+                        <div class="card-footer">
+                            <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                    alt="">18/7/2023</p>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="card blog-card">
+                        <div class="relative-box">
+                            <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
+                            <span></span>
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Lorem Ipsum</h5>
+                            <p class="card-text">There are many variations of passages of Lorem Ipsum available, but
+                                the majority have suffered alteration in some form, by injected humour, or
+                                randomised words which.</p>
+                        </div>
+
+                        <div class="card-footer">
+                            <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
+                                    alt="">18/7/2023</p>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
 <!-- blog section start -->
-<div class="blog-section">
+<!-- <div class="blog-section">
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 col-12">
@@ -125,7 +200,7 @@
 
         </div>
     </div>
-</div>
+</div> -->
 <!-- blog section end -->
 
 
