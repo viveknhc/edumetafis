@@ -235,6 +235,24 @@
 @media only screen and (max-width:767px) {
 
 
+    /* ==sports events page== */
+    .pg-sports-event-banner{
+        /* background-size: contain;
+        height: 25vh; */
+    }
+
+    .pg-sports-event-banner .inner-header{
+        font-size: 22px;
+    }
+
+    
+    .pg-sports-event-banner{
+        justify-content: end;
+    }
+
+    .pg-sports-event-banner{
+        padding: 0 55px;
+    }
 
     /* ==abroad study page== */
 
@@ -242,6 +260,7 @@
         height: 37vh;
         background-size: contain;
     }
+
    
 
     .abroad-study-profiling{

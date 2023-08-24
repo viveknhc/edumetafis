@@ -3,39 +3,141 @@
 <!-- Banner Start -->
 <section id="banner">
     <div class="banner-slider owl-carousel">
+
         <div class="banner-item banner-item-1">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/video1.mp4" type="video/mp4">
+                <source src="assets/images/banner/1.m4v" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
+                    <h1 class="main-text">Your <span class="ps-4">Top best</span></h1>
+                    <div class="sec-text">
+                        <span>study partner</span>
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
 
-                    <h1> Your <span>Top Best</span></h1>
-
-
-                    <h1>Study Partner</h1>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a
-                        page when looking at its layout.</p>
-                    <a href="#" class="banner-btn">Read More</a>
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
                 </div>
+
             </div>
         </div>
+
         <div class="banner-item banner-item-2">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/video2.mp4" type="video/mp4">
+                <source src="assets/images/banner/2.m4v" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
+                    <h1 class="main-text">Unlock Your<span class="ps-4">Potential </span></h1>
+                    <div class="sec-text">
+                        <span>Learn Online </span>
 
-                    <h1> We help to <span>Build</span></h1>
-                    <h1> Your dream</h1>
-                    <p>thfhgfhty htft h</p>
-                    <a href="#" class="banner-btn">Read More</a>
+                         
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
+
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="banner-item">
+            <video class="video-bg" autoplay muted loop>
+                <source src="assets/images/banner/3.m4v" type="video/mp4">
+            </video>
+            <div class="container">
+                <div class="banner-content">
+                    <h1 class="main-text">Unmissable  <span class="ps-4">Sports</span></h1>
+                    <div class="sec-text">
+                        <span>Moments </span>
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
+
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <div class="banner-item">
+            <video class="video-bg" autoplay muted loop>
+                <source src="assets/images/banner/4.m4v" type="video/mp4">
+            </video>
+            <div class="container">
+                <div class="banner-content">
+                    <h1 class="main-text">Expand<span class="ps-4">Horizons</span></h1>
+                    <div class="sec-text">
+                        <span>Join Our Education Event</span>
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
+
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="banner-item">
+            <video class="video-bg" autoplay muted loop>
+                <source src="assets/images/banner/5.m4v" type="video/mp4">
+            </video>
+            <div class="container">
+                <div class="banner-content">
+                    <h1 class="main-text">Nurturing<span class="ps-4">Excellence</span></h1>
+                    <div class="sec-text">
+                        <span>Through Mentorship</span>
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
+
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="banner-item">
+            <video class="video-bg" autoplay muted loop>
+                <source src="assets/images/banner/6.m4v" type="video/mp4">
+            </video>
+            <div class="container">
+                <div class="banner-content">
+                    <h1 class="main-text">Expand<span class="ps-4">Horizons</span></h1>
+                    <div class="sec-text">
+                        <span>Join Our Education Event</span>
+                    </div>
+                    <div class="banner-p-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                    </div>
+
+                    <div class="banner-btn-box">
+                        <a class="banner-btn">learn more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 </section>
+
+
 <!-- Banner Start -->
 
 <!-- about -->

@@ -12,10 +12,10 @@ $(document).ready(function () {
         // nav:true,
         // dots:true,
         autoplay: true,
-        autoplayTimeout: 4000,
+        autoplayTimeout: 8000,
         autoplayHoverPause: false,
-        animateOut: 'fadeOut',
-        animateIn: 'fadeIn',
+        // animateOut: 'fadeOut',
+        // animateIn: 'fadeIn',
         items: 2.5,
         // navText: ["<i class='fa-solid fa-chevron-left'></i>", "<i class='fa-solid fa-chevron-right'></i>"],
         responsive: {
