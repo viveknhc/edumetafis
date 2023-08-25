@@ -73,7 +73,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -117,7 +117,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -161,7 +161,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -218,7 +218,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -262,7 +262,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -284,7 +284,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -306,7 +306,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -328,7 +328,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="sports-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -337,5 +337,7 @@
         </div>
     </div>
 </section>
+
+
 
 <?php include 'partials/footer.php';?>

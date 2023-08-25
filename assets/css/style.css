@@ -27,11 +27,11 @@
 }
 
 
-section{
+section {
     padding: 50px 0 0 0;
 }
 
-.drop-list{
+.drop-list {
     border: 0;
     background-color: #fff;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -52,10 +52,11 @@ section{
 }
 
 
-.primary-btn:hover{
+.primary-btn:hover {
     color: white;
 }
-.primary-white-btn{
+
+.primary-white-btn {
     color: var(--gradient-button);
     box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
     border-radius: 40px;
@@ -67,6 +68,42 @@ section{
     font-weight: 700;
     text-decoration: none;
 }
+
+.topbar {
+    padding: 10px 0px;
+    background-image: linear-gradient(90deg, #346cb3 0%, #346cb3 100%);
+}
+
+
+
+.topbar p {
+    color: #fff;
+    font-weight: 600;
+    font-weight: 300;
+}
+
+.topbar img {
+    max-width: 24px;
+}
+
+.topbar .fa-whatsapp,
+.topbar .fa-instagram,
+.topbar .fa-facebook-f,
+.topbar .fa-linkedin-in {
+    color: #fff;
+    font-size: 19px;
+}
+
+.topbar .mail {
+    display: flex;
+    align-items: center;
+}
+
+.topbar .top-social-icon {
+    display: flex;
+    justify-content: end;
+}
+
 
 .section-top-head {
     color: var(--black-col);
@@ -104,20 +141,22 @@ section{
     padding: 0px 10px;
 }
 
-.edumetfis-navbar img {
+.edumetfis-navbar .navbar-brand img {
     width: 210px;
     height: auto;
 }
 
-.home-icon img{
+
+.home-icon img {
     max-width: 26px;
 
 }
-.home-icon a{
+
+.home-icon a {
     padding: 4px 15px !important;
 }
 
-.contact-nav-link{
+.contact-nav-link {
     background-image: linear-gradient(var(--gradient-button));
     border-radius: 10px;
     color: #fff !important;
@@ -159,10 +198,11 @@ section{
     animation: showup 7s infinite;
 } */
 
-.main-text{
+.main-text {
     animation: slidein 7.5s linear infinite;
 }
-.banner-btn-box{
+
+.banner-btn-box {
     animation: slidein 7.5s linear infinite;
 }
 
@@ -173,7 +213,7 @@ section{
     line-height: 0.3;
 }
 
-.banner-p-box{
+.banner-p-box {
     animation: reveal 7.5s linear infinite;
     width: 50%;
 }
@@ -183,12 +223,12 @@ section{
     font-weight: 600;
 }
 
-.banner-content p{
+.banner-content p {
     animation: slidein 7.5s linear infinite;
     width: 50%;
 }
 
-.banner-content button{
+.banner-content button {
     animation: slidein 7.5s linear infinite;
 }
 
@@ -308,7 +348,7 @@ section{
     width: 100vw !important;
     position: absolute;
     z-index: -1;
-     overflow: hidden;
+    overflow: hidden;
 }
 
 #banner .banner-item .banner-content {
@@ -316,7 +356,7 @@ section{
     flex-direction: column;
     color: #fff !important;
     gap: 20px;
-    
+
     padding-bottom: 29px;
 
 }
@@ -683,11 +723,11 @@ section{
     ;
 }
 
-.feature img{
+.feature img {
     transition: all .3s ease-in-out;
 }
 
-.feature img:hover{
+.feature img:hover {
     transform: scale(1.2);
 }
 
@@ -848,11 +888,11 @@ section{
 
 
 
-.owl-carousel .owl-item img{
+.owl-carousel .owl-item img {
     transition: all .3s ease-in-out;
 }
 
-.owl-carousel .owl-item img:hover{
+.owl-carousel .owl-item img:hover {
     transform: scale(1.1);
 }
 
@@ -1036,29 +1076,30 @@ section{
     padding: 50px 0;
 }
 
-.event-img1{
+.event-img1 {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.event-img2{
+.event-img2 {
     display: flex;
     justify-content: start;
     align-items: center;
 }
 
-.event .red-shape{
+.event .red-shape {
     position: absolute;
     right: 11px;
 }
-.event .black-shape{
+
+.event .black-shape {
     bottom: 28%;
     position: absolute;
 
 }
 
-.event .orange-shape{
+.event .orange-shape {
     position: absolute;
     bottom: 20px;
 }
@@ -1070,31 +1111,31 @@ section{
     padding: 50px 0;
 }
 
-.sports .sports-img1{
+.sports .sports-img1 {
     display: flex;
     justify-content: end;
     align-items: center;
 }
 
-.sports .sports-img2{
+.sports .sports-img2 {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 
-.sports .orange-shape{
+.sports .orange-shape {
     position: absolute;
     bottom: 0;
     right: 0;
 }
 
-.sports .red-shape{
+.sports .red-shape {
     position: absolute;
     top: 22%;
 }
 
-.sports .black-shape{
+.sports .black-shape {
     position: absolute;
     right: 12px;
     bottom: 27%;
@@ -1176,7 +1217,7 @@ section{
 
 
 
-.blog .relative-box span{
+.blog .relative-box span {
     position: absolute;
     left: 0;
     bottom: -40px;
@@ -1186,7 +1227,7 @@ section{
     transform: skewY(5deg);
 }
 
-.blog .relative-box{
+.blog .relative-box {
     overflow: hidden;
 }
 
@@ -1211,7 +1252,7 @@ section{
     border-radius: 0px 0px 27px 27px;
 }
 
-.blog .card-title{
+.blog .card-title {
     font-weight: 700;
     font-size: 21px;
 }
@@ -1229,12 +1270,12 @@ section{
 }
 
 
-.blog-card img{
+.blog-card img {
     border-radius: 27px 27px 0 0;
     transition: all .3s ease-in-out;
 }
 
-.blog-card img:hover{
+.blog-card img:hover {
     transform: scale(1.1);
 }
 
@@ -1358,7 +1399,7 @@ section{
 
 /* footer */
 
-.footer-logo{ 
+.footer-logo {
     max-width: 130px;
 }
 
@@ -1373,7 +1414,7 @@ section{
 
 .footer-section::after {
     content: '';
-    background-color: #000000d4;
+    background-color: #346cb3b8;
     position: absolute;
     left: 0;
     top: 0;
@@ -1397,7 +1438,7 @@ section{
     color: var(--black-col);
 }
 
-.footer-news-letter h3 span{
+.footer-news-letter h3 span {
     font-size: 42px;
 }
 
@@ -1414,21 +1455,21 @@ section{
     height: 100%;
 }
 
-.footer-news-letter .footer-shape1{
+.footer-news-letter .footer-shape1 {
     position: absolute;
     top: 65%;
     left: -15px;
 
 }
 
-.footer-news-letter .footer-shape2{
+.footer-news-letter .footer-shape2 {
     position: absolute;
     right: 50%;
     bottom: -16px;
 
 }
 
-.footer-news-letter .footer-shape3{
+.footer-news-letter .footer-shape3 {
     position: absolute;
     right: 50%;
     top: -23px;
@@ -1522,9 +1563,9 @@ section{
     padding: 18px 0;
     font-weight: 200;
     font-size: 14px;
-} 
+}
 
-.copyrigt-text span{
+.copyrigt-text span {
     font-weight: 600;
 }
 
@@ -1741,31 +1782,32 @@ section{
 /* =========== ABOUT PAGE ==========*/
 
 
-.pg-about .about2{
+.pg-about .about2 {
     position: absolute;
     left: -182px;
     top: -11px;
-    animation: diagonalMove 3s linear infinite ;
+    animation: diagonalMove 3s linear infinite;
 }
 
 /* =========== ABOUT STUDY ABROAD =============*/
 
-.countries img{
+.countries img {
     border-radius: 20px;
 }
 
-.study-abroad{
+.study-abroad {
     padding: 100px 0 0 0;
 }
 
-.college-seletion{
-    padding: 100px 0 0 0;
-}
-.application-process{
+.college-seletion {
     padding: 100px 0 0 0;
 }
 
-.study-abroad-counter{
+.application-process {
+    padding: 100px 0 0 0;
+}
+
+.study-abroad-counter {
     background-image: url('../images/study-abroad/17128684_travel41-[Converted]\ 1.png');
     background-size: cover;
     background-repeat: no-repeat;
@@ -1776,15 +1818,23 @@ section{
     align-items: center;
 }
 
-.study-abroad-counter h2{
+.study-abroad-counter img {
+    position: absolute;
+    left: 184px;
+    max-width: 97px;
+}
+
+
+
+.study-abroad-counter h2 {
     text-transform: uppercase;
     font-size: 34px;
     font-weight: 800;
-    color:var(--white-col);
+    color: var(--white-col);
     text-align: end;
 }
 
-.pg-study-abroad{
+.pg-study-abroad {
     height: 85vh;
     background-image: url('../images/study-abroad/banner.png');
     background-size: cover;
@@ -1793,7 +1843,7 @@ section{
     align-items: center;
 }
 
-.pg-study-abroad .banner-box{
+.pg-study-abroad .banner-box {
     height: 400px;
     width: 400px;
     background-color: var(--white-col);
@@ -1802,16 +1852,16 @@ section{
 
 
 
-.career-path-box{
+.career-path-box {
     padding: 100px 0;
 }
 
-.career-path .career-img1{
+.career-path .career-img1 {
     padding: 0px 55px;
 }
 
 
-.career-path .career-img2{
+.career-path .career-img2 {
     position: absolute;
     left: -6px;
     top: 90px;
@@ -1824,7 +1874,7 @@ section{
 } */
 
 
-.abroad-study-profiling{
+.abroad-study-profiling {
     /* background-image: url('../images/study-abroad/abroad-profiling.png');
     background-size: cover;
     background-repeat: no-repeat; */
@@ -1857,27 +1907,27 @@ section{
 }
 
 
-.abroad-study-cta{
+.abroad-study-cta {
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.abroad-study-cta .row{
-    background-color: #e6e5e1;
+.abroad-study-cta .row {
+    background-image: linear-gradient(90deg, #1e3d65 0%, #346cb3 100%);
     padding: 60px;
     border-radius: 35px;
     position: relative;
 
 }
 
-.abroad-study-cta .row .cta-girl{
+.abroad-study-cta .row .cta-girl {
     position: absolute;
     bottom: 0;
 }
 
-.abroad-study-cta .row .shape1{
+.abroad-study-cta .row .shape1 {
     position: absolute;
     top: -33px;
     left: -17px;
@@ -1886,7 +1936,7 @@ section{
     animation: downUp 3s infinite linear;
 }
 
-.abroad-study-cta .row .shape2{
+.abroad-study-cta .row .shape2 {
     position: absolute;
     top: 3px;
     left: 6px;
@@ -1895,18 +1945,18 @@ section{
 
 
 
-.abroad-study-cta h3{
+.abroad-study-cta h3 {
     font-size: 37px;
     font-weight: 800;
-    color: var(--primary-col);
+    color: var(--white-col);
 }
 
-.abroad-study-cta p{
-    color: var(--primary-col);
+.abroad-study-cta p {
+    color: var(--white-col);
 }
 
 
-.top-ucity-box{
+.top-ucity-box {
     padding: 100px 0;
 }
 
@@ -1954,24 +2004,25 @@ section{
     border-radius: 36%;
     transition: all .3s ease-in-out;
 }
+
 .top-ucity-box .icon4:hover {
     transform: scale(1.1);
 }
 
 
-.top-ucity-box h2{
+.top-ucity-box h2 {
     font-weight: 700;
     color: #0000009e;
 }
 
-.top-ucity-box p{
+.top-ucity-box p {
     padding: 0px 5px;
 }
 
 
 /* events */
 
-.pg-sports-event-banner{
+.pg-sports-event-banner {
     background-image: url('../images/sports-events/banner.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -1982,14 +2033,14 @@ section{
     align-items: center;
 }
 
-.pg-sports-event-banner .inner-top-header{
+.pg-sports-event-banner .inner-top-header {
     font-size: 30px;
     text-transform: uppercase;
     font-weight: 800;
     color: var(--white-col);
 }
 
-.pg-sports-event-banner .inner-header{
+.pg-sports-event-banner .inner-header {
     text-transform: uppercase;
     font-weight: 200;
     color: #fff;
@@ -2001,7 +2052,7 @@ section{
 
 
 
-.pg-sports-event .ball{
+.pg-sports-event .ball {
     position: absolute;
     bottom: 106px;
     left: 41%;
@@ -2009,40 +2060,202 @@ section{
     animation: diagonalMove 3s infinite linear;
 }
 
-.pg-event-banner{
+.pg-event-banner {
     height: 50vh;
 }
 
-.prev-event-box img{
+.prev-event-box img {
     border-radius: 24px;
 }
 
-.prev-event-box .card{
+.prev-event-box .card {
     border: none;
 }
 
-.prev-event-box .date{
+.prev-event-box .date {
     display: flex;
     justify-content: space-between;
 }
 
-.prev-event-box .date p{
+.prev-event-box .date p {
     margin: 0;
 }
 
-.prev-event-box .date a{
-    background-color: #000;
+.prev-event-box .date a {
+    background-color: #122742;
+    border: none;
     color: #fff;
     text-decoration: none;
     border-radius: 10px;
-    padding: 6px 7px;
+    padding: 6px 12px;
+}
+
+/* education event */
+
+.pg-edu-event-banner {
+    background-image: url('../images/education-event/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pg-edu-event-banner .inner-top-header {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: var(--white-col);
+}
+
+.pg-edu-event-banner .inner-header {
+    text-transform: uppercase;
+    font-weight: 200;
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+/* =====STUDY ABROAD */
+
+.pg-study-abroad h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.pg-study-abroad h1 span {
+    color: #346cb3;
+}
+
+/* ===SPORTS EVENT DETAIL PAGE== */
+
+
+.pg-sports-event-detail .event-img {
+    background-image: url('../images/sports-events/event-detail2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+    position: relative;
+    z-index: 11;
+    border-radius: 25px;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+}
+
+.pg-sports-event-detail .event-img::after {
+    content: '';
+    background: rgb(107, 161, 230);
+    background: linear-gradient(180deg, rgb(107 161 230 / 20%) 51%, rgb(57 120 200 / 68%) 68%, rgba(32, 72, 122, 1) 100%, rgba(30, 65, 108, 1) 100%);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border-radius: 25px;
+}
+
+.event-join-btn-box {
+    padding: 0px 56px 26px 0px;
+
+}
+
+.pg-sports-event-detail .event-img h3 {
+    font-weight: 800;
+    font-size: 45px;
+    color: #fff;
+    padding: 14px 56px;
+    text-transform: uppercase;
+}
+
+
+.pg-sports-event-detail .event-time {
+    display: flex;
+    justify-content: start;
+    padding: 0px 0px 26px 56px;
+    color: #fff;
+}
+
+
+.event-join-form input{
+    border-radius: 10px;
+    border: none;
+    /* border: 1px solid #d9e6f6; */
+    padding: 4px 12px;
+    background-color:  #d9e6f6;
+
+}
+.event-join-form input::placeholder{
+    color: #b3b4b5;
+}
+
+.event-content .event-right{
+    padding: 40px 20px;
+    border-radius: 15px;
+}
+.event-content .event-right h4{
+    text-transform: uppercase;
+    font-weight: 600;
     
 }
 
 
+/* ===EDU EVENT DETAIL PAGE== */
 
 
+.pg-edu-event-detail .event-img {
+    background-image: url('../images/education-event/event-detail.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+    position: relative;
+    z-index: 11;
+    border-radius: 25px;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+}
 
+.pg-edu-event-detail .event-img::after {
+    content: '';
+    background: rgb(107, 161, 230);
+    background: linear-gradient(180deg, rgb(107 161 230 / 20%) 51%, rgb(57 120 200 / 68%) 68%, rgba(32, 72, 122, 1) 100%, rgba(30, 65, 108, 1) 100%);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border-radius: 25px;
+}
+
+.event-join-btn-box {
+    padding: 0px 56px 26px 0px;
+
+}
+
+.pg-edu-event-detail .event-img h3 {
+    font-weight: 800;
+    font-size: 45px;
+    color: #fff;
+    padding: 14px 56px;
+    text-transform: uppercase;
+}
+
+
+.pg-edu-event-detail .event-time {
+    display: flex;
+    justify-content: start;
+    padding: 0px 0px 26px 56px;
+    color: #fff;
+}
 
 
 
@@ -2065,14 +2278,6 @@ section{
         stroke-dasharray: 0, 580, 0, 0, 0, 0, 0, 0, 0;
     }
 }
-
-
-
-
-
-
-
-
 
 @keyframes downUp {
     0% {

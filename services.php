@@ -22,7 +22,7 @@
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event3.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Study Abroad</h4>
@@ -31,21 +31,16 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
+                        <a href="study-abroad" class="read-more-btn">Read More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
 
-
-
-
-
-
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-1.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event4.jpg" class="img-fluid" alt="">
 
                     </div>
                     <div class="blog-desc">
@@ -55,7 +50,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
+                        <a href="online-tutorial" class="read-more-btn">Read More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -73,7 +68,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
+                        <a href="student-counselling" class="read-more-btn">Read More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -84,7 +79,7 @@
                         <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="blog-desc">
-                        <h4 class="blog-head">Mentership</h4>
+                        <h4 class="blog-head">Mentorship</h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vitae mollitia nemo repellat
                             dolorum</p>
                     </div>
@@ -99,7 +94,7 @@
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event1.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Sports Events</h4>
@@ -108,7 +103,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
+                        <a href="sports-event" class="read-more-btn">Read More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -118,7 +113,7 @@
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event2.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Educational Events</h4>
@@ -127,7 +122,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
+                        <a href="education-event" class="read-more-btn">Read More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>

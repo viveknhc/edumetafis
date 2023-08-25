@@ -2,10 +2,18 @@
 
 
 <header>
-    <div class="pg-sports-event-banner">
-
+    <div class="pg-edu-event-banner">
+        <div>
+            <div class="container text-center">
+                <h5 class="inner-top-header">event</h5>
+                <h2 class="inner-header">educational events</h2>
+            </div>
+            
+        </div>
     </div>
 </header>
+
+
 
 
 <section>
@@ -14,8 +22,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="relative-box">
-                        <img class="img-fluid" src="assets/images/sports-events/sports-event.png" alt="">
-                        <img  class="img-fluid ball" src="assets/images/sports-events/ball.jpg" alt="">
+                        <img class="img-fluid" src="assets/images/education-event/education2.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -53,9 +60,9 @@
             <div class="row gy-5">
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -67,7 +74,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -75,9 +82,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -89,7 +96,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -97,9 +104,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -111,7 +118,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -119,9 +126,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -133,7 +140,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -141,9 +148,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -155,7 +162,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -163,9 +170,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -177,7 +184,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -198,9 +205,9 @@
             <div class="row gy-5">
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -212,7 +219,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -220,9 +227,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -234,7 +241,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -242,9 +249,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -256,7 +263,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -264,9 +271,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -278,7 +285,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -286,9 +293,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 
@@ -300,7 +307,7 @@
                                     </p>
                                 </div>
 
-                                <a href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
@@ -308,9 +315,9 @@
 
                 <div class="col-lg-4">
                     <div class="card h-100">
-                        <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
+                        <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Sports Event 1</h5>
+                            <h5 class="card-title">Education Event 1</h5>
                             <p class="card-text">This is a longer card with supporting text below as a natural lead-in
                                 to additional content. This content is a little bit longer.</p>
 

@@ -1042,14 +1042,11 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-information">
-                        <img class="shape1" src="assets/images/contact/shape1.png" alt="">
+                        <img class="shape1" src="assets/images/contact/blue-shape.png" alt="">
                         <img class="shape2" src="assets/images/contact/shape2.png" alt="">
                         <div>
                             <h2>contact <br> information</h2>
                         </div>
-
-
-
                         <div>
                             <ul>
                                 <li>

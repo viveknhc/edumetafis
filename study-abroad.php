@@ -11,8 +11,11 @@
             <div class="row">
                 <div class="col-g-6">
                     <div class="">
+                        <h1>
+                            we help to <span>build</span>  <br>
+                            your dream
+                        </h1>
 
-                        
                         <!-- <svg width="1200" height="600" viewBox="0 0 900 350">
                             <path id="motionPath" fill="none" stroke="#FFF" stroke-miterlimit="20" d="
                                 M 100, 100
@@ -139,7 +142,8 @@
 </section>
 
 <section>
-    <div class="study-abroad-counter">
+    <div class="study-abroad-counter relative-box">
+        <img src="assets/images/logo/logo-icon.png" alt="">
         <div class="pe-5 ps-md-5">
             <h2>Study Abroad <br> Explore, Learn, Grow</h2>
             <div class="text-lg-end pt-4">
@@ -167,6 +171,10 @@
                         university program that aligns with their aspirations for a successful international academic
                         journey and a fulfilling career.
                     </p>
+                    <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                    </div>
+
                 </div>
             </div>
             <div class="col-lg-6">
@@ -185,22 +193,28 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-2 ">
-                <img data-aos="fade-down" data-aos-duration="3000"  class="img-fluid h-75 w-100" src="assets/images/study-abroad/australia.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/australia.png" alt="">
             </div>
             <div class="col-lg-2">
-                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/germany.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/germany.png" alt="">
             </div>
             <div class="col-lg-2">
-                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/new-zealand.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/new-zealand.png" alt="">
             </div>
             <div class="col-lg-2">
-                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/uk.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/uk.png" alt="">
             </div>
             <div class="col-lg-2">
-                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/us.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/us.png" alt="">
             </div>
             <div class="col-lg-2">
-                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100" src="assets/images/study-abroad/canada.png" alt="">
+                <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
+                    src="assets/images/study-abroad/canada.png" alt="">
             </div>
         </div>
     </div>
@@ -251,8 +265,6 @@
                                     Abroad studies application profiling for top colleges and countries selection.
                                 </div>
                             </div>
-
-
                         </li>
                         <li class="pb-2">
 
@@ -266,6 +278,9 @@
                             </div>
                         </li>
                     </ul>
+                    <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -294,6 +309,10 @@
                         provide accurate insights. Say goodbye to stress and hello to a future full of opportunities as
                         you make confident, data-backed decisions about your education.
                     </p>
+
+                    <div class="pt-lg-3">
+                        <a class="primary-btn" href="">read more</a>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -394,12 +413,10 @@
                                 </div>
                             </div>
                         </li>
-
                     </ul>
-
-
-
-
+                    <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                    </div>
                 </div>
             </div>
         </div>

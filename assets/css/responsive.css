@@ -233,7 +233,33 @@
 
 
 @media only screen and (max-width:767px) {
+    #banner .banner-item {
+        height: auto;
+    }
 
+    /* .edumetfis-navbar img {
+        
+    } */
+
+    .edumetfis-navbar .navbar-brand img{
+        width: 130px;
+    }
+
+    .topbar{
+        display: none;
+    }
+    
+   
+/* 
+    .topbar .mail{
+        flex-direction: column;
+    }
+
+    .topbar .top-social-icon{
+        display: flex;
+        justify-content: center;
+    }
+     */
 
     /* ==sports events page== */
     .pg-sports-event-banner{
@@ -247,7 +273,7 @@
 
     
     .pg-sports-event-banner{
-        justify-content: end;
+        justify-content: center;
     }
 
     .pg-sports-event-banner{
@@ -277,6 +303,10 @@
         font-weight: 800;
         color: #3fb9da;
         text-align: start;
+    }
+
+    .study-abroad-counter img {
+        display: none;
     }
 
 
