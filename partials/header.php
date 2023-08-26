@@ -38,7 +38,7 @@
                         </p>
                         <p class="m-0 ps-4">
                             <i class="fa-regular fa-envelope pe-2"></i>
-                            info@edumetafis.com
+                            metafis8@gmail.com
                         </p>
                     </div>
                 </div>

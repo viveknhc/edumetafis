@@ -1,8 +1,29 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-<style>
 
-</style>
+<div class="container">
+    <div class="student-councelling" data-countto="150" data-duration="8000">0</div>
+</div>
 
-<h4 class="animate__animated animate__slideInUp">
-    fghgnghvb hgjb nvg nh dtn
-</h4>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $(".student-councelling").each(function () {
+        var $this = $(this),
+            countTo = $this.attr("data-countto");
+        countDuration = parseInt($this.attr("data-duration"));
+        $({ counter: $this.text() }).animate(
+            {
+                counter: countTo
+            },
+            {
+                duration: countDuration,
+                easing: "linear",
+                step: function () {
+                    $this.text(Math.floor(this.counter));
+                },
+                complete: function () {
+                    $this.text(this.counter);
+                }
+            }
+        );
+    });
+
+</script>

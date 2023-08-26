@@ -267,6 +267,29 @@
         height: 25vh; */
     }
 
+    .pg-edu-event-detail .event-img {
+        justify-content: end;
+        flex-direction: column;
+    }
+
+    .event-join-btn-box {
+        padding: 0px 28px 26px 0px;
+    }
+
+    .primary-white-btn {
+        padding: 7px 1px;
+        width: 114px;
+    }
+
+    .pg-sports-event-detail .event-img {
+        flex-direction: column;
+        justify-content: end;
+    }
+
+    .pg-sports-event-detail .event-img h3 {
+        font-size: 22px;
+    }
+
     .pg-sports-event-banner .inner-header{
         font-size: 22px;
     }
@@ -278,6 +301,10 @@
 
     .pg-sports-event-banner{
         padding: 0 55px;
+    }
+
+    .pg-edu-event-detail .event-img h3 {
+        font-size: 22px;
     }
 
     /* ==abroad study page== */

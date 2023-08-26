@@ -36,7 +36,7 @@
                     <div class="sec-text">
                         <span>Learn Online </span>
 
-                         
+
                     </div>
                     <div class="banner-p-box">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
@@ -56,7 +56,7 @@
             </video>
             <div class="container">
                 <div class="banner-content">
-                    <h1 class="main-text">Unmissable  <span class="ps-4">Sports</span></h1>
+                    <h1 class="main-text">Unmissable <span class="ps-4">Sports</span></h1>
                     <div class="sec-text">
                         <span>Moments </span>
                     </div>

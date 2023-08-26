@@ -45,45 +45,13 @@
                 <div class="event-right">
                     <h4>Event Details</h4>
 
-                    <ul class="course-feature-list">
-                        <li class="pb-2">
-                            <div class="row">
-                                <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
-                                </div>
-                                <div class="col-11">
-                                    Suffered alteration in some
-                                    form
-                                </div>
-                            </div>
-
-                        </li>
-                        <li class="pb-2">
-                            <div class="row">
-                                <div class="col-1">
-
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
-
-                                </div>
-                                <div class="col-11">
-                                    Have suffered alteration in
-                                    some things
-                                </div>
-                            </div>
-                        </li>
-                        <li class="pb-2">
-
-                            <div class="row">
-                                <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
-                                </div>
-                                <div class="col-11">
-                                    Randomised words which don't
-                                    look even slightly
-                                </div>
-                            </div>
-                        </li>
+                    <ul>
+                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-calendar-days"></i> 25/11/2023</p></li>
+                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-clock"></i> 10:30</p></li>
+                        <li> <p class="pe-3"><i class=" pe-2 fa-solid fa-location-dot"></i> USA</p></li>
+                        <li><p class="pe-3"><i class=" pe-2 fa-solid fa-server"></i>Online</p></li>
                     </ul>
+
                 </div>
             </div>
             
