@@ -1,5 +1,10 @@
 <?php include 'partials/header.php';?>
 
+<section>
+    <div class="student-counselling-banner">
+
+    </div>
+</section>
 
 <section>
     <div class="student-counselling">
@@ -10,10 +15,37 @@
                         <div class="counter-content-box d-flex align-items-center flex-column">
                             <div class="student-councelling-counter" data-countto="990" data-duration="8000">
                                 1000<span>+</span></div>
-                            <p>Unique Personas
+                            <p class="text-center">Unique Personas
                                 Analysed</p>
                         </div>
                     </div>
+                    <div class="col-lg-3">
+                        <div class="counter-content-box d-flex align-items-center flex-column">
+                            <div class="student-councelling-counter" data-countto="990" data-duration="8000">
+                                50000<span>+</span></div>
+                            <p class="text-center">Psychometrics
+                                Conducted</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="counter-content-box d-flex align-items-center flex-column">
+                            <div class="student-councelling-counter" data-countto="990" data-duration="8000">
+                                98<span>%</span></div>
+                            <p class="text-center">Report Satisfaction
+                                Score</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="counter-content-box d-flex align-items-center flex-column">
+                            <div class="student-councelling-counter" data-countto="990" data-duration="8000">
+                                25000<span>+</span></div>
+                            <p class="text-center">Students Career
+                                Counseled</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -41,6 +73,27 @@
                                 <li>Most suited career recommendations</li>
                                 <li>Persona & skill gap analysis & counsels</li>
                                 <li>Personality analysis</li>
+
+                            </ul>
+                            <div class="text-center p-4">
+                                <a class="primary-btn">Get Started</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">College Students</h5>
+                            <p class="card-text">(Grad -Post Grad)</p>
+                            <ul>
+                                <li>Career advice based on interest and skill</li>
+                                <li>Detailed Skill Map</li>
+                                <li>Strength and weakness analysis</li>
+                                <li>Persona and skill analysis</li>
                                 <li>Interventions for recommended careers</li>
                             </ul>
                             <div class="text-center p-4">
@@ -50,27 +103,29 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col">
                     <div class="card h-100">
-                        <img src="assets/images/student-counselling/college-students.jpg" class="card-img-top"
-                            alt="...">
+                        <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a short card.</p>
+                            <h5 class="card-title">College Students</h5>
+                            <p class="card-text">(Grad -Post Grad)</p>
+                            <ul>
+                                <li>Career advice based on interest and skill</li>
+                                <li>Detailed Skill Map</li>
+                                <li>Strength and weakness analysis</li>
+                                <li>Persona and skill analysis</li>
+                                <li>Interventions for recommended careers</li>
+                            </ul>
+                            <div class="text-center p-4">
+                                <a class="primary-btn">Get Started</a>
+                            </div>
+
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card h-100">
-                        <img src="assets/images/student-counselling/career-proffessionals.jpg" class="card-img-top"
-                            alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in
-                                to additional content.</p>
-                        </div>
-                    </div>
-                </div>
+
+
             </div>
 
 
@@ -222,7 +277,7 @@
 </section>
 
 
-<section>
+<section class="psychometric-section">
     <div class="container psychometric">
         <div class="heading-box text-center pb-5">
             <h5 class="section-top-head">Psychometric
@@ -296,6 +351,64 @@
         </div>
 
     </div>
+    </div>
+</section>
+
+<section class="pt-lg-5">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6 d-flex flex-column justify-content-center">
+                <div class="heading-box pb-3">
+                    <h5 class="section-top-head">Personalised Learning for
+                    </h5>
+                    <h2 class="section-head">Students</h2>
+                </div>
+                <p>
+                    Based on the career test, we plot your interest, potential and persona and suggest required learning
+                    interventions based on your current class and learning levels
+                </p>
+                <div class="text-start pt-4">
+                    <a class="primary-btn">Get Started</a>
+                </div>
+            </div>
+
+            <div class="col-lg-6 personalised-student">
+                <div class="relative-box">
+                    <img class="img-fluid img-1" src="assets/images/student-counselling/personalised-student1.png"
+                        alt="">
+                    <img class="img-fluid img-2" src="assets/images/student-counselling/personalised-student2.png"
+                        alt="">
+                </div>
+            </div>
+
+
+            <div class="col-lg-6 pt-lg-5 order-lg-0 order-md-0 order-1 proffesional-learning">
+                <div class="relative-box">
+                    <img class="img-fluid img-1" src="assets/images/student-counselling/proffesional1.png" alt="">
+
+                    <img class="img-fluid img-2" src="assets/images/student-counselling/proffesional2.png" alt="">
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 pt-lg-5 order-lg-1 order-md-1 order-0 d-flex flex-column justify-content-center">
+                <div class="heading-box pb-3">
+                    <h5 class="section-top-head">Advanced Learning for
+                    </h5>
+                    <h2 class="section-head">Proffesionals</h2>
+                </div>
+                <p>
+                    The brain test plots your interests, potential, persona and skill level. It does a GAP analysis of
+                    your skills and career options and provides the recommendation on career growth
+                </p>
+                <div class="text-start pt-4">
+                    <a class="primary-btn">Get Started</a>
+                </div>
+            </div>
+
+        </div>
+
     </div>
 </section>
 

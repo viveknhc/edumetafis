@@ -20,9 +20,14 @@
 /* tab */
 @media only screen and (max-width:999px) {
 
-    
+    /* === Sports Event Page */
+
+    .pg-sports-event .ball {
+        bottom: 146px
+    }
+
     /* ==abroad study page== */
-    .abroad-study-profiling{
+    .abroad-study-profiling {
         display: none;
     }
 
@@ -73,6 +78,7 @@
         left: 134px;
         top: 12px;
     }
+
     .relative-box .shape1 {
         left: 94px;
         top: 7px;
@@ -89,7 +95,7 @@
         top: 0px;
         right: 0;
         max-width: 36px;
-        }
+    }
 
 
     .counselling .content-box .white-shape5 {
@@ -115,7 +121,7 @@
     }
 
     .primary-btn {
-        padding: 11px 1px;
+        padding: 11px 14px;
         width: 123px;
         font-size: 14px;
     }
@@ -224,7 +230,7 @@
     .sports .sports-img2 {
         display: none;
     }
-    
+
 
 }
 
@@ -233,24 +239,31 @@
 
 
 @media only screen and (max-width:767px) {
+    .career-aptitude-section {
+        padding: 0;
+    }
+    #banner .video-bg {
+        height: 75vh;
+    }
+
     #banner .banner-item {
-        height: auto;
+        height: 75vh;
     }
 
     /* .edumetfis-navbar img {
         
     } */
 
-    .edumetfis-navbar .navbar-brand img{
+    .edumetfis-navbar .navbar-brand img {
         width: 130px;
     }
 
-    .topbar{
+    .topbar {
         display: none;
     }
-    
-   
-/* 
+
+
+    /* 
     .topbar .mail{
         flex-direction: column;
     }
@@ -262,7 +275,7 @@
      */
 
     /* ==sports events page== */
-    .pg-sports-event-banner{
+    .pg-sports-event-banner {
         /* background-size: contain;
         height: 25vh; */
     }
@@ -290,16 +303,16 @@
         font-size: 22px;
     }
 
-    .pg-sports-event-banner .inner-header{
+    .pg-sports-event-banner .inner-header {
         font-size: 22px;
     }
 
-    
-    .pg-sports-event-banner{
+
+    .pg-sports-event-banner {
         justify-content: center;
     }
 
-    .pg-sports-event-banner{
+    .pg-sports-event-banner {
         padding: 0 55px;
     }
 
@@ -314,9 +327,9 @@
         background-size: contain;
     }
 
-   
 
-    .abroad-study-profiling{
+
+    .abroad-study-profiling {
         display: none;
     }
 
@@ -349,12 +362,19 @@
     }
 
     #banner .banner-item .banner-content h1 {
-        font-size: 32px;
+        font-size: 49px;
     }
 
     #banner .banner-item .banner-content h1 span {
         font-size: 20px;
+        
     }
+
+    .sec-text {
+        font-size: 37px;
+        padding-top: 10px;
+    }
+
     .banner-btn {
         padding: 4px 15px;
     }
@@ -551,7 +571,7 @@
         font-size: 14px;
     }
 
-    
+
 
     .copyrigt-text {
         font-size: 14px;
@@ -776,14 +796,15 @@
         display: none;
     }
 
-    .event .red-shape{
+    .event .red-shape {
         display: none;
     }
-    .event .black-shape{
+
+    .event .black-shape {
         display: none;
     }
-    
-    .event .orange-shape{
+
+    .event .orange-shape {
         display: none;
     }
 
@@ -796,13 +817,13 @@
     .sports .sports-img2 {
         display: none;
     }
-    
+
 
 
     /* sports */
 
     .sports .orange-shape {
-      display: none;
+        display: none;
     }
 
     .sports .red-shape {
@@ -818,6 +839,7 @@
     #testimonial-carousel .item {
         padding: 40px 0 0;
     }
+
     #testimonial-carousel .item .person {
         max-width: 71px;
         right: 43px;
@@ -833,6 +855,16 @@
     .pg-about .about2 {
         left: 23px;
         top: -115px;
+    }
+
+    .personalised-student .img-1 {
+        top: 17px;
+        max-width: 152px;
+    }
+
+    .proffesional-learning .img-1{
+        top: 17px;
+        max-width: 152px;
     }
 
 

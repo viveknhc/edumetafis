@@ -280,7 +280,7 @@
         <div class="container">
             <div class="relative-box">
                 <img data-aos="fade-down-right" data-aos-duration="2000" class="shape1"
-                    src="assets/images/career/red-shape.png" alt="">
+                    src="assets/images/career/color-shape.png" alt="">
                 <img data-aos="fade-up-left" data-aos-duration="2000" class="shape2"
                     src="assets/images/career/black-shape.png" alt="">
 

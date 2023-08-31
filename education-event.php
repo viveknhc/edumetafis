@@ -58,7 +58,7 @@
     <div>
         <div class="container">
             <div class="row gy-5">
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -80,7 +80,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -102,7 +102,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -124,7 +124,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -146,7 +146,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -168,7 +168,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -203,7 +203,7 @@
     <div>
         <div class="container">
             <div class="row gy-5">
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -225,7 +225,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -247,7 +247,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -269,7 +269,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -291,7 +291,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -313,7 +313,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -325,16 +325,16 @@
                                 <div>
                                     <p>
                                         <img src="assets/images/blog/calendar.svg" alt="">
-                                      
                                         20/12/2023
                                     </p>
                                 </div>
 
-                                <a class="primary-white-btn" href="">Read more</a>
+                                <a href="education-event-detail">Read more</a>
                             </div>
                         </div>
                     </div>
                 </div>
+       
             </div>
         </div>
     </div>

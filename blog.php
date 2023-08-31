@@ -2,7 +2,7 @@
 
 
 <!-- banner start -->
-<div class="pg-banner">
+<!-- <div class="pg-banner">
     <div class="container">
         <h3 class="head">Blog</h3>
         <div class="pages-link">
@@ -13,7 +13,7 @@
     </div>
     <img src="assets/images/small-icons/book-icon.png" alt="" class="book-icon">
     <img src="assets/images/small-icons/cap-icon.png" alt="" class="cap-icon">
-</div>
+</div> -->
 <!-- banner end -->
 
 <section>
