@@ -145,11 +145,11 @@
 <!-- <section>
         <div class="about container">
             <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="col-lg-6">
                     <div class="img-box">
 
-                        <img class="about-img1" src="assets/images/about/about-index.png" alt="">
-                        <img class="about-shape1" src="assets/images/about/shape1.png" alt="">
+                        <img class="about-img1 img-fluid" src="assets/images/about/about-index.png" alt="">
+                        <img class="about-shape1 img-fluid" src="assets/images/about/shape1.png" alt="">
 
                         <img class="about-img2" src="assets/images/about/about-index2.png" alt="">
 
@@ -168,7 +168,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="col-lg-6">
                     <div class="px-3">
                         <h5>About us</h5>
                         <h2>Edu<span class="head-style">metafis</span></h2>
@@ -192,7 +192,7 @@
 <!-- about end-->
 
 <!-- feature -->
-<section>
+<section data-aos="fade-up" data-aos-duration="3000">
     <div class="container-fluid">
         <div class="feature">
             <div class="row">
@@ -289,18 +289,18 @@
                     <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="">
                     <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
                     <div class="flag">
-                        <div>
+                        <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2000">
                             <img src="assets/images/career/country1.png" alt="">
                         </div>
-                        <div>
+                        <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2200">
                             <img src="assets/images/career/country2.png" alt="">
                         </div>
-                        <div>
+                        <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2400">
                             <img src="assets/images/career/country3.png" alt="">
                         </div>
-                        <div>
+                        <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2600">
                             <img src="assets/images/career/country4.png" alt="">
-                        </div>
+                        </div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2800">
 
                     </div>
                     <div class="heading-box">
@@ -338,7 +338,8 @@
                         <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
 
 
-                        <img class="img-fluid" src="assets/images/courses/girl.png" alt="">
+                        <img data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000" class="img-fluid"
+                            src="assets/images/courses/girl.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -498,7 +499,8 @@
 
 
                             </div>
-                            <img class="img-fluid px-lg-5" src="assets/images/counselling/girl-index.png" alt="">
+                            <img data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000"
+                                class="img-fluid px-lg-5" src="assets/images/counselling/girl-index.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -621,8 +623,7 @@
 
                                 <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
 
-                                <img class="img-fluid" data-aos="fade-left" data-aos-duration="1500"
-                                    src="assets/images/mentor/event1.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/event1.png" alt="">
 
                             </div>
 
@@ -633,8 +634,7 @@
                                 <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
 
 
-                                <img class="img-fluid" data-aos="fade-right" data-aos-duration="1500"
-                                    src="assets/images/mentor/event2.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/event2.png" alt="">
                             </div>
 
 
@@ -735,8 +735,7 @@
 
                                 <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
 
-                                <img class="img-fluid" data-aos="fade-left" data-aos-duration="1500"
-                                    src="assets/images/mentor/sports1.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/sports1.png" alt="">
 
                             </div>
 
@@ -747,8 +746,7 @@
                                 <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
 
 
-                                <img class="img-fluid" data-aos="fade-right" data-aos-duration="1500"
-                                    src="assets/images/mentor/sports2.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/sports2.png" alt="">
                             </div>
 
 
@@ -944,8 +942,8 @@
 
         <div class="container">
             <div class="row g-4">
-                <div class="col-lg-4">
-                    <div class="card blog-card">
+                <div class="col-lg-4 col-md-6">
+                    <div class="card blog-card" data-aos="fade-up" data-aos-duration="2000">
                         <div class="relative-box">
                             <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
                             <span></span>
@@ -964,8 +962,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="card blog-card">
+                <div class="col-lg-4 col-md-6">
+                    <div class="card blog-card" data-aos="fade-up" data-aos-duration="3000">
 
                         <div class="relative-box">
                             <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
@@ -986,8 +984,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="card blog-card">
+                <div class="col-lg-4 col-md-6">
+                    <div class="card blog-card" data-aos="fade-up" data-aos-duration="3000">
                         <div class="relative-box">
                             <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
                             <span></span>

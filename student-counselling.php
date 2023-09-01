@@ -11,7 +11,7 @@
         <div class="container">
             <div>
                 <div class="row">
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-content-box d-flex align-items-center flex-column">
                             <div class="student-councelling-counter" data-countto="990" data-duration="8000">
                                 1000<span>+</span></div>
@@ -19,7 +19,7 @@
                                 Analysed</p>
                         </div>
                     </div>
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-content-box d-flex align-items-center flex-column">
                             <div class="student-councelling-counter" data-countto="990" data-duration="8000">
                                 50000<span>+</span></div>
@@ -27,8 +27,7 @@
                                 Conducted</p>
                         </div>
                     </div>
-
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-content-box d-flex align-items-center flex-column">
                             <div class="student-councelling-counter" data-countto="990" data-duration="8000">
                                 98<span>%</span></div>
@@ -36,8 +35,7 @@
                                 Score</p>
                         </div>
                     </div>
-
-                    <div class="col-lg-3">
+                    <div class="col-lg-3 col-md-6">
                         <div class="counter-content-box d-flex align-items-center flex-column">
                             <div class="student-councelling-counter" data-countto="990" data-duration="8000">
                                 25000<span>+</span></div>
@@ -61,7 +59,7 @@
         </div>
 
         <div class="career-aptitude about2">
-            <div class="row row-cols-1 row-cols-md-3 g-5">
+            <div class="row row-cols-1 row-cols-lg-3 g-5 g-md-2">
                 <div class="col">
                     <div class="card h-100">
                         <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
@@ -285,7 +283,7 @@
             <h2 class="section-head">career tests</h2>
         </div>
         <div class="row g-5">
-            <div class="col-lg-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
@@ -301,8 +299,8 @@
                 </div>
             </div>
 
-            <div class="col-lg-6">
-                <div class="row g-5">
+            <div class="col-lg-6 col-md-6">
+                <div class="row">
                     <div class="col-lg-3">
                         <div>
                             <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="">
@@ -317,7 +315,23 @@
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <!-- <div class="col-lg-6 col-md-6">
+                <div class="row g-5">
+                    <div class="col-lg-3">
+                        <div>
+                            <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-9">
+
+                        <h4>AFTER 12TH CAREER SELECTOR</h4>
+                        <p>For students in class 11th-12th, Know most suited career options based on your interest and
+                            aptitude, Learn needed interventions & courses.</p>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class="col-lg-6 col-md-6">
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
@@ -333,7 +347,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <div class="col-lg-6 col-md-6">
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
@@ -358,7 +372,7 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-6 d-flex flex-column justify-content-center">
+            <div class="col-lg-6 col-md-6 d-flex flex-column justify-content-center">
                 <div class="heading-box pb-3">
                     <h5 class="section-top-head">Personalised Learning for
                     </h5>
@@ -373,7 +387,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 personalised-student">
+            <div class="col-lg-6 col-md-6 personalised-student">
                 <div class="relative-box">
                     <img class="img-fluid img-1" src="assets/images/student-counselling/personalised-student1.png"
                         alt="">
@@ -383,7 +397,7 @@
             </div>
 
 
-            <div class="col-lg-6 pt-lg-5 order-lg-0 order-md-0 order-1 proffesional-learning">
+            <div class="col-lg-6 col-md-6 pt-md-5 pt-lg-5 order-lg-0 order-md-0 order-1 proffesional-learning">
                 <div class="relative-box">
                     <img class="img-fluid img-1" src="assets/images/student-counselling/proffesional1.png" alt="">
 
@@ -392,7 +406,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 pt-lg-5 order-lg-1 order-md-1 order-0 d-flex flex-column justify-content-center">
+            <div class="col-lg-6 col-md-6 pt-md-5 pt-lg-5 order-lg-1 order-md-1 order-0 d-flex flex-column justify-content-center">
                 <div class="heading-box pb-3">
                     <h5 class="section-top-head">Advanced Learning for
                     </h5>

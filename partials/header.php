@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!-- aos -->
-    <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <!-- owl carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css"
@@ -65,7 +65,7 @@
         </div>
     </div>
     <!-- navbar start -->
-    <nav class="navbar navbar-expand-lg navbar-light edumetfis-navbar">
+    <nav class="navbar navbar-expand-lg navbar-light edumetfis-navbar" id="navbar">
         <div class="container">
             <a class="navbar-brand" href="index"><img src="assets/images/logo/logo1.png" alt=""></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -77,10 +77,11 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item home-icon">
-                        <a class="nav-link active " aria-current="page" href="index">
+                        <a class="nav-link nav-active active " aria-current="page" href="index">
                             <img class="home-icon" src="assets/images/banner/home.png" alt="">
                         </a>
                     </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="about">About Us</a>
                     </li>
@@ -90,10 +91,11 @@
                     <li class="nav-item">
                         <a class="nav-link" href="online-tutorial">Online Tutorial</a>
                     </li>
-                  
+
                     <li class="nav-item">
                         <a class="nav-link" href="services">Services</a>
                     </li>
+
 
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="events" role="button" data-bs-toggle="dropdown"
@@ -120,3 +122,7 @@
         </div>
     </nav>
     <!-- navbar end -->
+
+    <script>
+        document.querySelectorAll('.nav-active').forEach((item) => item.classList.add('active'));
+    </script>

@@ -20,7 +20,7 @@
     <div class="blog py-5">
         <div class="container">
             <div class="row g-4">
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card blog-card">
                         <div class="relative-box">
                             <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">
@@ -40,7 +40,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card blog-card">
 
                         <div class="relative-box">
@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card blog-card">
                         <div class="relative-box">
                             <img src="assets/images/blog/blog1.png" class="card-img-top" alt="...">

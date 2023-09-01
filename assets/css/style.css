@@ -31,6 +31,14 @@
     align-items: start;
 }
 
+.dropdown-menu {
+    display: none;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
 .navbar-light .navbar-toggler{
     border: none !important;
 }
@@ -191,7 +199,7 @@ section {
 .edumetfis-navbar .nav-item .nav-link {
     color: var(--black-col);
     font-size: 16px;
-    padding: 8px 6px;
+    padding: 8px 12px;
 }
 
 .edumetfis-navbar .nav-item .nav-link.active {
@@ -2112,7 +2120,7 @@ section {
     background-image: url('../images/education-event/banner.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 75vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -2297,7 +2305,7 @@ section {
 
 .career-aptitude-section {
     background-color: #346cb317;
-    padding: 110px;
+    padding: 110px 0;
     overflow: hidden;
 }
 
@@ -2441,8 +2449,25 @@ section {
     height: 100vh;
 }
 
+.online-tutorial-feature img{
+    max-width: 80px;
+}
 
+.online-tutorial-feature .card{
+    align-items: center;
+    text-align: center;
+    padding: 27px;
+    border: none !important;
+}
 
+.online-tutorial-feature h5{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.tutorial-what-offer img{
+    border-radius: 20px;
+}
 
 @keyframes loader-spin {
     to {

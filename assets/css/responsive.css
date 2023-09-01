@@ -12,6 +12,7 @@
     .career-partner {
         left: 9px;
         bottom: 182px;
+        z-index: 111;
     }
 }
 
@@ -19,6 +20,10 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
+
+    .study-abroad-counter img{
+        display: none;
+    }
 
     /* === Sports Event Page */
 

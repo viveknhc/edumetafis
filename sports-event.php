@@ -57,7 +57,7 @@
     <div>
         <div class="container">
             <div class="row gy-5">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -79,7 +79,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -123,7 +123,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -145,7 +145,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -167,7 +167,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -202,7 +202,7 @@
     <div>
         <div class="container">
             <div class="row gy-5">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -224,7 +224,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -246,7 +246,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -268,7 +268,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -290,7 +290,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -312,7 +312,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/sports-events/prev1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">

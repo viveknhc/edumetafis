@@ -1,19 +1,5 @@
 <?php include 'partials/header.php';?>
 
-    <!-- banner start -->
-    <div class="pg-banner">
-        <div class="container">
-            <h3 class="head">Blog Detail</h3>
-            <div class="pages-link">
-                <a href="#" class="active-link">Home</a>
-                <span class="ms-1 me-1">/</span>
-                <p class="non-link">Blog</p>
-            </div>
-        </div>
-        <img src="assets/images/small-icons/book-icon.png" alt="" class="book-icon">
-        <img src="assets/images/small-icons/cap-icon.png" alt="" class="cap-icon">
-    </div>
-    <!-- banner end -->
 
     <!-- blog inner pg section start -->
     <div class="blog-inner-pg-section">
