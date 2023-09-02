@@ -1,12 +1,34 @@
 <?php include 'partials/header.php';?>
 
-<section>
-    <div class="student-counselling-banner">
+<header>
+    <div class="student-counselling-banner inner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 left-side">
+                    <div>
+                        <h1>
+                             
+                            We guide you to <br><span class="mt-5"> the best</span> 
+                        </h1>
+                    </div>
 
+
+                   
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="relative-box">
+                        <img class="img-fluid" src="assets/images/student-counselling/banner.png" alt="">
+                        <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png" alt="">
+                        <img class="img-fluid banner-shape2" src="assets/images/student-counselling/banner-shape.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</section>
+</header>
 
-<section>
+<section class="section">
     <div class="student-counselling">
         <div class="container">
             <div>
@@ -50,7 +72,7 @@
     </div>
 </section>
 
-<section class="career-aptitude-section">
+<section class="career-aptitude-section section">
     <div class="container">
         <div class="heading-box text-center pb-5">
             <h5 class="section-top-head">Career Aptitude Test for students from 10th to 12th, graduates & professionals
@@ -206,7 +228,7 @@
 </section> -->
 
 
-<section>
+<section class="section">
     <div class="container how-different">
         <div class="row">
             <div class="col-lg-6">
@@ -275,7 +297,7 @@
 </section>
 
 
-<section class="psychometric-section">
+<section class="psychometric-section section">
     <div class="container psychometric">
         <div class="heading-box text-center pb-5">
             <h5 class="section-top-head">Psychometric
@@ -368,7 +390,7 @@
     </div>
 </section>
 
-<section class="pt-lg-5">
+<section class="pt-lg-5 section">
     <div class="container">
 
         <div class="row">
@@ -406,7 +428,8 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-6 pt-md-5 pt-lg-5 order-lg-1 order-md-1 order-0 d-flex flex-column justify-content-center">
+            <div
+                class="col-lg-6 col-md-6 pt-md-5 pt-lg-5 order-lg-1 order-md-1 order-0 d-flex flex-column justify-content-center">
                 <div class="heading-box pb-3">
                     <h5 class="section-top-head">Advanced Learning for
                     </h5>

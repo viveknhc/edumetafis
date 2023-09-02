@@ -2,19 +2,33 @@
 
 
 <header>
-    <div class="pg-sports-event-banner">
-    <div>
-        <div class="container text-center">
-            <h5 class="inner-top-header">event</h5>
-            <h2 class="inner-header">sports events</h2>
+    <div class="pg-sports-event-banner inner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 left-side">
+                    <div>
+                        <h1>
+                             
+                             Gather on the firm<br>  base for your sports <br> <span class="mt-5"> and actives</span> 
+                        </h1>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                   <div class="relative-box">
+                    <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png" alt="">
+                    <img class="img-fluid sp-shape2" src="assets/images/sports-events/shapes/shape2.png" alt="">
+                    <img class="img-fluid sp-shape3" src="assets/images/sports-events/shapes/shape3.png" alt="">
+                    <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="">
+                   </div>
+                </div>
+            </div>
+           
         </div>
-        
-    </div>
     </div>
 </header>
 
 
-<section>
+<section class="section">
     <div class="container">
         <div class="pg-sports-event">
             <div class="row">
@@ -48,7 +62,7 @@
     </div>
 </section>
 
-<section class="prev-event-box">
+<section class="prev-event-box section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">upcomming events</h2>
@@ -193,7 +207,7 @@
     </div>
 </section>
 
-<section class="prev-event-box pb-5">
+<section class="prev-event-box section pb-5">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">previous events</h2>

@@ -20,8 +20,38 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
+    .study-abroad {
+        padding: 0;
+    }
 
-    .study-abroad-counter img{
+    .career-path {
+        display: none;
+    }
+
+    .about .img-box {
+        height: 100vh;
+    }
+
+    .about {
+        overflow-x: hidden;
+        padding: 10px 0px;
+    }
+
+    .about .img-box .about-img1 {
+        top: 0;
+        left: 25%;
+    }
+
+    .about .img-box .about-shape1 {
+        top: 0;
+        left: 25%;
+    }
+
+    .about .img-box .about-img2 {
+        left: 15px;
+    }
+
+    .study-abroad-counter img {
         display: none;
     }
 
@@ -244,15 +274,34 @@
 
 
 @media only screen and (max-width:767px) {
+
+    .section {
+        padding: 0 10px;
+    }
+
+    .study-abroad-counter {
+        justify-content: center;
+    }
+
+
+    .about {
+        overflow-x: hidden;
+    }
+
     .career-aptitude-section {
         padding: 0;
     }
+
     #banner .video-bg {
         height: 75vh;
     }
 
     #banner .banner-item {
         height: 75vh;
+    }
+
+    .career-path {
+        display: none;
     }
 
     /* .edumetfis-navbar img {
@@ -295,8 +344,7 @@
     }
 
     .primary-white-btn {
-        padding: 7px 1px;
-        width: 114px;
+            padding: 7px 16px;
     }
 
     .pg-sports-event-detail .event-img {
@@ -328,9 +376,38 @@
     /* ==abroad study page== */
 
     .pg-study-abroad {
-        height: 37vh;
         background-size: contain;
     }
+
+    .abroad-study-cta h3 {
+        font-size: 21px;
+    }
+
+    .college-seletion {
+        padding: 0 10px;
+    }
+
+    .application-process{
+        padding: 0 10px;
+    }
+    .abroad-study-cta{
+        height: auto;
+        padding: 0 10px;
+        margin: 30px 0px;
+    }
+
+    .abroad-study-cta .row {
+        padding: 17px;
+    }
+
+    .abroad-study-cta .row .shape1 {
+        display: none;
+    }
+
+    .abroad-study-cta .row .shape2 {
+        display: none;
+    }
+
 
 
 
@@ -372,7 +449,7 @@
 
     #banner .banner-item .banner-content h1 span {
         font-size: 20px;
-        
+
     }
 
     .sec-text {
@@ -466,21 +543,25 @@
     }
 
     .about .img-box .about-img1 {
-        top: -74px !important;
+        top: 0;
         right: 68px !important;
-        max-width: 233px !important;
+        max-width: 205px !important;
     }
 
     .about .img-box .about-img2 {
-        left: 38px !important;
+        left: 0px !important;
         top: 148px !important;
         max-width: 145px;
     }
 
     .about .img-box .about-shape1 {
-        top: -73px !important;
-        right: 71px !important;
-        max-width: 234px !important;
+        top: 0;
+        right: 68px !important;
+        max-width: 205px !important;
+    }
+
+    .counter-box div {
+        display: none;
     }
 
     .feature {
@@ -867,9 +948,15 @@
         max-width: 152px;
     }
 
-    .proffesional-learning .img-1{
+    .proffesional-learning .img-1 {
         top: 17px;
         max-width: 152px;
+    }
+
+    /* study abroad page */
+
+    .top-ucity-box {
+        padding: 10px 0;
     }
 
 

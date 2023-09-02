@@ -1,7 +1,7 @@
 <?php include 'partials/header.php';?>
 
 
-<section data-aos="fade-up" data-aos-duration="2000">
+<section class="pb-3" data-aos="fade-right" data-aos-duration="2000">
     <div class="container pg-sports-event-detail">
         <div class="row">
             <div>
@@ -28,17 +28,21 @@
     </div>
 </section>
 
-<section>
+<section class="section">
     <div class="container event-content">
         <div class="row">
             <div class="col-lg-6 col-md-8">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
-                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap
+                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                    the
+                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+                    publishing
                     software like Aldus PageMaker including versions of Lorem Ipsum.
-            </p>
+                </p>
             </div>
 
             <div class="col-lg-6 col-md-4">
@@ -46,21 +50,29 @@
                     <h4 class="pb-lg-4">Event Details</h4>
 
                     <ul>
-                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-calendar-days"></i> 25/11/2023</p></li>
-                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-clock"></i> 10:30</p></li>
-                        <li> <p class="pe-3"><i class=" pe-2 fa-solid fa-location-dot"></i> USA</p></li>
-                        <li><p class="pe-3"><i class=" pe-2 fa-solid fa-server"></i>Online</p></li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-regular fa-calendar-days"></i> 25/11/2023</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-regular fa-clock"></i> 10:30</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-solid fa-location-dot"></i> USA</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-solid fa-server"></i>Online</p>
+                        </li>
                     </ul>
 
                 </div>
             </div>
-            
+
         </div>
     </div>
 </section>
 
 
-<section class="prev-event-box pb-lg-5">
+<section class="prev-event-box pb-lg-5 section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">More events</h2>

@@ -70,8 +70,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="blog-inner.php" class="read-more-btn">Read More<i
-                                class="fa-solid fa-arrow-right ms-2"></i></a>
+                        <a href="#" class="read-more-btn">Read More<i class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>

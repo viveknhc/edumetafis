@@ -1815,6 +1815,55 @@ section {
 
 /* =========== ABOUT STUDY ABROAD =============*/
 
+.inner .left-side{
+    display: flex;
+    align-items: center;
+}
+
+.inner h1{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #1b4f91;
+    font-size: 38px;
+    line-height: 1;
+
+}
+
+.inner span{
+    color: var(--primary-col);
+    font-size: 60px;
+}
+
+
+.pg-study-abroad .image-box{
+    overflow: hidden;
+}
+
+.pg-study-abroad .banner-circle{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+    animation: aboutRotation 20s infinite linear;
+    
+}
+
+.pg-study-abroad .banner-tag1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: upDown 3s infinite linear;
+}
+
+.pg-study-abroad .banner-tag2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: downUp 3s infinite linear;
+}
+
+
+
 .countries img {
     border-radius: 20px;
 }
@@ -1858,21 +1907,6 @@ section {
     text-align: end;
 }
 
-.pg-study-abroad {
-    height: 85vh;
-    background-image: url('../images/study-abroad/banner.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-}
-
-.pg-study-abroad .banner-box {
-    height: 400px;
-    width: 400px;
-    background-color: var(--white-col);
-    border-radius: 100%;
-}
 
 
 
@@ -2117,44 +2151,68 @@ section {
 /* education event */
 
 .pg-edu-event-banner {
-    background-image: url('../images/education-event/banner.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 80vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100vh;
+} 
+
+.pg-edu-event-banner .banner-shape1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    animation: downUp 3s linear infinite;
 }
 
-
-.pg-edu-event-banner .inner-top-header {
-    font-size: 30px;
-    text-transform: uppercase;
-    font-weight: 800;
-    color: var(--white-col);
+.pg-edu-event-banner .banner-shape2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
 }
 
-.pg-edu-event-banner .inner-header {
-    text-transform: uppercase;
-    font-weight: 200;
-    color: #fff;
-    font-size: 45px;
-    font-weight: 700;
+.pg-edu-event-banner .banner-shape3{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+    animation: upDown 3s linear infinite;
 }
 
-/* =====STUDY ABROAD */
-
-.pg-study-abroad h1 {
-    font-size: 45px;
-    text-transform: uppercase;
-    font-weight: 800;
-}
-
-.pg-study-abroad h1 span {
-    color: #346cb3;
-}
 
 /* ===SPORTS EVENT DETAIL PAGE== */
+
+.pg-sports-event-banner .sp-event-img{
+    padding: 60px;
+}
+
+.pg-sports-event-banner .sp-shape1{
+    position: absolute;
+    top: 52px;
+    left: 38%;
+    max-width: 40px;
+    animation: aboutRotation 6s infinite linear;
+}
+
+.pg-sports-event-banner .sp-shape2{
+    position: absolute;
+    top: 58%;
+    left: 56px;
+    max-width: 28px;
+    animation: upDown 3s infinite linear;
+}
+
+.pg-sports-event-banner .sp-shape3{
+    position: absolute;
+    bottom: 30px;
+    left: 40%;
+    max-width: 27px;
+    animation: downUp 3s infinite linear;
+}
+
+
+
+
+
+
 
 
 .pg-sports-event-detail .event-img {
@@ -2309,9 +2367,30 @@ section {
     overflow: hidden;
 }
 
-.student-counselling-banner{
-    height: 100vh;
+.student-counselling-banner .relative-box{
+    overflow: hidden;
 }
+
+
+
+.student-counselling-banner .banner-shape1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+    animation: aboutRotation 6s infinite linear;
+}
+
+.student-counselling-banner .banner-shape2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+    animation: aboutRotation 5s infinite linear;
+}
+
+
+
 
 
 .student-counselling {
@@ -2445,9 +2524,7 @@ section {
 
 /* ==== Tutorial Page ==== */
 
-.tutorial-banner{
-    height: 100vh;
-}
+
 
 .online-tutorial-feature img{
     max-width: 80px;

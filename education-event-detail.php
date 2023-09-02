@@ -1,7 +1,7 @@
 <?php include 'partials/header.php';?>
 
 
-<section  data-aos="fade-up" data-aos-duration="2000">
+<section class="pb-3"  data-aos="fade-right" data-aos-duration="2000">
     <div class="container pg-edu-event-detail">
         <div class="row">
             <div>
@@ -28,7 +28,7 @@
     </div>
 </section>
 
-<section>
+<section class="section" >
     <div class="container event-content">
         <div class="row">
             <div class="col-lg-6">
@@ -60,7 +60,7 @@
 </section>
 
 
-<section class="prev-event-box pb-lg-5">
+<section class="prev-event-box pb-lg-5 section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">More events</h2>

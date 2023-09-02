@@ -2,13 +2,28 @@
 
 
 <header>
-    <div class="pg-edu-event-banner">
-        <div>
-            <div class="container text-center">
-                <h5 class="inner-top-header">event</h5>
-                <h2 class="inner-header">educational events</h2>
+    <div class="pg-edu-event-banner inner">
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-6 left-side">
+
+                <div>
+                    <h1>
+                       Gain knowledge from  <br> <span class="mt-5">entertainment</span> 
+                    </h1>
+                </div>
+
+              </div>
+              <div class="col-lg-6">
+                <div class="relative-box">
+                    <img class="img-fluid" src="assets/images/education-event/banner-study-event-1.png" alt="">
+                    <img class="img-fluid banner-shape1" src="assets/images/education-event/banner-study-event-2.png" alt="">
+                    <img class="img-fluid banner-shape2" src="assets/images/education-event/banner-study-event-3.png" alt="">
+                    <img class="img-fluid banner-shape3" src="assets/images/education-event/banner-study-event-4.png" alt="">
+                </div>
+              </div>
             </div>
-            
+
         </div>
     </div>
 </header>
@@ -16,13 +31,14 @@
 
 
 
-<section>
+<section class="section">
     <div class="container">
         <div class="pg-sports-event">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="relative-box">
-                        <img class="img-fluid" src="assets/images/education-event/education2.jpg" data-aos="fade-right" data-aos-duration="2000" alt="">
+                        <img class="img-fluid" src="assets/images/education-event/education2.jpg" data-aos="fade-right"
+                            data-aos-duration="2000" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -49,7 +65,7 @@
     </div>
 </section>
 
-<section class="prev-event-box">
+<section class="prev-event-box section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">upcomming events</h2>
@@ -194,7 +210,7 @@
     </div>
 </section>
 
-<section class="prev-event-box pb-5">
+<section class="prev-event-box pb-5 section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">previous events</h2>
@@ -334,7 +350,7 @@
                         </div>
                     </div>
                 </div>
-       
+
             </div>
         </div>
     </div>

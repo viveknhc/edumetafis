@@ -142,51 +142,51 @@
 
 <!-- about -->
 
-<!-- <section>
-        <div class="about container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="img-box">
+<section class="section" >
+    <div class="about container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <div class="img-box">
 
-                        <img class="about-img1 img-fluid" src="assets/images/about/about-index.png" alt="">
-                        <img class="about-shape1 img-fluid" src="assets/images/about/shape1.png" alt="">
+                    <img class="about-img1 img-fluid" src="assets/images/about/about-index.png" alt="">
+                    <img class="about-shape1 img-fluid" src="assets/images/about/shape1.png" alt="">
 
-                        <img class="about-img2" src="assets/images/about/about-index2.png" alt="">
+                    <img class="about-img2" src="assets/images/about/about-index2.png" alt="">
 
-                        <div class="counter-box">
-                            <div>
-                                <img src="assets/images/about/shape3.png" alt="">
-                                <div class="text">
-                                    <h4>5+</h4>
-                                    <p>Year Experience</p>
-                                </div>
-
+                    <div class="counter-box">
+                        <div>
+                            <img src="assets/images/about/shape3.png" alt="">
+                            <div class="text">
+                                <h4>5+</h4>
+                                <p>Year Experience</p>
                             </div>
 
                         </div>
 
                     </div>
+
                 </div>
-
-                <div class="col-lg-6">
-                    <div class="px-3">
-                        <h5>About us</h5>
-                        <h2>Edu<span class="head-style">metafis</span></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't look
-                            even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
-                            sure there isn't anything embarrassing hidden.</p>
-                        <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
-                            predefined chunks as necessary, making this the first true generator on the Internet. It
-                            uses a dictionary of over 200.</p>
-
-                        <button class="primary-btn">read more</button>
-                    </div>
-                </div>
-
             </div>
+
+            <div class="col-lg-6 col-md-12">
+                <div class="px-3">
+                    <h5>About us</h5>
+                    <h2>Edu<span class="head-style">metafis</span></h2>
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                        suffered alteration in some form, by injected humour, or randomised words which don't look
+                        even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
+                        sure there isn't anything embarrassing hidden.</p>
+                    <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
+                        predefined chunks as necessary, making this the first true generator on the Internet. It
+                        uses a dictionary of over 200.</p>
+
+                    <button class="primary-btn">read more</button>
+                </div>
+            </div>
+
         </div>
-    </section> -->
+    </div>
+</section>
 
 
 <!-- about end-->
@@ -275,7 +275,7 @@
 <!-- feature end -->
 
 <!-- career -->
-<section>
+<section class="section" >
     <div class="career-index">
         <div class="container">
             <div class="relative-box">
@@ -326,7 +326,7 @@
 <!-- career end -->
 
 <!-- courses -->
-<section>
+<section class="section" >
     <div class="courses">
         <div class="container">
             <div class="row">
@@ -539,7 +539,7 @@
 <!-- student counselling end -->
 
 <!-- mentor -->
-<section>
+<section class="section">
     <div class="mentor">
         <div class="container">
             <div class="row">
@@ -611,7 +611,7 @@
 <!-- mentor end -->
 
 <!-- education event -->
-<section>
+<section class="section">
     <div class="sports">
         <div class="container">
             <div class="row">
@@ -712,7 +712,7 @@
 
 <!-- sports event -->
 
-<section>
+<section class="section">
     <div class="sports">
         <div class="container">
             <div class="row">
@@ -764,7 +764,7 @@
 
 <!-- testimonials -->
 
-<section>
+<section class="section">
     <div class="testimonial">
 
         <div class="text-center pb-3">
@@ -933,7 +933,7 @@
 
 <!-- blog -->
 
-<section>
+<section class="section">
     <div class="blog">
         <div class="text-center pb-5">
             <h5 class="section-top-head">blog</h5>
@@ -958,7 +958,7 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="">18/7/2023</p>
-                            <a class="read-more" href="#" class="">read more</a>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
                 </div>
@@ -980,7 +980,7 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="">18/7/2023</p>
-                            <a class="read-more" href="#" class="">read more</a>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
                 </div>
@@ -1000,14 +1000,14 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="">18/7/2023</p>
-                            <a class="read-more" href="#" class="">read more</a>
+                            <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="text-center mt-4">
-                <button class="primary-btn">More Blogs</button>
+                <a href="blog" class="primary-btn">More Blogs</a>
             </div>
         </div>
     </div>
@@ -1018,7 +1018,7 @@
 
 <!-- cta -->
 
-<section>
+<section class="section">
     <div class="cta">
         <div class="container">
             <div class="row">

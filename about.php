@@ -1,6 +1,6 @@
 <?php include 'partials/header.php';?>
 
-<section class="pg-about">
+<section class="pg-about section">
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6 order-lg-0 order-md-1 order-1 d-flex justify-content-center align-items-center">
@@ -30,7 +30,7 @@
 </section>
 
 
-<section>
+<section class="section">
     <div class="container-fluid">
         <div class="feature">
             <div class="row">
@@ -111,7 +111,7 @@
     </div>
 </section>
 
-<section>
+<section class="section">
     <div class="testimonial">
 
         <div class="text-center pb-3">
