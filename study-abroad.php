@@ -12,10 +12,10 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box image-box">
-                        <img class="img-fluid" src="assets/images/study-abroad/banner.png" alt="">
-                        <img class="img-fluid banner-circle" src="assets/images/study-abroad/banner-circle.png" alt="">
-                        <img class="img-fluid banner-tag1" src="assets/images/study-abroad/banner-tag1.png" alt="">
-                        <img class="img-fluid banner-tag2" src="assets/images/study-abroad/banner-tag2.png" alt="">
+                        <img class="img-fluid" src="assets/images/study-abroad/banner.png" alt="image">
+                        <img class="img-fluid banner-circle" src="assets/images/study-abroad/banner-circle.png" alt="image">
+                        <img class="img-fluid banner-tag1" src="assets/images/study-abroad/banner-tag1.png" alt="image">
+                        <img class="img-fluid banner-tag2" src="assets/images/study-abroad/banner-tag2.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -35,28 +35,28 @@
                 <div class="row">
                     <div class="col-lg-3 col-6 col-md-6">
                         <div class="text-center">
-                            <img class="icon1" src="assets/images/study-abroad/icon1.png" alt="">
+                            <img class="icon1" src="assets/images/study-abroad/icon1.png" alt="image">
                             <h2 class="pt-3">100000+</h2>
                             <p>Students</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-md-6">
                         <div class="text-center">
-                            <img class="icon2" src="assets/images/study-abroad/icon2.png" alt="">
+                            <img class="icon2" src="assets/images/study-abroad/icon2.png" alt="image">
                             <h2 class="pt-3">22+</h2>
                             <p>Countries</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-md-6">
                         <div class="text-center">
-                            <img class="icon3" src="assets/images/study-abroad/icon3.png" alt="">
+                            <img class="icon3" src="assets/images/study-abroad/icon3.png" alt="image">
                             <h2 class="pt-3">1500+</h2>
                             <p>Top Universities</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-md-6">
                         <div class="text-center">
-                            <img class="icon4" src="assets/images/study-abroad/icon4.png" alt="">
+                            <img class="icon4" src="assets/images/study-abroad/icon4.png" alt="image">
                             <h2 class="pt-3">3000+</h2>
                             <p>Occupations</p>
                         </div>
@@ -69,7 +69,7 @@
 
 <section>
     <div class="study-abroad-counter relative-box">
-        <img src="assets/images/logo/logo-icon.png" alt="">
+        <img src="assets/images/logo/logo-icon.png" alt="image">
         <div class="pe-5 ps-md-5">
             <h2>Study Abroad <br> Explore, Learn, Grow</h2>
             <div class="text-lg-end pt-4">
@@ -106,9 +106,9 @@
             <div class="col-lg-6">
                 <div class="relative-box career-path">
                     <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid career-img1"
-                        src="assets/images/study-abroad/career1.png" alt="">
+                        src="assets/images/study-abroad/career1.png" alt="image">
                     <img data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"
-                        class="img-fluid career-img2" src="assets/images/study-abroad/career2.png" alt="">
+                        class="img-fluid career-img2" src="assets/images/study-abroad/career2.png" alt="image">
                 </div>
             </div>
         </div>
@@ -120,27 +120,27 @@
         <div class="row">
             <div class="col-lg-2 col-md-2 ">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/australia.png" alt="">
+                    src="assets/images/study-abroad/australia.png" alt="image">
             </div>
             <div class="col-lg-2 col-md-2">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/germany.png" alt="">
+                    src="assets/images/study-abroad/germany.png" alt="image">
             </div>
             <div class="col-lg-2 col-md-2">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/new-zealand.png" alt="">
+                    src="assets/images/study-abroad/new-zealand.png" alt="image">
             </div>
             <div class="col-lg-2 col-md-2">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/uk.png" alt="">
+                    src="assets/images/study-abroad/uk.png" alt="image">
             </div>
             <div class="col-lg-2 col-md-2">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/us.png" alt="">
+                    src="assets/images/study-abroad/us.png" alt="image">
             </div>
             <div class="col-lg-2 col-md-2">
                 <img data-aos="fade-down" data-aos-duration="3000" class="img-fluid h-75 w-100"
-                    src="assets/images/study-abroad/canada.png" alt="">
+                    src="assets/images/study-abroad/canada.png" alt="image">
             </div>
         </div>
     </div>
@@ -152,7 +152,7 @@
         <div class="row">
             <div class="col-lg-6 d-flex justify-content-center align-items-center">
                 <div class="abroad-study-profiling">
-                    <img class="img-fluid" src="assets/images/study-abroad/abroad-profiling.png" alt="">
+                    <img class="img-fluid" src="assets/images/study-abroad/abroad-profiling.png" alt="image">
 
 
                     <svg class="svg-calLoader" xmlns="http://www.w3.org/2000/svg" width="230" height="230">
@@ -185,7 +185,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Abroad studies application profiling for top colleges and countries selection.
@@ -196,7 +196,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Generate 10+ pages career and college milestones report.
@@ -208,8 +208,6 @@
                         <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </div>
@@ -245,7 +243,7 @@
             </div>
             <div class="col-lg-6">
                 <div>
-                    <img class="img-fluid" src="assets/images/study-abroad/college.png" alt="">
+                    <img class="img-fluid" src="assets/images/study-abroad/college.png" alt="image">
                 </div>
             </div>
         </div>
@@ -258,7 +256,7 @@
             <div class="col-lg-6 order-1 order-md-1">
 
                 <div>
-                    <img class="img-fluid" src="assets/images/study-abroad/application-process.png" alt="">
+                    <img class="img-fluid" src="assets/images/study-abroad/application-process.png" alt="image">
                 </div>
 
             </div>
@@ -273,7 +271,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Application submission to top universities
@@ -286,7 +284,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Strong file management for better chances to get a seat in top universities
@@ -298,7 +296,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Visa coordination
@@ -310,7 +308,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     SOP Support
@@ -322,7 +320,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     University coordination
@@ -334,7 +332,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Scholarships
@@ -356,8 +354,8 @@
         <div class="row">
             <div class="col-lg-8">
                 <div class="content">
-                    <img class="shape1" src="assets/images/contact/shape1.png" alt="">
-                    <img class="shape2" src="assets/images/contact/shape2.png" alt="">
+                    <img class="shape1" src="assets/images/contact/shape1.png" alt="image">
+                    <img class="shape2" src="assets/images/contact/shape2.png" alt="image">
 
                     <h3>are you Ready to fly & <br> Persure your dreams</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore optio repellat accusamus
@@ -367,7 +365,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="">
-                    <img class="img-fluid cta-girl" src="assets/images/study-abroad/cta.png" alt="">
+                    <img class="img-fluid cta-girl" src="assets/images/study-abroad/cta.png" alt="image">
                 </div>
             </div>
         </div>

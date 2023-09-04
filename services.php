@@ -8,7 +8,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/sports-events/event3.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event3.jpg" class="img-fluid" alt="image">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Study Abroad</h4>
@@ -25,7 +25,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/sports-events/event4.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event4.jpg" class="img-fluid" alt="image">
 
                     </div>
                     <div class="blog-desc">
@@ -43,7 +43,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-2.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/blog/blog-2.jpg" class="img-fluid" alt="image">
 
                     </div>
                     <div class="blog-desc">
@@ -61,7 +61,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="image">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Mentorship</h4>
@@ -77,7 +77,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/sports-events/event1.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event1.jpg" class="img-fluid" alt="image">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Sports Events</h4>
@@ -94,7 +94,7 @@
             <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
                 <div class="edumetafis-blog-card">
                     <div class="blog-img">
-                        <img src="assets/images/sports-events/event2.jpg" class="img-fluid" alt="">
+                        <img src="assets/images/sports-events/event2.jpg" class="img-fluid" alt="image">
                     </div>
                     <div class="blog-desc">
                         <h4 class="blog-head">Educational Events</h4>

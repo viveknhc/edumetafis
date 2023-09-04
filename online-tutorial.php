@@ -14,7 +14,7 @@
         </div>
         <div class="col-lg-6">
             <div>
-                <img class="img-fluid" src="assets/images/online-tutorial/banner.png" alt="">
+                <img class="img-fluid" src="assets/images/online-tutorial/banner.png" alt="image">
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@
             </div>
             <div class="col-lg-6">
 <div>
-    <img class="img-fluid" src="assets/images/online-tutorial/who.jpg" alt="">
+    <img class="img-fluid" src="assets/images/online-tutorial/who.jpg" alt="image">
 </div>
             </div>
         </div>

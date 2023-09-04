@@ -5,9 +5,9 @@
         <div class="row g-5">
             <div class="col-lg-6 order-lg-0 order-md-1 order-1 d-flex justify-content-center align-items-center">
                 <div class="relative-box ">
-                    <img class="img-fluid about2" src="assets/images/about/about2.png" alt="">
+                    <img class="img-fluid about2" src="assets/images/about/about2.png" alt="image">
 
-                    <img class="img-fluid about1" src="assets/images/about/about.png" alt="">
+                    <img class="img-fluid about1" src="assets/images/about/about.png" alt="image">
 
                 </div>
             </div>
@@ -39,7 +39,7 @@
                     <div class="py-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/lock.png" alt="">
+                                <img src="assets/images/feature/lock.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -57,7 +57,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/arrow.png" alt="">
+                                <img src="assets/images/feature/arrow.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -75,7 +75,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/certificate.png" alt="">
+                                <img src="assets/images/feature/certificate.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -92,7 +92,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/office.png" alt="">
+                                <img src="assets/images/feature/office.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -133,9 +133,9 @@
                             style="transform: translate3d(-3941px, 0px, 0px); transition: all 0.25s ease 0s; width: 6756px;">
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -154,16 +154,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -182,16 +182,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -210,16 +210,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -238,16 +238,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -266,16 +266,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -294,16 +294,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -322,16 +322,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item active" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -350,16 +350,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item active" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -378,16 +378,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -406,16 +406,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -434,16 +434,16 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="owl-item cloned" style="width: 553px; margin-right: 10px;">
                                 <div class="item">
-                                    <img class="person" src="assets/images/testimonial/person.png" alt="">
+                                    <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                                    <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                                     <div class="testimonial-box">
 
@@ -462,7 +462,7 @@
                                         </div>
 
                                         <div class="rating">
-                                            <img src="assets/images/testimonial/star.svg" alt="">
+                                            <img src="assets/images/testimonial/star.svg" alt="image">
                                         </div>
                                     </div>
                                 </div>

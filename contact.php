@@ -22,8 +22,8 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="contact-information">
-                            <img class="shape1" src="assets/images/contact/shape1.png" alt="">
-                            <img class="shape2" src="assets/images/contact/shape2.png" alt="">
+                            <img class="shape1" src="assets/images/contact/shape1.png" alt="image">
+                            <img class="shape2" src="assets/images/contact/shape2.png" alt="image">
                             <div>
                                 <h2>contact <br> information</h2>
                             </div>
@@ -34,21 +34,21 @@
                                 <ul>
                                     <li>
                                         <div class="list">
-                                            <img class="pe-3 icon" src="assets/images/contact/icon1.png" alt="">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon1.png" alt="image">
                                             <p>adrdress line</p>
                                         </div>
                                     </li>
     
                                     <li>
                                         <div class="list">
-                                            <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="image">
                                             <p>info@metafis</p>
                                         </div>
                                     </li>
     
                                     <li>
                                         <div class="list">
-                                            <img class="pe-3 icon" src="assets/images/contact/icon3.png" alt="">
+                                            <img class="pe-3 icon" src="assets/images/contact/icon3.png" alt="image">
                                             <p>+91 4565 132 456, +91 6545 856 132</p>
                                         </div>
                                     </li>
@@ -58,10 +58,10 @@
                             <div class="social-links">
                                 <p>social links</p>
                                 <div class="d-flex justify-content-between pt-3">
-                                    <img src="assets/images/contact/icon4.png" alt="">
-                                    <img src="assets/images/contact/icon7.png" alt="">
-                                    <img src="assets/images/contact/icon5.png" alt="">
-                                    <img src="assets/images/contact/icon6.png" alt="">
+                                    <img src="assets/images/contact/icon4.png" alt="image">
+                                    <img src="assets/images/contact/icon7.png" alt="image">
+                                    <img src="assets/images/contact/icon5.png" alt="image">
+                                    <img src="assets/images/contact/icon6.png" alt="image">
     
                                 </div>
                             </div>

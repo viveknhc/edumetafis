@@ -18,9 +18,9 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
-                        <img class="img-fluid" src="assets/images/student-counselling/banner.png" alt="">
-                        <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png" alt="">
-                        <img class="img-fluid banner-shape2" src="assets/images/student-counselling/banner-shape.png" alt="">
+                        <img class="img-fluid" src="assets/images/student-counselling/banner.png" alt="image">
+                        <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png" alt="image">
+                        <img class="img-fluid banner-shape2" src="assets/images/student-counselling/banner-shape.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -175,7 +175,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div>
-                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="">
+                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
 
                         <div class="col-lg-6">
                             <div>
-                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="">
+                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="image">
                             </div>
                         </div>
 
@@ -217,7 +217,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div>
-                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="">
+                                <img class="img-fluid" src="assets/images/student-counselling/career-test.jpg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div>
-                    <img class="img-fluid" src="assets/images/student-counselling/perfect-career.jpg" alt="">
+                    <img class="img-fluid" src="assets/images/student-counselling/perfect-career.jpg" alt="image">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -245,7 +245,7 @@
                     <li class="pb-2">
                         <div class="row">
                             <div class="col-1">
-                                <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                <img class="" src="assets/images/courses/list-icon.png" alt="image">
                             </div>
                             <div class="col-11">
                                 360 Brain and skill profile analysis
@@ -257,7 +257,7 @@
                         <div class="row">
                             <div class="col-1">
 
-                                <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                <img class="" src="assets/images/courses/list-icon.png" alt="image">
 
                             </div>
                             <div class="col-11">
@@ -269,7 +269,7 @@
 
                         <div class="row">
                             <div class="col-1">
-                                <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                <img class="" src="assets/images/courses/list-icon.png" alt="image">
                             </div>
                             <div class="col-11">
                                 Right courses needed to fill in the skill gaps
@@ -281,7 +281,7 @@
 
                         <div class="row">
                             <div class="col-1">
-                                <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                <img class="" src="assets/images/courses/list-icon.png" alt="image">
                             </div>
                             <div class="col-11">
                                 Exact interventions needed for the careers
@@ -309,7 +309,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
-                            <img class="img-fluid" src="assets/images/student-counselling/icon1.png" alt="">
+                            <img class="img-fluid" src="assets/images/student-counselling/icon1.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-9">
@@ -325,7 +325,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
-                            <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="">
+                            <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-9">
@@ -341,7 +341,7 @@
                 <div class="row g-5">
                     <div class="col-lg-3">
                         <div>
-                            <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="">
+                            <img class="img-fluid" src="assets/images/student-counselling/icon2.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-9">
@@ -357,7 +357,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
-                            <img class="img-fluid" src="assets/images/student-counselling/icon3.png" alt="">
+                            <img class="img-fluid" src="assets/images/student-counselling/icon3.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-9">
@@ -373,7 +373,7 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <div>
-                            <img class="img-fluid" src="assets/images/student-counselling/icon4.png" alt="">
+                            <img class="img-fluid" src="assets/images/student-counselling/icon4.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-9">
@@ -412,18 +412,18 @@
             <div class="col-lg-6 col-md-6 personalised-student">
                 <div class="relative-box">
                     <img class="img-fluid img-1" src="assets/images/student-counselling/personalised-student1.png"
-                        alt="">
+                        alt="image">
                     <img class="img-fluid img-2" src="assets/images/student-counselling/personalised-student2.png"
-                        alt="">
+                        alt="image">
                 </div>
             </div>
 
 
             <div class="col-lg-6 col-md-6 pt-md-5 pt-lg-5 order-lg-0 order-md-0 order-1 proffesional-learning">
                 <div class="relative-box">
-                    <img class="img-fluid img-1" src="assets/images/student-counselling/proffesional1.png" alt="">
+                    <img class="img-fluid img-1" src="assets/images/student-counselling/proffesional1.png" alt="image">
 
-                    <img class="img-fluid img-2" src="assets/images/student-counselling/proffesional2.png" alt="">
+                    <img class="img-fluid img-2" src="assets/images/student-counselling/proffesional2.png" alt="image">
 
                 </div>
             </div>

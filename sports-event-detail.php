@@ -92,7 +92,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -114,7 +114,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -136,7 +136,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>

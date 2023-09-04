@@ -20,8 +20,26 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
+    .about .img-box{
+        display: none;
+    }
+    
     .study-abroad {
         padding: 0;
+    }
+
+     .inner .left-side {
+        padding: 22px 0;
+        justify-content: center;
+    }
+
+    .inner span {
+        font-size: 60px;
+    }
+
+    .inner h1 {
+        text-align: center;
+        font-size: 35px;
     }
 
     .career-path {
@@ -58,7 +76,8 @@
     /* === Sports Event Page */
 
     .pg-sports-event .ball {
-        bottom: 146px
+        bottom: 70px;
+        max-width: 43px;
     }
 
     /* ==abroad study page== */
@@ -159,6 +178,10 @@
         padding: 11px 14px;
         width: 123px;
         font-size: 14px;
+    }
+
+    .footer-readmore {
+        font-size: 10px;
     }
 
     .get-in-touch-box {
@@ -283,6 +306,30 @@
         justify-content: center;
     }
 
+    .about .img-box{
+        display: none;
+    }
+
+
+    .inner .left-side {
+        padding: 22px 0;
+        justify-content: center;
+    }
+
+    .inner h1 {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .inner span {
+        font-size: 41px;
+    }
+
+    .banner-content {
+        white-space: wrap;
+
+    }
+
 
     .about {
         overflow-x: hidden;
@@ -334,6 +381,23 @@
         height: 25vh; */
     }
 
+    .pg-sports-event-banner .sp-event-img {
+        padding: 2px;
+    }
+
+    .pg-sports-event-banner .sp-shape2 {
+        display: none;
+    }
+
+    .pg-sports-event-banner .sp-shape1 {
+        display: none;
+    }
+
+    .pg-sports-event-banner .sp-shape3 {
+        display: none;
+    }
+
+
     .pg-edu-event-detail .event-img {
         justify-content: end;
         flex-direction: column;
@@ -344,7 +408,17 @@
     }
 
     .primary-white-btn {
-            padding: 7px 16px;
+        color: var(--white-col);
+        padding: 7px 16px;
+        box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
+        border-radius: 40px;
+        padding: 10px 30px;
+        border: none;
+        text-transform: uppercase;
+        background-image: linear-gradient(var(--gradient-button));
+        width: 170px;
+        font-weight: 700;
+        text-decoration: none;
     }
 
     .pg-sports-event-detail .event-img {
@@ -385,12 +459,15 @@
 
     .college-seletion {
         padding: 0 10px;
+        overflow: hidden;
     }
 
-    .application-process{
+    .application-process {
         padding: 0 10px;
+        overflow: hidden;
     }
-    .abroad-study-cta{
+
+    .abroad-study-cta {
         height: auto;
         padding: 0 10px;
         margin: 30px 0px;
@@ -542,10 +619,14 @@
         width: 110px;
     }
 
+
+
     .about .img-box .about-img1 {
-        top: 0;
-        right: 68px !important;
-        max-width: 205px !important;
+
+            left: 50%;
+            transform: translateX(-50%);
+            max-width: 205px !important;
+        
     }
 
     .about .img-box .about-img2 {

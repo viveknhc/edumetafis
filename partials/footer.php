@@ -7,9 +7,9 @@
             <div class="row">
                 <div class="col-lg-6 col-12 relative-box">
 
-                    <img class="footer-shape1" src="assets/images/footer/shape1.png" alt="">
-                    <img class="footer-shape2" src="assets/images/footer/shape2.png" alt="">
-                    <img class="footer-shape3" src="assets/images/footer/shape3.png" alt="">
+                    <img class="footer-shape1" src="assets/images/footer/shape1.png" alt="image">
+                    <img class="footer-shape2" src="assets/images/footer/shape2.png" alt="image">
+                    <img class="footer-shape3" src="assets/images/footer/shape3.png" alt="image">
 
 
                     <h3>Subscribe Our <br><span>Newsletter....!</span></h3>
@@ -20,7 +20,7 @@
                     <div class="input-box">
                         <div>
                             <input type="text" placeholder="Enter Email Address">
-                            <button class="primary-btn">read more</button>
+                            <button class="primary-btn footer-readmore">read more</button>
                         </div>
 
                     </div>
@@ -29,7 +29,7 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-12">
-                <img src="assets/images/logo/logo-white.png" alt="" class="footer-logo">
+                <img src="assets/images/logo/logo-white.png" alt="image" class="footer-logo">
                 <P class="footer-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. amet consectetur
                     adipisicing elit.</P>
                 <div class="ftr-sm-icons">

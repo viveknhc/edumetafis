@@ -6,7 +6,7 @@
 
         <div class="banner-item banner-item-1">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/1.m4v" type="video/mp4">
+                <source src="assets/images/banner/1.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
@@ -28,7 +28,7 @@
 
         <div class="banner-item banner-item-2">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/2.m4v" type="video/mp4">
+                <source src="assets/images/banner/2.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
@@ -52,7 +52,7 @@
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/3.m4v" type="video/mp4">
+                <source src="assets/images/banner/3.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
@@ -73,13 +73,13 @@
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/4.m4v" type="video/mp4">
+                <source src="assets/images/banner/4.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
-                    <h1 class="main-text">Expand<span class="ps-4">Horizons</span></h1>
+                    <h1 class="main-text">Join Our <span class="ps-4">Horizons</span></h1>
                     <div class="sec-text">
-                        <span>Join Our Education Event</span>
+                        <span>to Expand Horizons!</span>
                     </div>
                     <div class="banner-p-box">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
@@ -94,7 +94,7 @@
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/5.m4v" type="video/mp4">
+                <source src="assets/images/banner/5.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
@@ -115,7 +115,7 @@
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/6.m4v" type="video/mp4">
+                <source src="assets/images/banner/6.mp4" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
@@ -148,14 +148,14 @@
             <div class="col-lg-6 col-md-12">
                 <div class="img-box">
 
-                    <img class="about-img1 img-fluid" src="assets/images/about/about-index.png" alt="">
-                    <img class="about-shape1 img-fluid" src="assets/images/about/shape1.png" alt="">
+                    <img class="about-img1 img-fluid" src="assets/images/about/about-index.png" alt="image">
+                    <img class="about-shape1 img-fluid" src="assets/images/about/shape1.png" alt="image">
 
-                    <img class="about-img2" src="assets/images/about/about-index2.png" alt="">
+                    <img class="about-img2" src="assets/images/about/about-index2.png" alt="image">
 
                     <div class="counter-box">
                         <div>
-                            <img src="assets/images/about/shape3.png" alt="">
+                            <img src="assets/images/about/shape3.png" alt="image">
                             <div class="text">
                                 <h4>5+</h4>
                                 <p>Year Experience</p>
@@ -201,7 +201,7 @@
                     <div class="py-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/lock.png" alt="">
+                                <img src="assets/images/feature/lock.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -219,7 +219,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/arrow.png" alt="">
+                                <img src="assets/images/feature/arrow.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -237,7 +237,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/certificate.png" alt="">
+                                <img src="assets/images/feature/certificate.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -254,7 +254,7 @@
                     <div class="pb-3">
                         <div class="row">
                             <div class="col-5">
-                                <img src="assets/images/feature/office.png" alt="">
+                                <img src="assets/images/feature/office.png" alt="image">
                             </div>
                             <div class="col-7">
                                 <div>
@@ -280,26 +280,26 @@
         <div class="container">
             <div class="relative-box">
                 <img data-aos="fade-down-right" data-aos-duration="2000" class="shape1"
-                    src="assets/images/career/color-shape.png" alt="">
+                    src="assets/images/career/color-shape.png" alt="image">
                 <img data-aos="fade-up-left" data-aos-duration="2000" class="shape2"
-                    src="assets/images/career/black-shape.png" alt="">
+                    src="assets/images/career/black-shape.png" alt="image">
 
                 <div class="career-content">
-                    <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="">
-                    <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="">
-                    <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
+                    <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="image">
+                    <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="image">
+                    <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="image">
                     <div class="flag">
                         <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2000">
-                            <img src="assets/images/career/country1.png" alt="">
+                            <img src="assets/images/career/country1.png" alt="image">
                         </div>
                         <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2200">
-                            <img src="assets/images/career/country2.png" alt="">
+                            <img src="assets/images/career/country2.png" alt="image">
                         </div>
                         <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2400">
-                            <img src="assets/images/career/country3.png" alt="">
+                            <img src="assets/images/career/country3.png" alt="image">
                         </div>
                         <div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2600">
-                            <img src="assets/images/career/country4.png" alt="">
+                            <img src="assets/images/career/country4.png" alt="image">
                         </div data-aos="fade-left" data-aos-easing="linear" data-aos-duration="2800">
 
                     </div>
@@ -333,13 +333,13 @@
                 <div class="col-lg-6">
                     <div class="position-relative">
 
-                        <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="">
-                        <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="">
-                        <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="">
+                        <img class="sm-shape1" src="assets/images/career/small shapes/shape1.png" alt="image">
+                        <img class="sm-shape2" src="assets/images/career/small shapes/shape2.png" alt="image">
+                        <img class="sm-shape3" src="assets/images/career/small shapes/shape3.png" alt="image">
 
 
                         <img data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000" class="img-fluid"
-                            src="assets/images/courses/girl.png" alt="">
+                            src="assets/images/courses/girl.png" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -366,7 +366,7 @@
 
                                 <div class="row">
                                     <div class="col-1">
-                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                     </div>
                                     <div class="col-11">
                                         Suffered alteration in some
@@ -380,7 +380,7 @@
 
                                 <div class="row">
                                     <div class="col-1">
-                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                     </div>
                                     <div class="col-11">
                                         Have suffered alteration in
@@ -391,7 +391,7 @@
                             <li class="pb-2">
                                 <div class="row">
                                     <div class="col-1">
-                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="">
+                                        <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
                                     </div>
                                     <div class="col-11">
                                         Randomised words which don't
@@ -411,44 +411,44 @@
                 <div id="courseIndexCarousel" class="owl-carousel">
                     <div class="item h-100">
                         <h2>bba</h2>
-                        <img src="assets/images/courses/bba.png" alt="">
+                        <img src="assets/images/courses/bba.png" alt="image">
 
                     </div>
                     <div class="item h-100">
                         <h2>mbbs</h2>
-                        <img src="assets/images/courses/mbbs.png" alt="">
+                        <img src="assets/images/courses/mbbs.png" alt="image">
                     </div>
                     <div class="item h-100">
                         <h2>engineering</h2>
-                        <img src="assets/images/courses/engineering.png" alt="">
+                        <img src="assets/images/courses/engineering.png" alt="image">
                     </div>
 
                     <div class="item h-100">
                         <h2>bba</h2>
-                        <img src="assets/images/courses/bba.png" alt="">
+                        <img src="assets/images/courses/bba.png" alt="image">
 
                     </div>
                     <div class="item h-100">
                         <h2>mbbs</h2>
-                        <img src="assets/images/courses/mbbs.png" alt="">
+                        <img src="assets/images/courses/mbbs.png" alt="image">
                     </div>
                     <div class="item h-100">
                         <h2>engineering</h2>
-                        <img src="assets/images/courses/engineering.png" alt="">
+                        <img src="assets/images/courses/engineering.png" alt="image">
                     </div>
 
                     <div class="item h-100">
                         <h2>bba</h2>
-                        <img src="assets/images/courses/bba.png" alt="">
+                        <img src="assets/images/courses/bba.png" alt="image">
 
                     </div>
                     <div class="item h-100">
                         <h2>mbbs</h2>
-                        <img src="assets/images/courses/mbbs.png" alt="">
+                        <img src="assets/images/courses/mbbs.png" alt="image">
                     </div>
                     <div class="item h-100">
                         <h2>engineering</h2>
-                        <img src="assets/images/courses/engineering.png" alt="">
+                        <img src="assets/images/courses/engineering.png" alt="image">
                     </div>
 
                 </div>
@@ -486,7 +486,7 @@
                             <div class="career-partner">
                                 <div class="row">
                                     <div class="col-3">
-                                        <img src="assets/images/counselling/icon1.png" alt="">
+                                        <img src="assets/images/counselling/icon1.png" alt="image">
                                     </div>
 
                                     <div class="col-9 d-flex">
@@ -500,7 +500,7 @@
 
                             </div>
                             <img data-aos="fade-right" data-aos-easing="linear" data-aos-duration="2000"
-                                class="img-fluid px-lg-5" src="assets/images/counselling/girl-index.png" alt="">
+                                class="img-fluid px-lg-5" src="assets/images/counselling/girl-index.png" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6">
@@ -561,7 +561,7 @@
                         <li class="pb-2">
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Suffered alteration in some
@@ -574,7 +574,7 @@
                             <div class="row">
                                 <div class="col-1">
 
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
 
                                 </div>
                                 <div class="col-11">
@@ -587,7 +587,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="">
+                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Randomised words which don't
@@ -600,8 +600,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
-                        <img class="shape1" src="assets/images/mentor/shapes/shape1.png" alt="">
-                        <img class="img-fluid girl-shape" src="assets/images/mentor/girl-index.png" alt="">
+                        <img class="shape1" src="assets/images/mentor/shapes/shape1.png" alt="image">
+                        <img class="img-fluid girl-shape" src="assets/images/mentor/girl-index.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -621,20 +621,20 @@
                         <div class="col-lg-8 sports-img1 relative-box">
                             <div>
 
-                                <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
+                                <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="image">
 
-                                <img class="img-fluid" src="assets/images/mentor/event1.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/event1.png" alt="image">
 
                             </div>
 
                         </div>
                         <div class="col-lg-4 sports-img2 relative-box">
                             <div>
-                                <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
-                                <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
+                                <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="image">
+                                <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="image">
 
 
-                                <img class="img-fluid" src="assets/images/mentor/event2.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/event2.png" alt="image">
                             </div>
 
 
@@ -674,17 +674,17 @@
 
                             <div class="col-lg-4 col-8 event-img1 relative-box">
                                 <div>
-                                    <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
-                                    <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
+                                    <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="image">
+                                    <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="image">
                                     <img class="img-fluid" data-aos="fade-left" data-aos-duration="1500"
-                                        src="assets/images/mentor/event2.png" alt="">
+                                        src="assets/images/mentor/event2.png" alt="image">
                                 </div>
                             </div>
                             <div class="col-lg-8 col-8 event-img2 relative-box">
                                 <div>
-                                    <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
+                                    <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="image">
                                     <img class="img-fluid" data-aos="fade-right" data-aos-duration="1500"
-                                        src="assets/images/mentor/event1.png" alt="">
+                                        src="assets/images/mentor/event1.png" alt="image">
                                 </div>
                             </div>
 
@@ -733,20 +733,20 @@
                         <div class="col-lg-8 sports-img1 relative-box">
                             <div>
 
-                                <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="">
+                                <img class="orange-shape" src="assets/images/mentor/shapes/orange.png" alt="image">
 
-                                <img class="img-fluid" src="assets/images/mentor/sports1.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/sports1.png" alt="image">
 
                             </div>
 
                         </div>
                         <div class="col-lg-4 sports-img2 relative-box">
                             <div>
-                                <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="">
-                                <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="">
+                                <img class="red-shape" src="assets/images/mentor/shapes/red.png" alt="image">
+                                <img class="black-shape" src="assets/images/mentor/shapes/black.png" alt="image">
 
 
-                                <img class="img-fluid" src="assets/images/mentor/sports2.png" alt="">
+                                <img class="img-fluid" src="assets/images/mentor/sports2.png" alt="image">
                             </div>
 
 
@@ -776,9 +776,9 @@
             <div class="row">
                 <div class="owl-carousel" id="testimonial-carousel">
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -795,14 +795,14 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -819,14 +819,14 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -843,14 +843,14 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -867,14 +867,14 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -891,14 +891,14 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="">
+                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
 
-                        <img class="quote" src="assets/images/testimonial/quote.png" alt="">
+                        <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
                         <div class="testimonial-box">
 
@@ -915,7 +915,7 @@
                             </div>
 
                             <div class="rating">
-                                <img src="assets/images/testimonial/star.svg" alt="">
+                                <img src="assets/images/testimonial/star.svg" alt="image">
                             </div>
                         </div>
                     </div>
@@ -957,7 +957,7 @@
 
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
-                                    alt="">18/7/2023</p>
+                                    alt="image">18/7/2023</p>
                             <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
@@ -979,7 +979,7 @@
 
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
-                                    alt="">18/7/2023</p>
+                                    alt="image">18/7/2023</p>
                             <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
@@ -999,7 +999,7 @@
 
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
-                                    alt="">18/7/2023</p>
+                                    alt="image">18/7/2023</p>
                             <a class="read-more" href="blog-inner" class="">read more</a>
                         </div>
                     </div>
@@ -1040,8 +1040,8 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-information">
-                        <img class="shape1" src="assets/images/contact/blue-shape.png" alt="">
-                        <img class="shape2" src="assets/images/contact/shape2.png" alt="">
+                        <img class="shape1" src="assets/images/contact/blue-shape.png" alt="image">
+                        <img class="shape2" src="assets/images/contact/shape2.png" alt="image">
                         <div>
                             <h2>contact <br> information</h2>
                         </div>
@@ -1049,21 +1049,21 @@
                             <ul>
                                 <li>
                                     <div class="list">
-                                        <img class="pe-3 icon" src="assets/images/contact/icon1.png" alt="">
+                                        <img class="pe-3 icon" src="assets/images/contact/icon1.png" alt="image">
                                         <p>adrdress line</p>
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="list">
-                                        <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="">
+                                        <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="image">
                                         <p>info@metafis</p>
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="list">
-                                        <img class="pe-3 icon" src="assets/images/contact/icon3.png" alt="">
+                                        <img class="pe-3 icon" src="assets/images/contact/icon3.png" alt="image">
                                         <p>+91 4565 132 456, +91 6545 856 132</p>
                                     </div>
                                 </li>
@@ -1073,10 +1073,10 @@
                         <div class="social-links">
                             <p>social links</p>
                             <div class="d-flex justify-content-between pt-3">
-                                <img src="assets/images/contact/icon4.png" alt="">
-                                <img src="assets/images/contact/icon7.png" alt="">
-                                <img src="assets/images/contact/icon5.png" alt="">
-                                <img src="assets/images/contact/icon6.png" alt="">
+                                <img src="assets/images/contact/icon4.png" alt="image">
+                                <img src="assets/images/contact/icon7.png" alt="image">
+                                <img src="assets/images/contact/icon5.png" alt="image">
+                                <img src="assets/images/contact/icon6.png" alt="image">
 
                             </div>
                         </div>

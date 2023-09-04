@@ -11,8 +11,8 @@
                 <p class="non-link">Partners & Investors</p>
             </div>
         </div>
-        <img src="assets/images/small-icons/book-icon.png" alt="" class="book-icon">
-        <img src="assets/images/small-icons/cap-icon.png" alt="" class="cap-icon">
+        <!-- <img src="assets/images/small-icons/book-icon.png" alt="image" class="book-icon">
+        <img src="assets/images/small-icons/cap-icon.png" alt="image" class="cap-icon"> -->
     </div>
     <!-- banner end -->
 
@@ -35,30 +35,30 @@
                 <h3 class="main-head text-center mb-4">Our Partners</h3>
                 <div class="partners-img mb-3">
                     <div>
-                        <img src="assets/images/partners-investors/img-1.png" alt="">
+                        <img src="assets/images/partners-investors/img-1.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-2.png" alt="">
+                        <img src="assets/images/partners-investors/img-2.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-3.png" alt="">
+                        <img src="assets/images/partners-investors/img-3.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-4.png" alt="">
+                        <img src="assets/images/partners-investors/img-4.png" alt="image">
                     </div>
                 </div>
                 <div class="partners-img">
                     <div>
-                        <img src="assets/images/partners-investors/img-1.png" alt="">
+                        <img src="assets/images/partners-investors/img-1.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-2.png" alt="">
+                        <img src="assets/images/partners-investors/img-2.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-3.png" alt="">
+                        <img src="assets/images/partners-investors/img-3.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/img-4.png" alt="">
+                        <img src="assets/images/partners-investors/img-4.png" alt="image">
                     </div>
 
                 </div>
@@ -68,42 +68,42 @@
                 <h3 class="main-head text-center mb-4">Our Investors</h3>
                 <div class="investors-img mb-lg-3 mb-2">
                     <div>
-                        <img src="assets/images/partners-investors/logo-1.png" alt="">
+                        <img src="assets/images/partners-investors/logo-1.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-2.png" alt="">
+                        <img src="assets/images/partners-investors/logo-2.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-3.png" alt="">
+                        <img src="assets/images/partners-investors/logo-3.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-4.png" alt="">
+                        <img src="assets/images/partners-investors/logo-4.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-5.png" alt="">
+                        <img src="assets/images/partners-investors/logo-5.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-5.png" alt="">
+                        <img src="assets/images/partners-investors/logo-5.png" alt="image">
                     </div>
                 </div>
                 <div class="investors-img">
                     <div>
-                        <img src="assets/images/partners-investors/logo-6.png" alt="">
+                        <img src="assets/images/partners-investors/logo-6.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-7.png" alt="">
+                        <img src="assets/images/partners-investors/logo-7.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-3.png" alt="">
+                        <img src="assets/images/partners-investors/logo-3.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-4.png" alt="">
+                        <img src="assets/images/partners-investors/logo-4.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-5.png" alt="">
+                        <img src="assets/images/partners-investors/logo-5.png" alt="image">
                     </div>
                     <div>
-                        <img src="assets/images/partners-investors/logo-5.png" alt="">
+                        <img src="assets/images/partners-investors/logo-5.png" alt="image">
                     </div>
                 </div>
 

@@ -9,8 +9,8 @@
             <p class="non-link">Services</p>
         </div>
     </div>
-    <img src="assets/images/small-icons/book-icon.png" alt="" class="book-icon">
-    <img src="assets/images/small-icons/cap-icon.png" alt="" class="cap-icon">
+    <img src="assets/images/small-icons/book-icon.png" alt="image" class="book-icon">
+    <img src="assets/images/small-icons/cap-icon.png" alt="image" class="cap-icon">
 </div>
 
 <?php include 'partials/footer.php';?>

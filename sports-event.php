@@ -9,16 +9,16 @@
                     <div>
                         <h1>
                              
-                             Gather on the firm<br>  base for your sports <br> <span class="mt-5"> and actives</span> 
+                            Build a solid base for your sports and<br> <span class="mt-5"> activities</span> 
                         </h1>
                     </div>
                 </div>
                 <div class="col-lg-6">
                    <div class="relative-box">
-                    <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png" alt="">
-                    <img class="img-fluid sp-shape2" src="assets/images/sports-events/shapes/shape2.png" alt="">
-                    <img class="img-fluid sp-shape3" src="assets/images/sports-events/shapes/shape3.png" alt="">
-                    <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="">
+                    <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png" alt="image">
+                    <img class="img-fluid sp-shape2" src="assets/images/sports-events/shapes/shape2.png" alt="image">
+                    <img class="img-fluid sp-shape3" src="assets/images/sports-events/shapes/shape3.png" alt="image">
+                    <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="image">
                    </div>
                 </div>
             </div>
@@ -34,8 +34,8 @@
             <div class="row">
                 <div class="col-lg-6  order-lg-0 order-1">
                     <div class="relative-box">
-                        <img class="img-fluid" src="assets/images/sports-events/sports-event1.png" alt="">
-                        <img  class="img-fluid ball" src="assets/images/sports-events/ball.png" alt="">
+                        <img class="img-fluid" src="assets/images/sports-events/sports-event1.png" alt="image">
+                        <img  class="img-fluid ball" src="assets/images/sports-events/ball.png" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-6  order-lg-1 order-0">
@@ -82,7 +82,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -104,7 +104,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -126,7 +126,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -148,7 +148,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -170,7 +170,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -192,7 +192,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -227,7 +227,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -249,7 +249,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -271,7 +271,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -293,7 +293,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -315,7 +315,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>
@@ -337,7 +337,7 @@
                             <div class="date">
                                 <div>
                                     <p>
-                                        <img src="assets/images/blog/calendar.svg" alt="">
+                                        <img src="assets/images/blog/calendar.svg" alt="image">
                                         20/12/2023
                                     </p>
                                 </div>

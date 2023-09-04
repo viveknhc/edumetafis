@@ -10,8 +10,8 @@
                 <p class="non-link">Career</p>
             </div>
         </div>
-        <img src="assets/images/small-icons/book-icon.png" alt="" class="book-icon">
-        <img src="assets/images/small-icons/cap-icon.png" alt="" class="cap-icon">
+        <!-- <img src="assets/images/small-icons/book-icon.png" alt="image" class="book-icon">
+        <img src="assets/images/small-icons/cap-icon.png" alt="image" class="cap-icon"> -->
     </div>
     <!-- banner end -->
 
@@ -30,7 +30,7 @@
                     </div>
                 </div>
                 <div class="right-section">
-                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt=""></a>
+                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt="image"></a>
                 </div>
             </div>
 
@@ -45,7 +45,7 @@
                     </div>
                 </div>
                 <div class="right-section">
-                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt=""></a>
+                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt="image"></a>
                 </div>
             </div>
 
@@ -60,7 +60,7 @@
                     </div>
                 </div>
                 <div class="right-section">
-                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt=""></a>
+                    <a href="#" class="apply-btn">Apply Now <img src="assets/images/targerArr.svg" alt="image"></a>
                 </div>
             </div>
         </div>
