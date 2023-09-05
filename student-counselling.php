@@ -7,20 +7,22 @@
                 <div class="col-lg-6 left-side">
                     <div>
                         <h1>
-                             
-                            We guide you to <br><span class="mt-5"> the best</span> 
+
+                            We guide you to <br><span class="mt-5"> the best</span>
                         </h1>
                     </div>
 
 
-                   
+
 
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
                         <img class="img-fluid" src="assets/images/student-counselling/banner.png" alt="image">
-                        <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png" alt="image">
-                        <img class="img-fluid banner-shape2" src="assets/images/student-counselling/banner-shape.png" alt="image">
+                        <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png"
+                            alt="image">
+                        <img class="img-fluid banner-shape2" src="assets/images/student-counselling/banner-shape.png"
+                            alt="image">
                     </div>
                 </div>
             </div>
@@ -84,7 +86,7 @@
             <div class="row row-cols-1 row-cols-lg-3 g-5 g-md-2">
                 <div class="col">
                     <div class="card h-100">
-                        <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
+                        <!-- <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="..."> -->
                         <div class="card-body">
                             <h5 class="card-title">School Students</h5>
                             <p class="card-text">(8th -12)</p>
@@ -105,7 +107,7 @@
 
                 <div class="col">
                     <div class="card h-100">
-                        <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
+                        <!-- <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="..."> -->
                         <div class="card-body">
                             <h5 class="card-title">College Students</h5>
                             <p class="card-text">(Grad -Post Grad)</p>
@@ -126,9 +128,9 @@
 
                 <div class="col">
                     <div class="card h-100">
-                        <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="...">
+                        <!-- <img src="assets/images/student-counselling/school-students.jpg" class="card-img-top" alt="..."> -->
                         <div class="card-body">
-                            <h5 class="card-title">College Students</h5>
+                            <h5 class="card-title">Career Proffesionals</h5>
                             <p class="card-text">(Grad -Post Grad)</p>
                             <ul>
                                 <li>Career advice based on interest and skill</li>

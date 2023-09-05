@@ -83,7 +83,7 @@ section {
 .primary-white-btn {
     color: var(--gradient-button);
     box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
-    border-radius: 40px;
+    border-radius: 40px; 
     padding: 10px 30px;
     border: none;
     text-transform: uppercase;
@@ -766,7 +766,6 @@ section {
 .career-content {
     max-width: 36%;
     max-width: 36%;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -776,6 +775,7 @@ section {
 
 .career-index {
     background-image: url('../images/career/background.png');
+    height: 100vh;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
