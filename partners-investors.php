@@ -19,7 +19,7 @@
     <!-- partners and investors section start -->
     <div class="partners-investors-section">
         <div class="container">
-            <h3 class="main-head">Our Partners and Investors</h3>
+            <h3 class="section-head">Our Partners and Investors</h3>
             <p class="partners-investors-content mt-md-3 mt-1">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Iste esse consectetur repudiandae architecto dolores excepturi earum. Natus reprehenderit provident est
                 dicta? Maiores distinctio illo omnis neque nostrum nihil alias vitae.
@@ -32,7 +32,7 @@
             </p>
 
             <div class="our-partners-section">
-                <h3 class="main-head text-center mb-4">Our Partners</h3>
+                <h3 class="section-head text-center mb-4">Our Partners</h3>
                 <div class="partners-img mb-3">
                     <div>
                         <img src="assets/images/partners-investors/img-1.png" alt="image">
@@ -65,7 +65,7 @@
             </div>
 
             <div class="investors-section">
-                <h3 class="main-head text-center mb-4">Our Investors</h3>
+                <h3 class="section-head text-center mb-4">Our Investors</h3>
                 <div class="investors-img mb-lg-3 mb-2">
                     <div>
                         <img src="assets/images/partners-investors/logo-1.png" alt="image">

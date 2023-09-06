@@ -8,6 +8,8 @@
                         <h1>
                             Grab your <br> dream career with <br> <span class="mt-5">EDuMetfis</span> 
                         </h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                        <button class="primary-btn">View More</button>
                     </div>
                 </div>
                 <div class="col-lg-6">

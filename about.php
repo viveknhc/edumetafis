@@ -32,82 +32,88 @@
 
 <section class="section">
     <div class="container-fluid">
-        <div class="feature">
-            <div class="row">
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="py-3">
-                        <div class="row">
-                            <div class="col-5">
-                                <img src="assets/images/feature/lock.png" alt="image">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="feature">
+                    <div class="row">
+        
+                        <div class="col-lg-6 col-md-6">
+                            <div class="py-3">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <img src="assets/images/feature/lock.png" alt="image">
+                                    </div>
+                                    <div class="col-7">
+                                        <div>
+                                            <h4>Lifetime Access</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-7">
-                                <div>
-                                    <h4>Lifetime Access</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+        
+                        </div>
+        
+                        <div class="col-lg-6 col-md-6">
+                            <div class="pb-3">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <img src="assets/images/feature/arrow.png" alt="image">
+                                    </div>
+                                    <div class="col-7">
+                                        <div>
+                                            <h4>Expert Mentors</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                        </div>
+        
+                        <div class="col-lg-6 col-md-6">
+                            <div class="pb-3">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <img src="assets/images/feature/certificate.png" alt="image">
+                                    </div>
+                                    <div class="col-7">
+                                        <div>
+                                            <h4>Official Certificate</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="pb-3">
-                        <div class="row">
-                            <div class="col-5">
-                                <img src="assets/images/feature/arrow.png" alt="image">
-                            </div>
-                            <div class="col-7">
-                                <div>
-                                    <h4>Expert Mentors</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+        
+                        <div class="col-lg-6 col-md-6">
+                            <div class="pb-3">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <img src="assets/images/feature/office.png" alt="image">
+                                    </div>
+                                    <div class="col-7">
+                                        <div>
+                                            <h4>Offline Mode</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-
-                </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="pb-3">
-                        <div class="row">
-                            <div class="col-5">
-                                <img src="assets/images/feature/certificate.png" alt="image">
-                            </div>
-                            <div class="col-7">
-                                <div>
-                                    <h4>Official Certificate</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
-                                </div>
-                            </div>
-                        </div>
+        
+        
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-6">
-                    <div class="pb-3">
-                        <div class="row">
-                            <div class="col-5">
-                                <img src="assets/images/feature/office.png" alt="image">
-                            </div>
-                            <div class="col-7">
-                                <div>
-                                    <h4>Offline Mode</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
             </div>
+            <div class="col-lg-6"></div>
         </div>
+        
     </div>
 </section>
 

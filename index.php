@@ -800,7 +800,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
+                        <img class="person" src="assets/images/testimonial/person2.png" alt="image">
 
                         <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
@@ -848,7 +848,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img class="person" src="assets/images/testimonial/person.png" alt="image">
+                        <img class="person" src="assets/images/testimonial/person2.png" alt="image">
 
                         <img class="quote" src="assets/images/testimonial/quote.png" alt="image">
 
@@ -1025,7 +1025,7 @@
                 <div class="col-lg-6">
                     <div>
                         <div>
-                            <h2>get in touch</h2>
+                            <h2 class="section-head">get in touch</h2>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
                         </div>
                         <form action="">
@@ -1040,7 +1040,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-information">
-                        <img class="shape1" src="assets/images/contact/blue-shape.png" alt="image">
+                        <img class="shape1" src="assets/images/contact/shape1.png" alt="image">
                         <img class="shape2" src="assets/images/contact/shape2.png" alt="image">
                         <div>
                             <h2>contact <br> information</h2>

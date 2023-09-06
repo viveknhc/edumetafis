@@ -7,7 +7,7 @@
                     <div class="col-lg-6">
                         <div>
                             <div>
-                                <h2>get in touch</h2>
+                                <h2 class="section-head">get in touch</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
                             </div>
                             <form action="">

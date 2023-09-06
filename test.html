@@ -1,29 +1,26 @@
+<!DOCTYPE html>
+<html>
 
-<div class="container">
-    <div class="student-councelling" data-countto="150" data-duration="8000">0</div>
-</div>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to your CSS file -->
+</head>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-    $(".student-councelling").each(function () {
-        var $this = $(this),
-            countTo = $this.attr("data-countto");
-        countDuration = parseInt($this.attr("data-duration"));
-        $({ counter: $this.text() }).animate(
-            {
-                counter: countTo
-            },
-            {
-                duration: countDuration,
-                easing: "linear",
-                step: function () {
-                    $this.text(Math.floor(this.counter));
-                },
-                complete: function () {
-                    $this.text(this.counter);
-                }
-            }
-        );
-    });
+<body>
+    <p class="gradient-text">This is a gradient text.</p>
+</body>
 
-</script>
+</html>
+
+
+
+<style>
+    .gradient-text {
+        background-image: linear-gradient(to right, #ff0000, #00ff00);
+        /* Define your gradient colors */
+        -webkit-background-clip: text;
+        /* Clip the background to the text */
+        background-clip: text;
+        color: transparent;
+        /* Make the text color transparent */
+    }
+</style>

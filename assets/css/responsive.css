@@ -20,15 +20,18 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
-    .about .img-box{
+    #banner .banner-item {
+        height: 75vh;
+    }
+    .about .img-box {
         display: none;
     }
-    
+
     .study-abroad {
         padding: 0;
     }
 
-     .inner .left-side {
+    .inner .left-side {
         padding: 22px 0;
         justify-content: center;
     }
@@ -76,8 +79,8 @@
     /* === Sports Event Page */
 
     .pg-sports-event .ball {
-        bottom: 70px;
-        max-width: 43px;
+        bottom: 180px;
+        max-width: 75px;
     }
 
     /* ==abroad study page== */
@@ -306,7 +309,7 @@
         justify-content: center;
     }
 
-    .about .img-box{
+    .about .img-box {
         display: none;
     }
 
@@ -376,6 +379,13 @@
      */
 
     /* ==sports events page== */
+
+    .pg-sports-event .ball {
+        bottom: 70px;
+        max-width: 43px;
+    }
+
+
     .pg-sports-event-banner {
         /* background-size: contain;
         height: 25vh; */
@@ -623,10 +633,10 @@
 
     .about .img-box .about-img1 {
 
-            left: 50%;
-            transform: translateX(-50%);
-            max-width: 205px !important;
-        
+        left: 50%;
+        transform: translateX(-50%);
+        max-width: 205px !important;
+
     }
 
     .about .img-box .about-img2 {

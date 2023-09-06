@@ -11,6 +11,8 @@
                     <h1>
                        Gain knowledge from  <br> <span class="mt-5">entertainment</span> 
                     </h1>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                        <button class="primary-btn">View More</button>
                 </div>
 
               </div>
@@ -90,7 +92,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -112,7 +114,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -134,7 +136,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -156,7 +158,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -178,7 +180,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -200,7 +202,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -235,7 +237,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -257,7 +259,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -279,7 +281,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -301,7 +303,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -323,7 +325,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -345,7 +347,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">View more</a>
                             </div>
                         </div>
                     </div>

@@ -85,7 +85,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">Vew more</a>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">Vew more</a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                                     </p>
                                 </div>
 
-                                <a href="education-event-detail">Read more</a>
+                                <a href="education-event-detail">Vew more</a>
                             </div>
                         </div>
                     </div>

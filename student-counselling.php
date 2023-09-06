@@ -10,6 +10,8 @@
 
                             We guide you to <br><span class="mt-5"> the best</span>
                         </h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                        <button class="primary-btn">View More</button>
                     </div>
 
 

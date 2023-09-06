@@ -97,7 +97,7 @@
                                     </p>
                                 </div>
 
-                                <a href="sports-event-detail">Read more</a>
+                                <a href="sports-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                                     </p>
                                 </div>
 
-                                <a href="sports-event-detail">Read more</a>
+                                <a href="sports-event-detail">View more</a>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                                     </p>
                                 </div>
 
-                                <a href="sports-event-detail">Read more</a>
+                                <a href="sports-event-detail">View more</a>
                             </div>
                         </div>
                     </div>

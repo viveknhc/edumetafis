@@ -30,20 +30,25 @@
     <div class="topbar">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-8">
                     <div class="mail">
                         <p class="m-0">
+                          <a href="">
                             <i class="fa-solid fa-phone pe-2"></i>
                             +91 1234567890
+                          </a>  
                         </p>
                         <p class="m-0 ps-4">
-                            <i class="fa-regular fa-envelope pe-2"></i>
-                            metafis8@gmail.com
+                            <a href="">
+                                <i class="fa-regular fa-envelope pe-2"></i>
+                                metafis8@gmail.com
+                            </a>
+                          
                         </p>
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-4">
                     <div class="top-social-icon">
                         <a class="pe-3" href="">
                             <i class="fa-brands fa-whatsapp"></i>

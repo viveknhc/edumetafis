@@ -110,6 +110,11 @@ section {
     max-width: 24px;
 }
 
+.topbar a{
+    text-decoration: none;
+    color: #fff;
+}
+
 .topbar .fa-whatsapp,
 .topbar .fa-instagram,
 .topbar .fa-facebook-f,
@@ -130,7 +135,7 @@ section {
 
 
 .section-top-head {
-    color: var(--black-col);
+    color: #356CB3;
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
@@ -702,7 +707,7 @@ section {
 
 
 .about h2 {
-    color: var(--black-col);
+    color: #356CB3;
     font-size: 49.333px;
     font-weight: 700;
     text-transform: uppercase;
@@ -717,7 +722,7 @@ section {
 }
 
 .about h5 {
-    color: var(--black-col);
+    color: #356CB3;
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 600;
@@ -1177,7 +1182,7 @@ section {
 .testimonial-box {
     padding: 47px;
     border-radius: 20px;
-    border: 1px solid var(--black-col);
+    border: 1px solid var(--sec-col);
     background: var(--white-col);
 }
 
@@ -1228,7 +1233,7 @@ section {
 
 #testimonial-carousel .fa {
     color: #fff;
-    background-color: #000;
+    background-color: #356CB3;
     padding: 2px 20px 2px 20px;
     border-radius: 10px;
 }
@@ -1321,12 +1326,12 @@ section {
     padding: 50px 0;
 }
 
-.cta h2 {
+/* .cta h2 {
     font-size: 40px;
     font-weight: 700;
     color: var(--black-col);
     text-transform: uppercase;
-}
+} */
 
 .cta p {
     font-size: 16px;
@@ -1359,7 +1364,7 @@ section {
 
 .cta .contact-information {
     position: relative;
-    background-color: #000;
+    background-image: linear-gradient(306deg, #0070FF, #003C89);
     border-radius: 20px;
     padding: 104px 45px;
 }
@@ -1615,6 +1620,7 @@ section {
     padding-bottom: 20px;
     border-radius: 20px;
     overflow: hidden;
+    border-bottom: 1px solid var(--primary-col);
 }
 
 .blog-img {
@@ -1652,6 +1658,7 @@ section {
 .edumetafis-blog-card .blog-desc .blog-head {
     font-size: 20px;
     font-weight: 600;
+    color: var(--sec-col);
 }
 
 .edumetafis-blog-card .blog-date-button {
@@ -1664,7 +1671,7 @@ section {
 }
 
 .edumetafis-blog-card .blog-date-button .read-more-btn {
-    color: var(--black-col);
+    color: var(--primary-col);
     text-decoration: none;
 }
 
@@ -1787,6 +1794,7 @@ section {
 }
 
 .career-section .career-box .left-section h4 {
+    color: #f26926;
     font-size: 24px;
     font-weight: 600;
 }
@@ -2093,7 +2101,7 @@ section {
     background-image: url('../images/sports-events/banner.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 75vh;
+    /* height: 75vh; */
 
     display: flex;
     justify-content: center;
@@ -2121,7 +2129,7 @@ section {
 
 .pg-sports-event .ball {
     position: absolute;
-    bottom: 106px;
+    bottom: 147px;
     left: 41%;
     max-width: 68px;
     animation: diagonalMove 3s infinite linear;
@@ -2403,6 +2411,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 40px 0;
 }
 
 .student-counselling .container {
@@ -2436,16 +2445,15 @@ section {
 }
 
 .career-aptitude .card {
-    border-radius: 47px;
-    ;
+    border-radius: 47px; 
     border: none;
 }
-
-
 .career-aptitude .card img {
     border-radius: 60px;
 }
-
+.career-aptitude .card ul{
+    line-height: 30px;
+}
 .career-aptitude .card li {
     color: #696666;
 }
