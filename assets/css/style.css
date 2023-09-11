@@ -27,7 +27,7 @@
 
 }
 
-.navbar-nav{
+.navbar-nav {
     align-items: start;
 }
 
@@ -39,14 +39,15 @@
     display: block;
 }
 
-.navbar-light .navbar-toggler{
+.navbar-light .navbar-toggler {
     border: none !important;
 }
-.navbar-toggler:focus{
+
+.navbar-toggler:focus {
     box-shadow: none !important;
 }
 
-.hamburger{
+.hamburger {
     max-width: 37px;
 }
 
@@ -83,7 +84,7 @@ section {
 .primary-white-btn {
     color: var(--gradient-button);
     box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
-    border-radius: 40px; 
+    border-radius: 40px;
     padding: 10px 30px;
     border: none;
     text-transform: uppercase;
@@ -110,7 +111,7 @@ section {
     max-width: 24px;
 }
 
-.topbar a{
+.topbar a {
     text-decoration: none;
     color: #fff;
 }
@@ -445,21 +446,26 @@ section {
 }
 
 .pg-banner {
-    background-image: url('../images/banner-bg.png');
+    background-image: url(../images/banner-bg.jpg);
     background-size: cover;
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
-    min-height: 362px;
-    padding-top: 100px;
+    min-height: 420px;
     position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.pg-career{
+    background-image: url(../images/banner-bg-career.jpg) !important;
 }
 
 .pg-banner .head {
     font-size: 34px;
     line-height: 42px;
     text-align: center;
-    color: #f16925;
-    font-weight: 600;
+    color: #ffffff;
+    font-weight: 700;
     text-transform: uppercase;
 }
 
@@ -469,14 +475,57 @@ section {
 }
 
 .pg-banner .pages-link .active-link {
-    color: var(--black-col);
+    color: var(--white-col);
     text-decoration: none;
 }
 
+.frwd-slash {
+    color: var(--white-col);
+}
+
 .pg-banner .pages-link .non-link {
-    color: #817b7b;
+    color: #ffffff75;
 
 }
+
+.partners-enquiry .image2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    animation: upDown 3s linear infinite;
+}
+
+.partners-enquiry .partners-form input {
+    border-radius: 30px;
+    background: #3f6bb217;
+    padding: 15px;
+    margin: 6px 0px;
+    border: none;
+    display: block;
+    width: 100%;
+}
+
+.partners-enquiry .partners-form textarea{
+    border-radius: 30px;
+    background: #3f6bb217;
+    padding: 15px;
+    margin: 6px 0px;
+    border: none;
+    display: block;
+    width: 100%;
+} 
+
+
+.partners-enquiry .partners-form input::placeholder{
+    color: #636363;
+}
+
+.partners-btn-box{
+    padding: 10px 0;
+    text-align: end;
+}
+
+
 
 .book-icon {
     position: absolute;
@@ -1340,7 +1389,7 @@ section {
 
 .cta input {
     border-radius: 30px;
-    background: #F7F7F7;
+    background: #3f6bb217;
     padding: 15px;
     margin: 6px 0px;
     border: none;
@@ -1349,7 +1398,7 @@ section {
 .cta textarea {
     border-radius: 30px;
     border: none;
-    background-color: #f7f7f7;
+    background: #3f6bb217;
     border-radius: 30px;
 }
 
@@ -1465,7 +1514,7 @@ section {
     margin-bottom: 80px;
 }
 
-.footer-news-letter input::placeholder{
+.footer-news-letter input::placeholder {
     padding: 0 5px;
 }
 
@@ -1830,14 +1879,41 @@ section {
     animation: diagonalMove 3s linear infinite;
 }
 
+.whychoose-feature {
+    padding: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(306deg, #0070FF, #003C89);
+}
+
+.whychoose-feature h4 {
+    color: var(--white-col);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.whychoose-feature p {
+    color: var(--white-col);
+    font-size: 16px;
+}
+
+.whychoose-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
 /* =========== ABOUT STUDY ABROAD =============*/
 
-.inner .left-side{
+.inner .left-side {
     display: flex;
     align-items: center;
 }
 
-.inner h1{
+.inner h1 {
     text-transform: uppercase;
     font-weight: 700;
     color: #1b4f91;
@@ -1846,33 +1922,33 @@ section {
 
 }
 
-.inner span{
+.inner span {
     color: var(--primary-col);
     font-size: 60px;
 }
 
 
-.pg-study-abroad .image-box{
+.pg-study-abroad .image-box {
     overflow: hidden;
 }
 
-.pg-study-abroad .banner-circle{
+.pg-study-abroad .banner-circle {
     position: absolute;
     top: 0;
     left: 0;
     z-index: -2;
     animation: aboutRotation 20s infinite linear;
-    
+
 }
 
-.pg-study-abroad .banner-tag1{
+.pg-study-abroad .banner-tag1 {
     position: absolute;
     top: 0;
     left: 0;
     animation: upDown 3s infinite linear;
 }
 
-.pg-study-abroad .banner-tag2{
+.pg-study-abroad .banner-tag2 {
     position: absolute;
     top: 0;
     left: 0;
@@ -2168,7 +2244,7 @@ section {
 /* education event */
 
 
-.pg-edu-event-banner .banner-shape1{
+.pg-edu-event-banner .banner-shape1 {
     position: absolute;
     left: 0;
     top: 0;
@@ -2176,14 +2252,14 @@ section {
     animation: downUp 3s linear infinite;
 }
 
-.pg-edu-event-banner .banner-shape2{
+.pg-edu-event-banner .banner-shape2 {
     position: absolute;
     bottom: 0;
     right: 0;
     z-index: -1;
 }
 
-.pg-edu-event-banner .banner-shape3{
+.pg-edu-event-banner .banner-shape3 {
     position: absolute;
     bottom: 0;
     right: 0;
@@ -2194,11 +2270,11 @@ section {
 
 /* ===SPORTS EVENT DETAIL PAGE== */
 
-.pg-sports-event-banner .sp-event-img{
+.pg-sports-event-banner .sp-event-img {
     padding: 60px;
 }
 
-.pg-sports-event-banner .sp-shape1{
+.pg-sports-event-banner .sp-shape1 {
     position: absolute;
     top: 52px;
     left: 38%;
@@ -2206,7 +2282,7 @@ section {
     animation: aboutRotation 6s infinite linear;
 }
 
-.pg-sports-event-banner .sp-shape2{
+.pg-sports-event-banner .sp-shape2 {
     position: absolute;
     top: 58%;
     left: 56px;
@@ -2214,7 +2290,7 @@ section {
     animation: upDown 3s infinite linear;
 }
 
-.pg-sports-event-banner .sp-shape3{
+.pg-sports-event-banner .sp-shape3 {
     position: absolute;
     bottom: 30px;
     left: 40%;
@@ -2381,13 +2457,13 @@ section {
     overflow: hidden;
 }
 
-.student-counselling-banner .relative-box{
+.student-counselling-banner .relative-box {
     overflow: hidden;
 }
 
 
 
-.student-counselling-banner .banner-shape1{
+.student-counselling-banner .banner-shape1 {
     position: absolute;
     top: 0;
     left: 0;
@@ -2395,7 +2471,7 @@ section {
     animation: aboutRotation 6s infinite linear;
 }
 
-.student-counselling-banner .banner-shape2{
+.student-counselling-banner .banner-shape2 {
     position: absolute;
     top: 0;
     left: 0;
@@ -2445,15 +2521,18 @@ section {
 }
 
 .career-aptitude .card {
-    border-radius: 47px; 
+    border-radius: 47px;
     border: none;
 }
+
 .career-aptitude .card img {
     border-radius: 60px;
 }
-.career-aptitude .card ul{
+
+.career-aptitude .card ul {
     line-height: 30px;
 }
+
 .career-aptitude .card li {
     color: #696666;
 }
@@ -2494,44 +2573,47 @@ section {
 .how-different img {
     border-radius: 10px;
 }
-.psychometric-section{
+
+.psychometric-section {
     overflow: hidden;
 }
 
-.psychometric .row h4{
+.psychometric .row h4 {
     font-weight: 700;
     color: #000;
     font-size: 18px;
 }
 
-.psychometric .row p{
+.psychometric .row p {
     font-size: 14;
 }
 
-.psychometric .row img{
+.psychometric .row img {
     padding: 15px;
 }
 
-.personalised-student .img-1{
+.personalised-student .img-1 {
     position: absolute;
     left: 0;
     top: 0;
     max-width: 211px;
+    animation: upDown 3s linear infinite;
 }
 
-.personalised-student .img-2{
+.personalised-student .img-2 {
     padding: 62px;
 }
 
 
-.proffesional-learning .img-1{
+.proffesional-learning .img-1 {
     position: absolute;
     left: 0;
     top: 0;
     max-width: 208px;
+    animation: upDown 3s linear infinite;
 }
 
-.proffesional-learning .img-2{
+.proffesional-learning .img-2 {
     padding: 62px;
 }
 
@@ -2540,23 +2622,23 @@ section {
 
 
 
-.online-tutorial-feature img{
+.online-tutorial-feature img {
     max-width: 80px;
 }
 
-.online-tutorial-feature .card{
+.online-tutorial-feature .card {
     align-items: center;
     text-align: center;
     padding: 27px;
     border: none !important;
 }
 
-.online-tutorial-feature h5{
+.online-tutorial-feature h5 {
     text-transform: uppercase;
     font-weight: 600;
 }
 
-.tutorial-what-offer img{
+.tutorial-what-offer img {
     border-radius: 20px;
 }
 

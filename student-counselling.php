@@ -97,6 +97,7 @@
                                 <li>Most suited career recommendations</li>
                                 <li>Persona & skill gap analysis & counsels</li>
                                 <li>Personality analysis</li>
+                                <li>Persona and skill analysis</li>
 
                             </ul>
                             <div class="text-center p-4">

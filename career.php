@@ -1,12 +1,12 @@
 <?php include 'partials/header.php';?>
 
     <!-- banner start -->
-    <div class="pg-banner">
+    <div class="pg-banner pg-career">
         <div class="container">
             <h3 class="head">Career</h3>
             <div class="pages-link">
                 <a href="#" class="active-link">Home</a>
-                <span class="ms-1 me-1">/</span>
+                <span class="ms-1 me-1 frwd-slash">/</span>
                 <p class="non-link">Career</p>
             </div>
         </div>

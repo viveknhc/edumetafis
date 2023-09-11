@@ -45,7 +45,7 @@
                 <a class="ftr-links" href="about">About Us</a>
                 <a class="ftr-links" href="courses">Courses</a>
                 <a class="ftr-links" href="services">Services</a>
-                <a class="ftr-links" href="partners-investors">Partners Investors</a>
+                <a class="ftr-links" href="partners-investors">Partners & Investors</a>
             </div>
             <div class="col-lg-3 col-md-12">
                 <h4 class="ftr-links-head">Support</h4>

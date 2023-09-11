@@ -6,9 +6,7 @@
             <div class="col-lg-6 order-lg-0 order-md-1 order-1 d-flex justify-content-center align-items-center">
                 <div class="relative-box ">
                     <img class="img-fluid about2" src="assets/images/about/about2.png" alt="image">
-
                     <img class="img-fluid about1" src="assets/images/about/about.png" alt="image">
-
                 </div>
             </div>
             <div class="col-lg-6 order-lg-1 order-md-0 order-0">
@@ -29,14 +27,105 @@
     </div>
 </section>
 
-
 <section class="section">
-    <div class="container-fluid">
+    <div class="container">
         <div class="row">
+            <div class="col-lg-6 whychoose-box">
+                <div class="">
+                    <div>
+                        <h5 class="section-top-head">about</h5>
+                        <h2 class="section-head">Why Choose Us</h2>
+                    </div>
+
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                        suffered alteration in some form, by injected humour, or randomised words which don't look
+                        even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
+                        sure there isn't anything embarrassing hidden.</p>
+                    <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
+                        predefined chunks as necessary, making this the first true generator on the Internet. It
+                        uses a dictionary of over 200.</p>
+                </div>
+
+            </div>
+
             <div class="col-lg-6">
-                <div class="feature">
+
+                <div class="whychoose-feature">
                     <div class="row">
-        
+                        <div class="col-lg-12">
+                            <div class="py-3">
+                                <div class="row">
+                                    <div class="col-2">
+                                        <img class="img-fluid" src="assets/images/feature/lock.png" alt="image">
+                                    </div>
+                                    <div class="col-10">
+                                        <div>
+                                            <h4>Lifetime Access</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12">
+                            <div class="py-3">
+                                <div class="row">
+                                    <div class="col-2">
+                                        <img class="img-fluid" src="assets/images/feature/arrow.png" alt="image">
+                                    </div>
+                                    <div class="col-10">
+                                        <div>
+                                            <h4>Expert Mentors</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12">
+                            <div class="py-3">
+                                <div class="row">
+                                    <div class="col-2">
+                                        <img class="img-fluid" src="assets/images/feature/certificate.png" alt="image">
+                                    </div>
+                                    <div class="col-10">
+                                        <div>
+                                            <h4>Lifetime Access</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12">
+                            <div class="py-3">
+                                <div class="row">
+                                    <div class="col-2">
+                                        <img class="img-fluid" src="assets/images/feature/office.png" alt="image">
+                                    </div>
+                                    <div class="col-10">
+                                        <div>
+                                            <h4>Lifetime Access</h4>
+                                            <p>There are many variations
+                                                of passages of Lorem</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- <div class="feature">
+                    <div class="row">
+
                         <div class="col-lg-6 col-md-6">
                             <div class="py-3">
                                 <div class="row">
@@ -52,9 +141,7 @@
                                     </div>
                                 </div>
                             </div>
-        
                         </div>
-        
                         <div class="col-lg-6 col-md-6">
                             <div class="pb-3">
                                 <div class="row">
@@ -70,9 +157,9 @@
                                     </div>
                                 </div>
                             </div>
-        
+
                         </div>
-        
+
                         <div class="col-lg-6 col-md-6">
                             <div class="pb-3">
                                 <div class="row">
@@ -89,7 +176,7 @@
                                 </div>
                             </div>
                         </div>
-        
+
                         <div class="col-lg-6 col-md-6">
                             <div class="pb-3">
                                 <div class="row">
@@ -106,14 +193,13 @@
                                 </div>
                             </div>
                         </div>
-        
-        
+
+
                     </div>
-                </div>
+                </div> -->
             </div>
-            <div class="col-lg-6"></div>
+
         </div>
-        
     </div>
 </section>
 
