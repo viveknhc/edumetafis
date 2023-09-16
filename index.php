@@ -171,7 +171,7 @@
             <div class="col-lg-6 col-md-12">
                 <div class="px-3">
                     <h5>About us</h5>
-                    <h2>Edu<span class="head-style">metafis</span></h2>
+                    <h2><span class="head-style">metafis</span></h2>
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have
                         suffered alteration in some form, by injected humour, or randomised words which don't look
                         even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be

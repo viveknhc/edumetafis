@@ -47,6 +47,18 @@
                 <a class="ftr-links" href="services">Services</a>
                 <a class="ftr-links" href="partners-investors">Partners & Investors</a>
             </div>
+            
+            <div class="col-lg-3 col-md-12">
+                <h4 class="ftr-links-head">Services</h4>
+
+                <a class="ftr-links" href="study-abroad">Study Abroad</a>
+                <a class="ftr-links" href="online-tutorial">Online Tutorial</a>
+                <a class="ftr-links" href="student-counselling">Student Counselling</a>
+                <a class="ftr-links" href="mentorship">Mentership</a>
+                <a class="ftr-links" href="sports-event">Sports Events</a>
+                <a class="ftr-links" href="education-event">Educational Events</a>
+            </div>
+
             <div class="col-lg-3 col-md-12">
                 <h4 class="ftr-links-head">Support</h4>
                 <a class="ftr-links" href="#">Privacy Policy</a>
@@ -54,13 +66,7 @@
                 <a class="ftr-links" href="career">Careers</a>
                 <a class="ftr-links" href="contact">Contact Us</a>
             </div>
-            <div class="col-lg-3 col-md-12">
-                <h4 class="ftr-links-head">Opening Hours</h4>
-                <div class="time">
-                    <i class="fa-solid fa-clock"></i>
-                    <span>9 AM - 5 PM</span>
-                </div>
-            </div>
+         
         </div>
 
     </div>

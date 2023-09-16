@@ -456,7 +456,7 @@ section {
     align-items: center;
 }
 
-.pg-career{
+.pg-career {
     background-image: url(../images/banner-bg-career.jpg) !important;
 }
 
@@ -505,7 +505,7 @@ section {
     width: 100%;
 }
 
-.partners-enquiry .partners-form textarea{
+.partners-enquiry .partners-form textarea {
     border-radius: 30px;
     background: #3f6bb217;
     padding: 15px;
@@ -513,14 +513,14 @@ section {
     border: none;
     display: block;
     width: 100%;
-} 
+}
 
 
-.partners-enquiry .partners-form input::placeholder{
+.partners-enquiry .partners-form input::placeholder {
     color: #636363;
 }
 
-.partners-btn-box{
+.partners-btn-box {
     padding: 10px 0;
     text-align: end;
 }
@@ -2641,6 +2641,54 @@ section {
 .tutorial-what-offer img {
     border-radius: 20px;
 }
+
+/* WEB DESIGN */
+
+.web-design .left {
+    height: 100vh;
+    width: 300px;
+    border-radius: 10px;
+    background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
+}
+
+.web-design .left-img1 {
+    position: absolute;
+    top: -70px;
+    left: 81px;
+    max-width: 360px;
+}
+
+.web-design .left-img2 {
+    position: absolute;
+    bottom: 50px;
+    left: -92px;
+}
+
+.web-design-banner .banner-icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    
+}
+
+.web-design-banner .banner-icon3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: upDown 5s linear infinite;
+}
+
+.web-design-banner .banner-icon4 {
+    position: absolute;
+    top: -261px;
+    right: 190px;
+    z-index: -1;
+    animation: upDown 3s linear infinite;
+}
+
+
+
 
 @keyframes loader-spin {
     to {
