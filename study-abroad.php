@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 left-side">
-                    <div>
+                    <div class="px-2">
                         <h1>
                             Grab your <br> dream career with <br> <span class="mt-5">EDuMetfis</span> 
                         </h1>

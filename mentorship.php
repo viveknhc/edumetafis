@@ -5,11 +5,13 @@
    <div class="container">
     <div class="row">
         <div class="col-lg-6 left-side">
-            <div>
+            <div class="px-2">
                 <h1>
                     
                     Expertise your skills <br> <span class="mt-5">from Experts</span> 
                 </h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                <button class="primary-btn">View More</button>
             </div>
         </div>
         <div class="col-lg-6">

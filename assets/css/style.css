@@ -26,6 +26,21 @@
 
 
 }
+.navbar-nav .dropdown .dropdown-menu {
+    border: none;
+    background-image: linear-gradient(90deg, #003C89 0%, #0070FF 100%);
+    padding: 10px 10px;
+}
+
+.navbar-nav .dropdown .dropdown-menu .dropdown-item{
+    color: #fff;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: #fff;
+    border-radius: 10px;
+    color: var(--black-col) !important;
+}
 
 .navbar-nav {
     align-items: start;
@@ -2686,6 +2701,93 @@ section {
     z-index: -1;
     animation: upDown 3s linear infinite;
 }
+
+.website-service-head{
+    padding-bottom: 130px;
+}
+
+.website-service img{
+    position: absolute;
+    bottom: 230px;
+    left: -62px;
+    max-width: 216px;
+}
+
+.website-service .content-box h5{
+    color: #fff;
+    font-size: 18px;
+}
+
+
+.website-service .content-box h2{
+    color: #fff;
+    font-size: 26px;
+}
+
+.website-service .content-box{
+    background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
+    padding: 50px;
+    border-radius: 15px;
+    text-align: end;
+}
+
+.website-service .content-box p{
+    width: 100%;
+}
+
+
+/* Digital Marketing */
+
+.digital-marketing-banner .banner-icon1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: rightLeft 3s linear infinite;
+
+}
+
+.digital-service-box1{
+    background: linear-gradient(137deg, #78B3FF 0%, #004093 98.82%);
+    color: #fff;
+    padding: 28px;
+    border-radius: 15px;
+}
+
+.digital-service-box1 h4{
+    padding-top: 35px;
+}
+
+/* ERP BANNER */
+
+.erp-banner{
+    background-image: url("../images/erp/erp-banner.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white-col);
+}
+
+.erp-banner h1{
+    color: var(--white-col);
+    font-weight: 700;
+}
+
+.erp-banner .banner-img2{
+    position: absolute;
+    top: 0;
+    left: 38%;
+    animation: top;
+}
+.erp-banner .banner-img1{
+    position: absolute;
+    right: 0;
+}
+
 
 
 

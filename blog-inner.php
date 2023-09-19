@@ -8,7 +8,10 @@
                 <img src="assets/images/blog/blog-1.jpg" alt="image">
             </div>
                    
-            <h4 class="heading">Tech-Driven Education Nurturing Minds Online</h4>
+            <div class="text-center pt-5">
+             
+                <h2 class="section-head">business problem</h2>
+            </div>
             <div class="blog-content">
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed sunt ex tenetur sapiente tempore quis
                     autem ipsum, odio modi facilis minima reiciendis, delectus quae quaerat a eveniet debitis nihil

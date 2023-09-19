@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 left-side">
-                    <div>
+                    <div class="px-2">
                         <h1>
 
                             We guide you to <br><span class="mt-5"> the best</span>

@@ -20,6 +20,32 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
+    
+        /* WEB DESIGN */
+        .web-design{
+            overflow: hidden;
+        }
+    
+        .website-service{
+            overflow: hidden;
+        }
+        
+        .web-design .left{
+            display: none;
+        }
+    
+        .website-service img{
+            display: none;
+        }
+    
+        .website-service .content-box{
+            text-align: start;
+        }
+    
+        .website-service-head {
+            padding-bottom: 22px;
+        }
+
     #banner .banner-item {
         height: 75vh;
     }
@@ -301,6 +327,42 @@
 
 @media only screen and (max-width:767px) {
 
+    /* WEB DESIGN */
+    .web-design{
+        overflow: hidden;
+    }
+
+    .website-service{
+        overflow: hidden;
+    }
+    
+    .web-design .left{
+        display: none;
+    }
+
+    .website-service img{
+        display: none;
+    }
+
+    .website-service .content-box{
+        text-align: start;
+    }
+
+    .website-service-head {
+        padding-bottom: 22px;
+    }
+
+    /* .web-design .left-img1 {
+        position: absolute;
+        top: -70px;
+        max-width: 360px;
+    }
+
+    .web-design .left-img2 {
+        position: absolute;
+        bottom: 50px;
+    } */
+
     .section {
         padding: 0 10px;
     }
@@ -450,7 +512,7 @@
     }
 
     .pg-sports-event-banner {
-        padding: 0 55px;
+        padding: 0 10px;
     }
 
     .pg-edu-event-detail .event-img h3 {

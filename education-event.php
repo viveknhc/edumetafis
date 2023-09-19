@@ -7,7 +7,7 @@
             <div class="row">
               <div class="col-lg-6 left-side">
 
-                <div>
+                <div class="px-2">
                     <h1>
                        Gain knowledge from  <br> <span class="mt-5">entertainment</span> 
                     </h1>
