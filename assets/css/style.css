@@ -2760,22 +2760,30 @@ section {
 /* ERP BANNER */
 
 .erp-banner{
-    background-image: url("../images/erp/erp-banner.png");
+    background-image: url("../images/erp/erp-banner.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-position: center; */
-
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: var(--white-col);
 }
 
 .erp-banner h1{
-    color: var(--white-col);
+    text-transform: uppercase;
     font-weight: 700;
+    color: var(--sec-col);
+    font-size: 38px;
+    line-height: 1;
 }
+
+.erp-banner h1 span{
+    color: var(--primary-col);
+    font-size: 60px;
+    
+}
+
 
 .erp-banner .banner-img2{
     position: absolute;
