@@ -2796,6 +2796,51 @@ section {
     right: 0;
 }
 
+.adding-value .head{
+    color: #214573;
+    font-weight: 600;
+}
+
+.student-cycle-icon{
+    max-width: 70px;
+}
+
+.adding-value .col-lg-6{
+    padding: 0 50px;
+}
+.student-cycle .left .left-img-1{
+    animation: 3s diagonalMove linear infinite;
+}
+.student-cycle .left .left-img-2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+
+}
+
+.life-cycle {
+    padding: 15px;
+    border-radius: 15px;
+    background: linear-gradient(108deg, #0E022F -4.58%, #00459C 100.84%);
+}
+
+.life-cycle .life-cycle-row{
+    border-radius: 10px;
+    margin: 15px;
+    padding: 20px;
+    background-image: url(../images/erp/image1.png);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 443px;
+}
+
+.life-cycle h3{
+    font-weight: 600;
+    font-size: 30px;
+}
+
 
 
 
@@ -2861,6 +2906,8 @@ section {
         transform: translate(0, 0);
     }
 }
+
+
 
 
 @keyframes rightLeft {
