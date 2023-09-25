@@ -10,16 +10,18 @@
             </video>
             <div class="container">
                 <div class="banner-content">
-                    <h1 class="main-text">Your <span class="ps-4">Top best</span></h1>
+                    <h1 class="main-text">Guiding Students towards
+                        <span class="ps-4">Bright</span>
+                    </h1>
                     <div class="sec-text">
-                        <span>study partner</span>
+                        <span>Futures</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Minds and nurturing skills and abilities through Mentorship</p>
                     </div>
 
                     <div class="banner-btn-box">
-                        <a class="banner-btn">learn more</a>
+                        <a href="mentorship" class="banner-btn">learn more</a>
                     </div>
                 </div>
 
@@ -39,16 +41,18 @@
 
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Personalized attention of expert educators and a supportive environment for a transformative
+                            educational journey.</p>
                     </div>
 
                     <div class="banner-btn-box">
-                        <a class="banner-btn">learn more</a>
+                        <a href="online-tutorial" class="banner-btn">learn more</a>
                     </div>
                 </div>
 
             </div>
         </div>
+
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
@@ -56,16 +60,17 @@
             </video>
             <div class="container">
                 <div class="banner-content">
-                    <h1 class="main-text">Unmissable <span class="ps-4">Sports</span></h1>
+                    <h1 class="main-text">The Future of <span class="ps-4">Sports</span></h1>
                     <div class="sec-text">
-                        <span>Moments </span>
+                        <span>Starts Here </span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Assist you in organizing successful sports and educational events that foster teamwork and
+                            skill development.</p>
                     </div>
 
                     <div class="banner-btn-box">
-                        <a class="banner-btn">learn more</a>
+                        <a href="sports-event" class="banner-btn">learn more</a>
                     </div>
                 </div>
             </div>
@@ -75,18 +80,19 @@
             <video class="video-bg" autoplay muted loop>
                 <source src="assets/images/banner/4.mp4" type="video/mp4">
             </video>
+
             <div class="container">
                 <div class="banner-content">
                     <h1 class="main-text">Join Our <span class="ps-4">Horizons</span></h1>
                     <div class="sec-text">
-                        <span>to Expand Horizons!</span>
+                        <span>join our education events</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Showcase your talent, and make lasting memories while learning and growing.</p>
                     </div>
 
                     <div class="banner-btn-box">
-                        <a class="banner-btn">learn more</a>
+                        <a href="education-event" class="banner-btn">learn more</a>
                     </div>
                 </div>
             </div>
@@ -98,12 +104,12 @@
             </video>
             <div class="container">
                 <div class="banner-content">
-                    <h1 class="main-text">Nurturing<span class="ps-4">Excellence</span></h1>
+                    <h1 class="main-text">Global<span class="ps-4">opportunities</span></h1>
                     <div class="sec-text">
-                        <span>Through Mentorship</span>
+                        <span>local guidance</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Embark on a global educational journey with our comprehensive study abroad assistance.</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -142,7 +148,7 @@
 
 <!-- about -->
 
-<section class="section" >
+<section class="section">
     <div class="about container">
         <div class="row">
             <div class="col-lg-6 col-md-12">
@@ -157,8 +163,8 @@
                         <div>
                             <img src="assets/images/about/shape3.png" alt="image">
                             <div class="text">
-                                <h4>5+</h4>
-                                <p>Year Experience</p>
+                                <h4>2000+</h4>
+                                <p>Universities</p>
                             </div>
 
                         </div>
@@ -172,15 +178,18 @@
                 <div class="px-3">
                     <h5>About us</h5>
                     <h2><span class="head-style">metafis</span></h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
-                        sure there isn't anything embarrassing hidden.</p>
-                    <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
-                        predefined chunks as necessary, making this the first true generator on the Internet. It
-                        uses a dictionary of over 200.</p>
+                    <p>Metafis, your partners in educational excellence. As a leading educational service provider in
+                        Dubai, we are dedicated to nurturing and guiding students on their academic journeys. Our
+                        comprehensive suite of services includes online tutorials, expert counseling, mentoring, and
+                        support for studying abroad.
+                    </p>
+                    <p>We take pride in our global network of over 20,000 universities, simplifying the path to
+                        international education. Our committed team also assists with visa coordination, SOP support,
+                        and scholarship opportunities. With a focus on personalized attention and holistic growth, we
+                        empower students to unlock their potential, both academically and personally. Join us and embark
+                        on a journey of educational success.</p>
 
-                    <button class="primary-btn">read more</button>
+                    <a href="about" class="primary-btn">read more</a>
                 </div>
             </div>
 
@@ -275,7 +284,7 @@
 <!-- feature end -->
 
 <!-- career -->
-<section class="section" >
+<section class="section">
     <div class="career-index">
         <div class="container">
             <div class="relative-box">
@@ -309,9 +318,11 @@
                     </div>
 
                     <p>
-                        There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered
-                        alteration in some form, by injected humour, or randomised words which don't.
+                        Explore limitless opportunities for education and career growth overseas. Metafis helps you
+                        navigate the path to international success, offering expert guidance, visa assistance, and
+                        tailored career counseling. Seize your chance to excel globally and shape a thriving career
+                        abroad.
+
                     </p>
                     <a href="study-abroad" class="primary-btn">read more</a>
                 </div>
@@ -326,7 +337,7 @@
 <!-- career end -->
 
 <!-- courses -->
-<section class="section" >
+<section class="section">
     <div class="courses">
         <div class="container">
             <div class="row">
@@ -344,21 +355,24 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="heading-box">
-                        <h5 class="section-top-head">Courses</h5>
-                        <h2 class="section-head">We provide</h2>
+                        <h5 class="section-top-head">TUITION</h5>
+                        <h2 class="section-head">ONLINE TUITION FOR CLASSES 1-10</h2>
                     </div>
 
                     <div>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't
-                            look
+                            Metafis provides interactive and comprehensive lessons that cater to various subjects and
+                            syllabi. Our experienced tutors employ engaging methods to ensure a thorough understanding
+                            of concepts and encourage active participation. With a focus on individual progress, we
+                            provide personalized attention to address specific learning needs.
+
                         </p>
 
                         <p>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration in some form, by injected humour, or randomised words which don't
-                            look even slightly believable. If you are going to use a passage.
+                            Embrace a flexible and convenient learning experience that allows you to excel in your
+                            studies and build a strong foundation for future success. Join us and embark on a journey of
+                            educational growth and achievement.
+
                         </p>
 
                         <ul class="course-feature-list">
@@ -403,7 +417,7 @@
                             </li>
                         </ul>
 
-                        <button class="primary-btn">read more</button>
+                        <a href="online-tutorial" class="primary-btn">read more</a href="online-tutorial">
                     </div>
                 </div>
             </div>
@@ -512,18 +526,89 @@
                             <h5 class="section-top-head-white">student</h5>
                             <h2 class="section-head-white">counselling</h2>
 
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in some form, by injected humour.</p>
+                            <p>Metafis provides a safe space for students to discuss academic challenges, career
+                                aspirations, and personal growth. Let us empower you to make informed decisions and
+                                thrive in your academic journey</p>
+
+                            <ul class="course-feature-list text-white">
+                                <li class="pb-2">
+
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Personalised guidance
+
+                                        </div>
+                                    </div>
 
 
-                            <form class="d-flex flex-column counselling-form" action="">
+                                </li>
+                                <li class="pb-2">
+
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Academic support
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="pb-2">
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Career path exploration
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="pb-2">
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Emotional and mental wellbeing
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="pb-2">
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Goal setting and motivation
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="pb-2">
+                                    <div class="row">
+                                        <div class="col-1">
+                                            <img class="pe-2" src="assets/images/courses/list-icon.png" alt="image">
+                                        </div>
+                                        <div class="col-11">
+                                            Decision making assistance
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+
+
+                            <!-- <form class="d-flex flex-column counselling-form" action="">
                                 <input type="text" placeholder="Enter Your Name">
                                 <input type="text" placeholder="Enter Email Address">
                                 <div class="btn-box">
                                     <button class="primary-btn">read more</button>
                                 </div>
 
-                            </form>
+                            </form> -->
 
 
                         </div>
@@ -545,19 +630,22 @@
             <div class="row">
                 <div class=" col-lg-6 d-flex flex-column justify-content-center">
                     <div class="heading-box">
-                        <h5 class="section-top-head">my mentor</h5>
-                        <h2 class="section-head">meet your <br> career instructor</h2>
+                        <h5 class="section-top-head">mentorship</h5>
+                        <h2 class="section-head">MENTORSHIP PROGRAM</h2>
                     </div>
                     <p>
-                        There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
+                        Our mentorship goes beyond academics, providing a supportive relationship that nurtures personal
+                        and professional development. Experienced mentors offer valuable insights, advice, and
+                        constructive feedback, aligning your goals and aspirations.
+
                     </p>
                     <p>
-                        There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a passage.
+                        Tailored to suit your individual needs, the program facilitates skill enhancement, leadership
+                        development, and confidence building. Whether it's career guidance, skill acquisition, or simply
+                        a source of motivation, our mentors are here for you. Join our mentorship program and unlock
+                        your true potential, poised for success in both academics and life.
                     </p>
-                    <ul class="course-feature-list">
+                    <!-- <ul class="course-feature-list">
                         <li class="pb-2">
                             <div class="row">
                                 <div class="col-1">
@@ -595,8 +683,8 @@
                                 </div>
                             </div>
                         </li>
-                    </ul>
-                    <button class="primary-btn">read more</button>
+                    </ul> -->
+                    <a href="mentorship" class="primary-btn">read more</a href="mentorship">
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
@@ -648,11 +736,15 @@
                     <h5 class="section-top-head">events</h5>
                     <h2 class="section-head">education events</h2>
 
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look.
-                        There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a passage.</p>
+                    <p>Our educational events are meticulously designed to ignite curiosity, foster creativity, and
+                        encourage critical thinking. From seminars and workshops to interactive lectures, we create a
+                        vibrant platform for knowledge exchange and skill development. Renowned speakers and industry
+                        experts lead discussions on cutting-edge topics, providing students with real-world insights.
+                    </p>
+                    <p>
+                        These events serve as catalysts for intellectual growth, encouraging students to think beyond
+                        textbooks. Join us in these enlightening events and shape a future where education transcends
+                        boundaries, fueled by knowledge and innovation.</p>
 
                     <button class="primary-btn">read more</button>
                 </div>
@@ -720,11 +812,16 @@
                     <h5 class="section-top-head">sports</h5>
                     <h2 class="section-head">sports events</h2>
 
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look.
-                        There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a passage.</p>
+                    <p>Metafis recognizes the power of sports in character building and overall development. Our
+                        sports events offer a dynamic arena for students to showcase their talent, teamwork, and
+                        sportsmanship. From inter-school competitions to organized tournaments, we provide a platform
+                        for healthy competition and physical well-being. </p>
+                    <p>
+
+                        These events nurture discipline, resilience,
+                        and leadership, vital qualities for success in any endeavor. Join us in celebrating the spirit
+                        of sports, where victories go beyond the field, shaping individuals ready to conquer challenges
+                        on and off the pitch. Let the games begin.</p>
 
                     <button class="primary-btn">read more</button>
                 </div>
@@ -1026,7 +1123,9 @@
                     <div>
                         <div>
                             <h2 class="section-head">get in touch</h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                            <p>Have a question or need assistance? Reach out to us today! We're here to help. Contact
+                                Metafis for all your educational queries and services. Let's start a conversation.
+                            </p>
                         </div>
                         <form action="">
                             <input type="text" placeholder="enter your name">

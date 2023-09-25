@@ -15,13 +15,15 @@
                     <h2 class="section-head">who we are</h2>
                 </div>
 
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                    suffered alteration in some form, by injected humour, or randomised words which don't look
-                    even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
-                    sure there isn't anything embarrassing hidden.</p>
-                <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
-                    predefined chunks as necessary, making this the first true generator on the Internet. It
-                    uses a dictionary of over 200.</p>
+                <p>Metafis, your partners in educational excellence. As a leading educational service provider in
+                    Dubai, we are dedicated to nurturing and guiding students on their academic journeys. Our
+                    comprehensive suite of services includes online tutorials, expert counseling, mentoring, and support
+                    for studying abroad. </p>
+                <p>We take pride in our global network of over 20,000 universities, simplifying the path to
+                    international education. Our committed team also assists with visa coordination, SOP support, and
+                    scholarship opportunities. With a focus on personalized attention and holistic growth, we empower
+                    students to unlock their potential, both academically and personally. Join us and embark on a
+                    journey of educational success.</p>
             </div>
         </div>
     </div>
@@ -37,13 +39,14 @@
                         <h2 class="section-head">Why Choose Us</h2>
                     </div>
 
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or randomised words which don't look
-                        even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be
-                        sure there isn't anything embarrassing hidden.</p>
-                    <p>In the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat
-                        predefined chunks as necessary, making this the first true generator on the Internet. It
-                        uses a dictionary of over 200.</p>
+                    <p>Choose Metafis, where educational excellence meets personalized empowerment. We're not just
+                        educators; we're your steadfast partners in this educational odyssey. Our commitment goes beyond
+                        classrooms; it's about sculpting your aspirations into achievements, dreams into realities. </p>
+                    <p>With a tapestry of services from tailored sac x bx mb n b to global study opportunities, we pave
+                        a unique path for every student. Our dedication to authenticity, innovation, and holistic growth
+                        distinguishes us. At Metafis, we don't just teach; we inspire, guide, and uplift. Join us,
+                        embrace the extraordinary, and together, let's script a future brimming with academic brilliance
+                        and endless possibilities</p>
                 </div>
 
             </div>

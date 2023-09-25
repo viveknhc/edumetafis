@@ -161,6 +161,23 @@
                 </div>
             </div>
 
+            <div class="col-lg-4 col-md-6 col-12" data-aos="fade-up" data-aos-duration="2000">
+                <div class="edumetafis-blog-card">
+                    <div class="blog-img">
+                        <img src="assets/images/next gen skills/nextgen.jpg" class="img-fluid" alt="image">
+                    </div>
+                    <div class="blog-desc">
+                        <h4 class="blog-head">Next Generation Skills</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet vitae mollitia nemo repellat
+                            dolorum</p>
+                    </div>
+                    <div class="blog-date-button">
+                        <a href="next-gen-skills" class="read-more-btn">Read More<i
+                                class="fa-solid fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>

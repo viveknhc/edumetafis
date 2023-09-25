@@ -6,16 +6,19 @@
                 <div class="col-lg-6 left-side">
                     <div class="px-2">
                         <h1>
-                            Grab your <br> dream career with <br> <span class="mt-5">EDuMetfis</span> 
+                            GRAB YOUR DREAM CAREER <br> CAREER <br> <span class="mt-5">Metfis</span>
                         </h1>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                        <p>From personalized counseling and expert guidance on choosing the perfect destination and
+                            program to assisting with visa applications and scholarships, we're committed to ensuring
+                            your seamless transition to international education.</p>
                         <button class="primary-btn">View More</button>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box image-box">
                         <img class="img-fluid" src="assets/images/study-abroad/banner.png" alt="image">
-                        <img class="img-fluid banner-circle" src="assets/images/study-abroad/banner-circle.png" alt="image">
+                        <img class="img-fluid banner-circle" src="assets/images/study-abroad/banner-circle.png"
+                            alt="image">
                         <img class="img-fluid banner-tag1" src="assets/images/study-abroad/banner-tag1.png" alt="image">
                         <img class="img-fluid banner-tag2" src="assets/images/study-abroad/banner-tag2.png" alt="image">
                     </div>

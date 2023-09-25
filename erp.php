@@ -129,7 +129,7 @@
                                 </div>
                             </div>
                         </div>
-                      
+
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex align-items-center">
@@ -140,25 +140,26 @@
                                 <p>Direct.Short LIst.Merit</p>
                             </li>
                             <li>
-                                <h6>Configure Your own addmission Processes</h6>
-                                <p>Direct.Short LIst.Merit</p>
+                                <h6>ID Cards</h6>
+                                <p>Student.Parent.Staf.Transport</p>
                             </li>
                             <li>
-                                <h6>Configure Your own addmission Processes</h6>
-                                <p>Direct.Short LIst.Merit</p>
+                                <h6>Student Attendance</h6>
+                                <p>School.Lecture.Batch.Activity</p>
                             </li>
                             <li>
-                                <h6>Configure Your own addmission Processes</h6>
-                                <p>Direct.Short LIst.Merit</p>
+                                <h6>Grade Book</h6>
+                                <p>Single Teacher Console</p>
                             </li>
                             <li>
-                                <h6>Configure Your own addmission Processes</h6>
-                                <p>Direct.Short LIst.Merit</p>
+                                <h6>Supported Curriculums</h6>
+                                <p>CBSE.ICSE.IGCSE.IB.America</p>
                             </li>
                             <li>
-                                <h6>Configure Your own addmission Processes</h6>
-                                <p>Direct.Short LIst.Merit</p>
+                                <h6>Reporting Requirements</h6>
+                                <p>200+ Report Card Formats</p>
                             </li>
+
                         </ul>
                     </div>
                 </div>
@@ -175,6 +176,99 @@
         </div>
         <div class="text-center">
             <img class="img-fluid" src="assets/images/erp/finance.png" alt="">
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="finance-administration relative-box">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div>
+                        <div>
+                            <h5 class="section-top-head">Accurate</h5>
+                            <h2 class="section-head">Finance Administration</h2>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus dolores quia cumque
+                                a provident, est reiciendis delectus maxime. Sed ex dignissimos aliquid id totam hic
+                                quae, placeat velit cum. Iure.</p>
+                        </div>
+
+                        <div class="finance-counter">
+                            <div class="row g-5">
+                                <div class="col-lg-3">
+                                    <div class="finance-counter-box">
+                                        <h3>13</h3>
+                                        <p>Countries</p>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <div class="finance-counter-box">
+                                        <h3>90%</h3>
+                                        <p>Retention</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="finance-counter-box">
+                                        <h3>99.5%</h3>
+                                        <p>Uptime</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="finance-counter-box">
+                                        <h3>3</h3>
+                                        <p>Million LOC</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="right">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Implement any fee structure seamlessly</h6>
+                                    <p>Single.Recurring.Instatlment.Advice</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Reduce administrative overhead</h6>
+                                    <p>Online Book Sale.Online Uniform Sale</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Standardize asset management processes</h6>
+                                    <p>Estimate.Evaluate.Purchase.Sell</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Integrated Accouting</h6>
+                                    <p>Accounting effects for all transactions</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Accurate defaulter list demand</h6>
+                                    <p>Notify defaulter at a single click</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <div>
+                                    <h6>Standars complient reporting</h6>
+                                    <p>Ledgers.Trial Balance .Balance Sheet</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

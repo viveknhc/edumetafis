@@ -1,10 +1,13 @@
-// aos
 
-// AOS.init();
+
+// Loader
+setTimeout(function () {
+    $('.spinner-box').fadeToggle();
+}, 2000);
+
 
 
 // banner
-
 $(document).ready(function () {
     $('.banner-slider').owlCarousel({
         loop: true,
@@ -76,7 +79,7 @@ jQuery("#courseIndexCarousel").owlCarousel({
 $(document).ready(function () {
     $("#testimonial-carousel").owlCarousel({
         loop: true,
-        autoplay:true,
+        autoplay: true,
         margin: 10,
         nav: true,
         navText: [

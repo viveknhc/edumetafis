@@ -26,17 +26,90 @@
 
 
 }
+
+/* LOADER */
+
+.spinner-box {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    position: fixed;
+    z-index: 100;
+}
+
+.spinner {
+    position: relative;
+    width: 80px;
+    /* Adjust the width accordingly */
+    height: 16px;
+    /* Keep the height the same */
+}
+
+.spinner div {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #004dff;
+    border-radius: 50%;
+    animation: spinner-4t3wzl 2s infinite linear;
+}
+
+.spinner div:nth-child(1) {
+    left: 0;
+    animation-delay: 0.15s;
+    background-color: rgba(0, 77, 255, 0.9);
+}
+
+.spinner div:nth-child(2) {
+    left: 25%;
+    animation-delay: 0.3s;
+    background-color: rgba(0, 77, 255, 0.8);
+}
+
+.spinner div:nth-child(3) {
+    left: 50%;
+    animation-delay: 0.45s;
+    background-color: rgba(0, 77, 255, 0.7);
+}
+
+.spinner div:nth-child(4) {
+    left: 75%;
+    animation-delay: 0.6s;
+    background-color: rgba(0, 77, 255, 0.6);
+}
+
+.spinner div:nth-child(5) {
+    left: 100%;
+    animation-delay: 0.75s;
+    background-color: rgba(0, 77, 255, 0.5);
+}
+
+@keyframes spinner-4t3wzl {
+    0% {
+        transform: rotate(0deg) translateX(-100%);
+    }
+
+    100% {
+        transform: rotate(360deg) translateX(-100%);
+    }
+}
+
+/* END */
 .navbar-nav .dropdown .dropdown-menu {
     border: none;
     background-image: linear-gradient(90deg, #003C89 0%, #0070FF 100%);
     padding: 10px 10px;
 }
 
-.navbar-nav .dropdown .dropdown-menu .dropdown-item{
+.navbar-nav .dropdown .dropdown-menu .dropdown-item {
     color: #fff;
 }
 
-.dropdown-item:focus, .dropdown-item:hover {
+.dropdown-item:focus,
+.dropdown-item:hover {
     background-color: #fff;
     border-radius: 10px;
     color: var(--black-col) !important;
@@ -706,6 +779,50 @@ section {
     animation: aboutRotation 6s infinite linear;
 }
 
+/* finance-administration */
+
+.finance-administration {
+    height: 60vh;
+    background: url(../images/erp/finance-admin.png) no-repeat center center;
+}
+
+.finance-counter {
+    position: absolute;
+    bottom: 25%;
+    left: 35px;
+}
+
+.finance-counter-box {
+    background-color: var(--white-col);
+    border-radius: 10px;
+    width: 115px;
+    padding: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.finance-counter .finance-counter-box h3 {
+    color: var(--sec-col);
+}
+
+.finance-administration .right {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: top;
+    top: 1%;
+    width: 45%;
+    background-color: var(--white-col);
+}
+
+.finance-administration .right h6{
+    font-size: 18px;
+}
+
+
+
+
+
 
 
 @keyframes aboutRotation {
@@ -733,7 +850,7 @@ section {
     position: absolute;
     top: 324px;
     right: 224px;
-    z-index: 111;
+    z-index: 6;
 }
 
 .counter-box div {
@@ -748,8 +865,8 @@ section {
 
 .counter-box div .text {
     position: absolute;
-    top: 16px;
-    left: 32px;
+    top: 29px;
+    left: 22px;
     z-index: 1111;
 }
 
@@ -2684,7 +2801,7 @@ section {
     top: 0;
     left: 0;
     z-index: -1;
-    
+
 }
 
 .web-design-banner .banner-icon3 {
@@ -2702,43 +2819,43 @@ section {
     animation: upDown 3s linear infinite;
 }
 
-.website-service-head{
+.website-service-head {
     padding-bottom: 130px;
 }
 
-.website-service img{
+.website-service img {
     position: absolute;
     bottom: 230px;
     left: -62px;
     max-width: 216px;
 }
 
-.website-service .content-box h5{
+.website-service .content-box h5 {
     color: #fff;
     font-size: 18px;
 }
 
 
-.website-service .content-box h2{
+.website-service .content-box h2 {
     color: #fff;
     font-size: 26px;
 }
 
-.website-service .content-box{
+.website-service .content-box {
     background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
     padding: 50px;
     border-radius: 15px;
     text-align: end;
 }
 
-.website-service .content-box p{
+.website-service .content-box p {
     width: 100%;
 }
 
 
 /* Digital Marketing */
 
-.digital-marketing-banner .banner-icon1{
+.digital-marketing-banner .banner-icon1 {
     position: absolute;
     top: 0;
     left: 0;
@@ -2746,20 +2863,20 @@ section {
 
 }
 
-.digital-service-box1{
+.digital-service-box1 {
     background: linear-gradient(137deg, #78B3FF 0%, #004093 98.82%);
     color: #fff;
     padding: 28px;
     border-radius: 15px;
 }
 
-.digital-service-box1 h4{
+.digital-service-box1 h4 {
     padding-top: 35px;
 }
 
 /* ERP BANNER */
 
-.erp-banner{
+.erp-banner {
     background-image: url("../images/erp/erp-banner.jpg");
     height: 100vh;
     background-repeat: no-repeat;
@@ -2770,7 +2887,7 @@ section {
     align-items: center;
 }
 
-.erp-banner h1{
+.erp-banner h1 {
     text-transform: uppercase;
     font-weight: 700;
     color: var(--sec-col);
@@ -2778,40 +2895,43 @@ section {
     line-height: 1;
 }
 
-.erp-banner h1 span{
+.erp-banner h1 span {
     color: var(--primary-col);
     font-size: 60px;
-    
+
 }
 
 
-.erp-banner .banner-img2{
+.erp-banner .banner-img2 {
     position: absolute;
     top: 0;
     left: 38%;
     animation: top;
 }
-.erp-banner .banner-img1{
+
+.erp-banner .banner-img1 {
     position: absolute;
     right: 0;
 }
 
-.adding-value .head{
+.adding-value .head {
     color: #214573;
     font-weight: 600;
 }
 
-.student-cycle-icon{
+.student-cycle-icon {
     max-width: 70px;
 }
 
-.adding-value .col-lg-6{
+.adding-value .col-lg-6 {
     padding: 0 50px;
 }
-.student-cycle .left .left-img-1{
+
+.student-cycle .left .left-img-1 {
     animation: 3s diagonalMove linear infinite;
 }
-.student-cycle .left .left-img-2{
+
+.student-cycle .left .left-img-2 {
     position: absolute;
     top: 0;
     left: 0;
@@ -2825,7 +2945,7 @@ section {
     background: linear-gradient(108deg, #0E022F -4.58%, #00459C 100.84%);
 }
 
-.life-cycle .life-cycle-row{
+.life-cycle .life-cycle-row {
     border-radius: 10px;
     margin: 15px;
     padding: 20px;
@@ -2836,12 +2956,25 @@ section {
     height: 443px;
 }
 
-.life-cycle h3{
+.life-cycle h3 {
     font-weight: 600;
     font-size: 30px;
 }
 
+.life-cycle .right p {
+    font-weight: 200;
+    font-size: 13px;
+}
 
+/* NEXT GEN  */
+
+.next-gen-skill{
+    /* height: 100vh;
+    background-image: url(../images/next\ gen\ skills/banner.png); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 

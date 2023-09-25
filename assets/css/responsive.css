@@ -12,7 +12,7 @@
     .career-partner {
         left: 9px;
         bottom: 182px;
-        z-index: 111;
+        z-index: 2;
     }
 }
 
@@ -20,35 +20,36 @@
 
 /* tab */
 @media only screen and (max-width:999px) {
-    
-        /* WEB DESIGN */
-        .web-design{
-            overflow: hidden;
-        }
-    
-        .website-service{
-            overflow: hidden;
-        }
-        
-        .web-design .left{
-            display: none;
-        }
-    
-        .website-service img{
-            display: none;
-        }
-    
-        .website-service .content-box{
-            text-align: start;
-        }
-    
-        .website-service-head {
-            padding-bottom: 22px;
-        }
+
+    /* WEB DESIGN */
+    .web-design {
+        overflow: hidden;
+    }
+
+    .website-service {
+        overflow: hidden;
+    }
+
+    .web-design .left {
+        display: none;
+    }
+
+    .website-service img {
+        display: none;
+    }
+
+    .website-service .content-box {
+        text-align: start;
+    }
+
+    .website-service-head {
+        padding-bottom: 22px;
+    }
 
     #banner .banner-item {
         height: 75vh;
     }
+
     .about .img-box {
         display: none;
     }
@@ -328,23 +329,23 @@
 @media only screen and (max-width:767px) {
 
     /* WEB DESIGN */
-    .web-design{
+    .web-design {
         overflow: hidden;
     }
 
-    .website-service{
+    .website-service {
         overflow: hidden;
     }
-    
-    .web-design .left{
+
+    .web-design .left {
         display: none;
     }
 
-    .website-service img{
+    .website-service img {
         display: none;
     }
 
-    .website-service .content-box{
+    .website-service .content-box {
         text-align: start;
     }
 

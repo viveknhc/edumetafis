@@ -27,6 +27,17 @@
 
 <body>
 
+    <div class="spinner-box">
+        <div class="spinner">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+    
     <div class="topbar">
         <div class="container">
             <div class="row">

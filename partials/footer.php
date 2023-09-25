@@ -13,8 +13,9 @@
 
 
                     <h3>Subscribe Our <br><span>Newsletter....!</span></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Nemo vero minima voluptatem hic
-                        explicabo.</p>
+                    <p>Stay informed and inspired! Subscribe to the Edumetafis newsletter for the latest updates,
+                        educational insights, and exclusive opportunities. Join our community and be a part of our
+                        educational journey. Subscribe now.</p>
                 </div>
                 <div class="col-lg-6 col-12">
                     <div class="input-box">
@@ -30,8 +31,9 @@
         <div class="row">
             <div class="col-lg-3 col-md-12">
                 <img src="assets/images/logo/logo-white.png" alt="image" class="footer-logo">
-                <P class="footer-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. amet consectetur
-                    adipisicing elit.</P>
+                <P class="footer-desc">Metafis, your partners in educational excellence. As a leading educational
+                    service provider in Dubai, we are dedicated to nurturing and guiding students on their academic
+                    journeys</P>
                 <div class="ftr-sm-icons">
                     <i class="fa-brands fa-facebook-f"></i>
                     <i class="fa-brands fa-instagram"></i>
@@ -47,7 +49,7 @@
                 <a class="ftr-links" href="services">Services</a>
                 <a class="ftr-links" href="partners-investors">Partners & Investors</a>
             </div>
-            
+
             <div class="col-lg-3 col-md-12">
                 <h4 class="ftr-links-head">Services</h4>
 
@@ -66,7 +68,7 @@
                 <a class="ftr-links" href="career">Careers</a>
                 <a class="ftr-links" href="contact">Contact Us</a>
             </div>
-         
+
         </div>
 
     </div>
@@ -75,7 +77,7 @@
     <p class="copyrigt-text">Copyright © 2023 Edumetafis. All Rights Reserved | Designed by Mentegoz
         Technologies
     </p>
-    
+
 </div>
 
 <!-- <div>
@@ -101,7 +103,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
 <script>
     AOS.init();
