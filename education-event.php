@@ -5,25 +5,29 @@
     <div class="pg-edu-event-banner inner">
         <div class="container">
             <div class="row">
-              <div class="col-lg-6 left-side">
+                <div class="col-lg-6 left-side">
 
-                <div class="px-2">
-                    <h1>
-                       Gain knowledge from  <br> <span class="mt-5">entertainment</span> 
-                    </h1>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                    <div class="px-2">
+                        <h1>
+                            Igniting minds and fostering <br> <span class="mt-5"> growth</span>
+                        </h1>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat
+                            corporis mollitia</p>
                         <button class="primary-btn">View More</button>
-                </div>
+                    </div>
 
-              </div>
-              <div class="col-lg-6">
-                <div class="relative-box">
-                    <img class="img-fluid" src="assets/images/education-event/banner-study-event-1.png" alt="image">
-                    <img class="img-fluid banner-shape1" src="assets/images/education-event/banner-study-event-2.png" alt="image">
-                    <img class="img-fluid banner-shape2" src="assets/images/education-event/banner-study-event-3.png" alt="image">
-                    <img class="img-fluid banner-shape3" src="assets/images/education-event/banner-study-event-4.png" alt="image">
                 </div>
-              </div>
+                <div class="col-lg-6">
+                    <div class="relative-box">
+                        <img class="img-fluid" src="assets/images/education-event/banner-study-event-1.png" alt="image">
+                        <img class="img-fluid banner-shape1"
+                            src="assets/images/education-event/banner-study-event-2.png" alt="image">
+                        <img class="img-fluid banner-shape2"
+                            src="assets/images/education-event/banner-study-event-3.png" alt="image">
+                        <img class="img-fluid banner-shape3"
+                            src="assets/images/education-event/banner-study-event-4.png" alt="image">
+                    </div>
+                </div>
             </div>
 
         </div>
@@ -50,13 +54,16 @@
                             <h2 class="section-head">education Events</h2>
                         </div>
                         <div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered </p>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in some form, by injected humour, or randomised words which don't
-                                look. There are many variations of passages of Lorem Ipsum available, but the majority
-                                have suffered alteration in some form, by injected humour, or randomised words which
-                                don't look even slightly believable. If you are going to use a passage.</p>
+                            <p>Metafis proudly hosts a series of enriching educational events, aiming to
+                                revolutionize learning in the vibrant landscape of present-day Dubai. In a city known
+                                for its cultural diversity and rapid advancements, these events play a pivotal role.
+                                </p>
+                            <p> They act as catalysts, fostering a culture of continuous learning, adaptability, and
+                                innovation. Through interactive workshops, seminars, and engaging talks by industry
+                                experts, we ignite curiosity and inspire creativity. In the rapidly evolving educational
+                                scenario of Dubai, staying informed and updated is paramount. Our educational events
+                                bridge this gap, empowering individuals to thrive in an ever-changing world, ultimately
+                                contributing to the growth and progress of society.</p>
                         </div>
                         <div>
                         </div>

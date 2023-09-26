@@ -8,23 +8,27 @@
                 <div class="col-lg-6 left-side">
                     <div>
                         <h1>
-                             
-                            Build a solid base for your sports and<br> <span class="mt-5"> activities</span> 
+
+                            Shaping Future Champions, One <br> <span class="mt-5"> Game at a Time</span>
                         </h1>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
+                        <p>
+                            Metafis promotes holistic development with organized sports events, fostering teamwork, discipline, and leadership for success in Dubai's modern landscape.</p>
                         <button class="primary-btn">View More</button>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                   <div class="relative-box">
-                    <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png" alt="image">
-                    <img class="img-fluid sp-shape2" src="assets/images/sports-events/shapes/shape2.png" alt="image">
-                    <img class="img-fluid sp-shape3" src="assets/images/sports-events/shapes/shape3.png" alt="image">
-                    <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="image">
-                   </div>
+                    <div class="relative-box">
+                        <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png"
+                            alt="image">
+                        <img class="img-fluid sp-shape2" src="assets/images/sports-events/shapes/shape2.png"
+                            alt="image">
+                        <img class="img-fluid sp-shape3" src="assets/images/sports-events/shapes/shape3.png"
+                            alt="image">
+                        <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="image">
+                    </div>
                 </div>
             </div>
-           
+
         </div>
     </div>
 </header>
@@ -37,7 +41,7 @@
                 <div class="col-lg-6  order-lg-0 order-1">
                     <div class="relative-box">
                         <img class="img-fluid" src="assets/images/sports-events/sports-event1.png" alt="image">
-                        <img  class="img-fluid ball" src="assets/images/sports-events/ball.png" alt="image">
+                        <img class="img-fluid ball" src="assets/images/sports-events/ball.png" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-6  order-lg-1 order-0">
@@ -47,13 +51,15 @@
                             <h2 class="section-head">Sports Events</h2>
                         </div>
                         <div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered </p>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in some form, by injected humour, or randomised words which don't
-                                look. There are many variations of passages of Lorem Ipsum available, but the majority
-                                have suffered alteration in some form, by injected humour, or randomised words which
-                                don't look even slightly believable. If you are going to use a passage.</p>
+                            <p>Metafis champions holistic development through our meticulously organized sports
+                                events. Beyond academics, we prioritize physical well-being and character building. Our
+                                events nurture teamwork, discipline, and leadership—vital traits for success in the
+                                modern Dubai landscape.  </p>
+                            <p>In a city valuing a balanced lifestyle, our sports events offer
+                                a crucial platform for students to showcase their athletic prowess and learn essential
+                                life skills. Join us in fostering a healthier, more dynamic generation, where sports go
+                                beyond the field, shaping individuals ready to conquer challenges in today's competitive
+                                world.</p>
                         </div>
                         <div>
                         </div>

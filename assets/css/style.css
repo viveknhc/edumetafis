@@ -2969,12 +2969,70 @@ section {
 /* NEXT GEN  */
 
 .next-gen-skill{
-    /* height: 100vh;
-    background-image: url(../images/next\ gen\ skills/banner.png); */
-    background-size: cover;
-    background-position: center;
+    overflow: hidden;
+    height: 80vh;
+    background-image: url(../images/next\ gen\ skills/banner.png);
+    background-size: contain;
+    background-position: top;
     background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+/* .feedback-new-gen{
+    height: 55vh;
+    width: auto;
+    background-image: url(../images/next\ gen\ skills/williams.png);
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    position: relative;
+} */
+/* 
+.feedback-new-gen .feedback-box{
+    background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
+    padding: 20px;
+    position: absolute;
+    bottom: -47px;
+    left: 0;
+    margin: 0px 62px 0px 0;
+    z-index: -1;
+    border-radius: 15px;
+
+}
+
+
+.feedback-new-gen{
+    position: relative;
+}
+
+.feedback-new-gen .name-tag{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    top: -25px;
+    padding: 10px;
+} */
+
+.feedback-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 0;
+    padding: 20px;
+    border-radius: 15px;
+}
+.feedback-card h5{
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.new-gen-course-section .header-box{
+    margin-bottom: 50px;
+}
+
+
 
 
 
