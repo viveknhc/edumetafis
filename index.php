@@ -100,7 +100,7 @@
 
         <div class="banner-item">
             <video class="video-bg" autoplay muted loop>
-                <source src="assets/images/banner/5.mp4" type="video/mp4">
+                <source src="assets/images/banner/5.m4v" type="video/mp4">
             </video>
             <div class="container">
                 <div class="banner-content">
