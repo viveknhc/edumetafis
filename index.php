@@ -17,7 +17,7 @@
                         <span>Futures</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Minds and nurturing skills and abilities through Mentorship</p>
+                        <p>Guiding students towards a brighter future through expert mentorship and support</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -41,8 +41,7 @@
 
                     </div>
                     <div class="banner-p-box">
-                        <p>Personalized attention of expert educators and a supportive environment for a transformative
-                            educational journey.</p>
+                        <p>Unlock your potential through online learning, where possibilities are limitless</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -65,8 +64,7 @@
                         <span>Starts Here </span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Assist you in organizing successful sports and educational events that foster teamwork and
-                            skill development.</p>
+                        <p>The future of sports starts here, where champions are born</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -88,7 +86,7 @@
                         <span>join our education events</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Showcase your talent, and make lasting memories while learning and growing.</p>
+                        <p>Join our horizon where the future of sports begins, where champions are born</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -109,7 +107,7 @@
                         <span>local guidance</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Embark on a global educational journey with our comprehensive study abroad assistance.</p>
+                        <p>Discover global opportunities with local guidance at your side</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -130,7 +128,7 @@
                         <span>Join Our Education Event</span>
                     </div>
                     <div class="banner-p-box">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi excepturi,</p>
+                        <p>Expand horizons by joining our education event and open doors to new opportunities.</p>
                     </div>
 
                     <div class="banner-btn-box">
@@ -373,7 +371,7 @@
 
                         </p>
 
-                        <ul class="course-feature-list">
+                        <!-- <ul class="course-feature-list">
                             <li class="pb-2">
 
                                 <div class="row">
@@ -413,7 +411,7 @@
 
 
                             </li>
-                        </ul>
+                        </ul> -->
 
                         <a href="online-tutorial" class="primary-btn">read more</a href="online-tutorial">
                     </div>

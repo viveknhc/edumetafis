@@ -12,7 +12,7 @@
                             alt="">
                     </div>
                 </div>
-            <div class="row">
+
                 <div class="col-lg-6 left-side order-lg-0">
                     <div>
                         <h1>
@@ -25,8 +25,7 @@
                         </div>
                     </div>
                 </div>
-         
-            </div>
+
         </div>
     </div>
 </header>
