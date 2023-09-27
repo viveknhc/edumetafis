@@ -4,21 +4,26 @@
     <div class="tutorial-banner inner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 left-side">
+                <div class="col-lg-6 order-lg-1">
+                    <div>
+                        <img class="img-fluid" src="assets/images/online-tutorial/banner.png" alt="image">
+                    </div>
+                </div>
+
+                <div class="col-lg-6 left-side order-lg-0">
                     <div class="px-2">
                         <h1>
 
                             Expertise your skills <br> <span class="mt-5">from Experts</span>
                         </h1>
                         <p>Metafis offers interactive online classes for grades 1-10, blending modern pedagogy, multimedia, and flexibility for personalized learning.</p>
-                        <button class="primary-btn">View More</button>
+                        <div class="text-lg-start text-center">
+                            <a href="#" class="primary-btn">View More</a>
+
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div>
-                        <img class="img-fluid" src="assets/images/online-tutorial/banner.png" alt="image">
-                    </div>
-                </div>
+              
             </div>
         </div>
     </div>
@@ -81,7 +86,7 @@
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="assets/images/online-tutorial/icon1.png" class="card-img-top" alt="...">
+                    <img src="assets/images/online-tutorial/icon3.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Flexible Learning Environments</h5>
                         <p class="card-text">Blend of live and pre-recorded sessions, allowing students to learn at

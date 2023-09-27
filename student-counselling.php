@@ -4,21 +4,8 @@
     <div class="student-counselling-banner inner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 left-side">
-                    <div class="px-2">
-                        <h1>
 
-                            We guide you to <br><span class="mt-5"> the best</span>
-                        </h1>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat corporis mollitia</p>
-                        <button class="primary-btn">View More</button>
-                    </div>
-
-
-
-
-                </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-lg-1">
                     <div class="relative-box">
                         <img class="img-fluid" src="assets/images/student-counselling/banner.png" alt="image">
                         <img class="img-fluid banner-shape1" src="assets/images/student-counselling/banner-shape.png"
@@ -27,6 +14,24 @@
                             alt="image">
                     </div>
                 </div>
+
+                <div class="col-lg-6 left-side order-lg-0">
+                    <div class="px-2">
+                        <h1>
+
+                            We guide you to <br><span class="mt-5"> the best</span>
+                        </h1>
+                        <p>We offer expert guidance for education and career decisions.</p>
+
+                        <div class="text-lg-start text-center">
+                            <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>                   </div>
+                    </div>
+
+
+
+
+                </div>
+       
             </div>
         </div>
     </div>
@@ -101,7 +106,7 @@
 
                             </ul>
                             <div class="text-center p-4">
-                                <a class="primary-btn">Get Started</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
                             </div>
 
                         </div>
@@ -122,7 +127,7 @@
                                 <li>Interventions for recommended careers</li>
                             </ul>
                             <div class="text-center p-4">
-                                <a class="primary-btn">Get Started</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
                             </div>
 
                         </div>
@@ -143,7 +148,7 @@
                                 <li>Interventions for recommended careers</li>
                             </ul>
                             <div class="text-center p-4">
-                                <a class="primary-btn">Get Started</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
                             </div>
 
                         </div>
@@ -294,6 +299,7 @@
                         </div>
                     </li>
                 </ul>
+                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn mt-4">View More</a>
 
             </div>
         </div>
@@ -410,7 +416,7 @@
                     interventions based on your current class and learning levels
                 </p>
                 <div class="text-start pt-4">
-                    <a class="primary-btn">Get Started</a>
+                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
                 </div>
             </div>
 
@@ -445,7 +451,7 @@
                     your skills and career options and provides the recommendation on career growth
                 </p>
                 <div class="text-start pt-4">
-                    <a class="primary-btn">Get Started</a>
+                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
                 </div>
             </div>
 

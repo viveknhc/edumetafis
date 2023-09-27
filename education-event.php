@@ -5,19 +5,7 @@
     <div class="pg-edu-event-banner inner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 left-side">
-
-                    <div class="px-2">
-                        <h1>
-                            Igniting minds and fostering <br> <span class="mt-5"> growth</span>
-                        </h1>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat
-                            corporis mollitia</p>
-                        <button class="primary-btn">View More</button>
-                    </div>
-
-                </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-lg-1">
                     <div class="relative-box">
                         <img class="img-fluid" src="assets/images/education-event/banner-study-event-1.png" alt="image">
                         <img class="img-fluid banner-shape1"
@@ -28,6 +16,22 @@
                             src="assets/images/education-event/banner-study-event-4.png" alt="image">
                     </div>
                 </div>
+
+                <div class="col-lg-6 left-side order-lg-0">
+                    <div class="px-2">
+                        <h1>
+                            Igniting minds and fostering <br> <span class="mt-5"> growth</span>
+                        </h1>
+                        <p>
+                            Metafis hosts educational events in Dubai to inspire creativity and empower individuals
+                            for a rapidly changing world, contributing to societal progress.</p>
+                        <div class="text-lg-start text-center">
+                            <a href="#" class="primary-btn">View More</a>
+                        </div>
+                    </div>
+
+                </div>
+               
             </div>
 
         </div>
@@ -57,7 +61,7 @@
                             <p>Metafis proudly hosts a series of enriching educational events, aiming to
                                 revolutionize learning in the vibrant landscape of present-day Dubai. In a city known
                                 for its cultural diversity and rapid advancements, these events play a pivotal role.
-                                </p>
+                            </p>
                             <p> They act as catalysts, fostering a culture of continuous learning, adaptability, and
                                 innovation. Through interactive workshops, seminars, and engaging talks by industry
                                 experts, we ignite curiosity and inspire creativity. In the rapidly evolving educational

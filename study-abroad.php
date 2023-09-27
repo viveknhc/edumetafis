@@ -3,18 +3,7 @@
     <div class="pg-study-abroad inner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 left-side">
-                    <div class="px-2">
-                        <h1>
-                            GRAB YOUR DREAM CAREER <br> CAREER <br> <span class="mt-5">Metfis</span>
-                        </h1>
-                        <p>From personalized counseling and expert guidance on choosing the perfect destination and
-                            program to assisting with visa applications and scholarships, we're committed to ensuring
-                            your seamless transition to international education.</p>
-                        <button class="primary-btn">View More</button>
-                    </div>
-                </div>
-                <div class="col-lg-6">
+                 <div class="col-lg-6 order-lg-1">
                     <div class="relative-box image-box">
                         <img class="img-fluid" src="assets/images/study-abroad/banner.png" alt="image">
                         <img class="img-fluid banner-circle" src="assets/images/study-abroad/banner-circle.png"
@@ -23,6 +12,22 @@
                         <img class="img-fluid banner-tag2" src="assets/images/study-abroad/banner-tag2.png" alt="image">
                     </div>
                 </div>
+
+                <div class="col-lg-6 left-side order-lg-0">
+                    <div class="left-side-content">
+                        <h1>
+                            GRAB YOUR DREAM CAREER <br> CAREER <br> <span class="mt-5">Metfis</span>
+                        </h1>
+                        <p>
+                            We provide comprehensive support for your smooth transition to international education, from
+                            program selection to visa assistance and scholarships.</p>
+                            <div class="text-lg-start text-center">
+                                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">View More</a>
+
+                            </div>
+                    </div>
+                </div>
+               
             </div>
         </div>
     </div>
@@ -78,7 +83,7 @@
         <div class="pe-5 ps-md-5">
             <h2>Study Abroad <br> Explore, Learn, Grow</h2>
             <div class="text-lg-end pt-4">
-                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-white-btn">read more</a>
+                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-white-btn">View More</a>
             </div>
         </div>
     </div>
@@ -103,7 +108,7 @@
                         journey and a fulfilling career.
                     </p>
                     <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
                     </div>
 
                 </div>
@@ -210,7 +215,7 @@
                         </li>
                     </ul>
                     <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
                     </div>
                 </div>
             </div>
@@ -242,7 +247,7 @@
                     </p>
 
                     <div class="pt-lg-3">
-                        <a class="primary-btn" href="">read more</a>
+                        <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn" href="">View More</a>
                     </div>
                 </div>
             </div>
@@ -346,7 +351,7 @@
                         </li>
                     </ul>
                     <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">read more</a>
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
                     </div>
                 </div>
             </div>
@@ -363,9 +368,8 @@
                     <img class="shape2" src="assets/images/contact/shape2.png" alt="image">
 
                     <h3>are you Ready to fly & <br> Persure your dreams</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore optio repellat accusamus
-                        doloremque earum</p>
-                    <button class="primary-btn">Get Started</button>
+                    <p>Connect with us today to embark on your journey to success!</p>
+                    <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">View More</a>
                 </div>
             </div>
             <div class="col-lg-4">

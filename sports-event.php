@@ -5,18 +5,7 @@
     <div class="pg-sports-event-banner inner">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 left-side">
-                    <div>
-                        <h1>
-
-                            Shaping Future Champions, One <br> <span class="mt-5"> Game at a Time</span>
-                        </h1>
-                        <p>
-                            Metafis promotes holistic development with organized sports events, fostering teamwork, discipline, and leadership for success in Dubai's modern landscape.</p>
-                        <button class="primary-btn">View More</button>
-                    </div>
-                </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 order-lg-1">
                     <div class="relative-box">
                         <img class="img-fluid sp-shape1" src="assets/images/sports-events/shapes/shape1.png"
                             alt="image">
@@ -27,6 +16,21 @@
                         <img class="img-fluid sp-event-img" src="assets/images/sports-events/banner.png" alt="image">
                     </div>
                 </div>
+
+                <div class="col-lg-6 left-side order-lg-0">
+                    <div>
+                        <h1>
+
+                            Shaping Future Champions, One <br> <span class="mt-5"> Game at a Time</span>
+                        </h1>
+                        <p>
+                            Metafis promotes holistic development with organized sports events, fostering teamwork, discipline, and leadership for success in Dubai's modern landscape.</p>
+                            <div class="text-lg-start text-center">
+                                <a href="#" class="primary-btn">View More</a>                   </div>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
 
         </div>
@@ -38,12 +42,14 @@
     <div class="container">
         <div class="pg-sports-event">
             <div class="row">
+
                 <div class="col-lg-6  order-lg-0 order-1">
                     <div class="relative-box">
                         <img class="img-fluid" src="assets/images/sports-events/sports-event1.png" alt="image">
                         <img class="img-fluid ball" src="assets/images/sports-events/ball.png" alt="image">
                     </div>
                 </div>
+
                 <div class="col-lg-6  order-lg-1 order-0">
                     <div>
                         <div class="heading-box p-0">
@@ -65,6 +71,7 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div>
     </div>

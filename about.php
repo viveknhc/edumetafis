@@ -58,14 +58,13 @@
                         <div class="col-lg-12">
                             <div class="py-3">
                                 <div class="row">
-                                    <div class="col-2">
+                                    <div class="col-lg-2 pb-4 pb-lg-0">
                                         <img class="img-fluid" src="assets/images/feature/lock.png" alt="image">
                                     </div>
-                                    <div class="col-10">
+                                    <div class="col-lg-10">
                                         <div>
                                             <h4>Lifetime Access</h4>
-                                            <p>There are many variations
-                                                of passages of Lorem</p>
+                                            <p>Gain lifetime access and unlock endless possibilities.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -75,14 +74,13 @@
                         <div class="col-lg-12">
                             <div class="py-3">
                                 <div class="row">
-                                    <div class="col-2">
+                                    <div class="col-lg-2 pb-4 pb-lg-0">
                                         <img class="img-fluid" src="assets/images/feature/arrow.png" alt="image">
                                     </div>
-                                    <div class="col-10">
+                                    <div class="col-lg-10">
                                         <div>
                                             <h4>Expert Mentors</h4>
-                                            <p>There are many variations
-                                                of passages of Lorem</p>
+                                            <p>Accelerate your growth with guidance from expert mentors who make a lasting impact</p>
                                         </div>
                                     </div>
                                 </div>
@@ -92,14 +90,13 @@
                         <div class="col-lg-12">
                             <div class="py-3">
                                 <div class="row">
-                                    <div class="col-2">
+                                    <div class="col-lg-2 pb-4 pb-lg-0">
                                         <img class="img-fluid" src="assets/images/feature/certificate.png" alt="image">
                                     </div>
-                                    <div class="col-10">
+                                    <div class="col-lg-10">
                                         <div>
-                                            <h4>Lifetime Access</h4>
-                                            <p>There are many variations
-                                                of passages of Lorem</p>
+                                            <h4>Official Certificate</h4>
+                                            <p>Earn official certificates to validate your expertise and enhance your career prospects</p>
                                         </div>
                                     </div>
                                 </div>
@@ -109,14 +106,13 @@
                         <div class="col-lg-12">
                             <div class="py-3">
                                 <div class="row">
-                                    <div class="col-2">
+                                    <div class="col-lg-2 pb-4 pb-lg-0">
                                         <img class="img-fluid" src="assets/images/feature/office.png" alt="image">
                                     </div>
-                                    <div class="col-10">
+                                    <div class="col-lg-10">
                                         <div>
-                                            <h4>Lifetime Access</h4>
-                                            <p>There are many variations
-                                                of passages of Lorem</p>
+                                            <h4>Offline Mood</h4>
+                                            <p>Access your content and stay productive even when offline</p>
                                         </div>
                                     </div>
                                 </div>

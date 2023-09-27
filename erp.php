@@ -11,8 +11,7 @@
                             <!-- Digital <br> Campus <br>  -->
                             <span class="mt-5">Digital Campus <br>ERP </span>
                         </h1>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere quis deserunt repellat
-                            corporis mollitia</p>
+                        <p>Streamline your business operations and efficiency with our expert ERP solutions.</p>
                         <button class="primary-btn">View More</button>
                     </div>
                 </div>
@@ -102,27 +101,27 @@
                 <div class="col-lg-6">
                     <div class="life-cycle-row">
                         <div class="row gy-5">
-                            <div class="col-lg-6">
+                            <div class="col-6">
                                 <div class="text-center">
                                     <h3>15</h3>
                                     <p>Years</p>
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
+                            <div class="col-6">
                                 <div class="text-center">
                                     <h3>3500</h3>
                                     <p>Schools</p>
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-6">
                                 <div class="text-center">
                                     <h3>1000000</h3>
                                     <p>Students</p>
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
+                            <div class="col-6">
                                 <div class="text-center">
                                     <h3>25</h3>
                                     <p>TB Data</p>
@@ -168,7 +167,7 @@
     </div>
 </section>
 
-<section>
+<!-- <section>
     <div class="container">
         <div class="text-center pb-5">
             <h5 class="section-top-head">Accurate</h5>
@@ -195,27 +194,27 @@
                         </div>
 
                         <div class="finance-counter">
-                            <div class="row g-5">
-                                <div class="col-lg-3">
+                            <div class="row g-2">
+                                <div class="col-lg-3 col-6">
                                     <div class="finance-counter-box">
                                         <h3>13</h3>
                                         <p>Countries</p>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 col-6">
                                     <div class="finance-counter-box">
                                         <h3>90%</h3>
                                         <p>Retention</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 col-6">
                                     <div class="finance-counter-box">
                                         <h3>99.5%</h3>
                                         <p>Uptime</p>
                                     </div>
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 col-6">
                                     <div class="finance-counter-box">
                                         <h3>3</h3>
                                         <p>Million LOC</p>
@@ -271,7 +270,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 

@@ -176,8 +176,10 @@
 
             <div class="col-lg-6 col-md-12">
                 <div class="px-3">
-                    <h5>About us</h5>
-                    <h2><span class="head-style">metafis</span></h2>
+                    <div class="">
+                        <h5 class="section-top-head">About</h5>
+                        <h2 class="section-head">Metafis</h2>
+                    </div>
                     <p>Metafis, your partners in educational excellence. As a leading educational service provider in
                         Dubai, we are dedicated to nurturing and guiding students on their academic journeys. Our
                         comprehensive suite of services includes online tutorials, expert counseling, mentoring, and
@@ -215,8 +217,7 @@
                             <div class="col-7">
                                 <div>
                                     <h4>Lifetime Access</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                                    <p>Gain lifetime access and unlock endless possibilities.</p>
                                 </div>
                             </div>
                         </div>
@@ -233,8 +234,7 @@
                             <div class="col-7">
                                 <div>
                                     <h4>Expert Mentors</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                                    <p>Accelerate your growth with guidance from expert mentors who make a lasting impact</p>
                                 </div>
                             </div>
                         </div>
@@ -251,8 +251,7 @@
                             <div class="col-7">
                                 <div>
                                     <h4>Official Certificate</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                                    <p>Earn official certificates to validate your expertise and enhance your career prospects</p>
                                 </div>
                             </div>
                         </div>
@@ -268,8 +267,7 @@
                             <div class="col-7">
                                 <div>
                                     <h4>Offline Mode</h4>
-                                    <p>There are many variations
-                                        of passages of Lorem</p>
+                                    <p>Access your content and stay productive even when offline</p>
                                 </div>
                             </div>
                         </div>
@@ -421,7 +419,7 @@
                     </div>
                 </div>
             </div>
-            <div class="course-carousel-box">
+            <!-- <div class="course-carousel-box">
                 <div id="courseIndexCarousel" class="owl-carousel">
                     <div class="item h-100">
                         <h2>bba</h2>
@@ -466,7 +464,7 @@
                     </div>
 
                 </div>
-            </div>
+            </div> -->
 
 
         </div>

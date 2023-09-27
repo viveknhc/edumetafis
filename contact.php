@@ -8,7 +8,7 @@
                         <div>
                             <div>
                                 <h2 class="section-head">get in touch</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
+                                <p>Have a question or need assistance?</p>
                             </div>
                             <form action="">
                                 <input type="text" placeholder="enter your name">

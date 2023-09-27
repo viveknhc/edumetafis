@@ -650,6 +650,16 @@ section {
 
 /* contact page */
 
+.service-card-link{
+    text-decoration: none;
+}
+
+.service-card-link p{
+    color: #252525;
+}
+
+
+
 .contact-pg-form-section {
     padding: 100px 10px;
 }
@@ -782,7 +792,7 @@ section {
 /* finance-administration */
 
 .finance-administration {
-    height: 60vh;
+    height: 75vh;
     background: url(../images/erp/finance-admin.png) no-repeat center center;
 }
 
@@ -884,7 +894,7 @@ section {
 
 
 
-
+/* 
 
 
 .about h2 {
@@ -892,7 +902,7 @@ section {
     font-size: 49.333px;
     font-weight: 700;
     text-transform: uppercase;
-}
+} */
 
 
 .about h2 span {
@@ -902,12 +912,12 @@ section {
     text-transform: uppercase;
 }
 
-.about h5 {
+/* .about h5 {
     color: #356CB3;
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 600;
-}
+} */
 
 .about p {
     font-size: 16px;
@@ -2097,6 +2107,9 @@ section {
     padding: 100px 0 0 0;
 }
 
+
+
+
 .college-seletion {
     padding: 100px 0 0 0;
 }
@@ -2951,9 +2964,9 @@ section {
     padding: 20px;
     background-image: url(../images/erp/image1.png);
     background-size: cover;
-    background-position: top;
+    background-position: bottom;
     background-repeat: no-repeat;
-    height: 443px;
+    height: 68vh;
 }
 
 .life-cycle h3 {
@@ -3032,6 +3045,9 @@ section {
     margin-bottom: 50px;
 }
 
+.next-gen-skill-mobile{
+    display: none;
+}
 
 
 
