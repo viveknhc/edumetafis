@@ -658,10 +658,22 @@ section {
     color: #252525;
 }
 
+ .cta .contact-form input::placeholder{
+    padding: 0 10px;
+}
+
+
+.cta textarea::placeholder{
+    /* padding: 10 20px 0 0; */
+    padding-top: 10px;
+    padding-left: 25px;
+    color: #6c757d;
+}
 
 
 .contact-pg-form-section {
     padding: 100px 10px;
+   
 }
 
 .contact-pg-form-section .contact-form {
@@ -1571,6 +1583,11 @@ section {
     list-style: none;
     padding: 0;
     padding: 32px 0 0 0;
+}
+
+.cta .contact-information ul a{
+    text-decoration: none;
+    color: #fff;
 }
 
 .cta .contact-information .shape1 {
@@ -2848,16 +2865,18 @@ section {
     font-size: 18px;
 }
 
-
 .website-service .content-box h2 {
     color: #fff;
     font-size: 26px;
 }
 
-.website-service .content-box {
+.website-service .web-box{
     background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
-    padding: 50px;
     border-radius: 15px;
+}
+
+.website-service .content-box {
+    padding: 50px;
     text-align: end;
 }
 

@@ -21,7 +21,7 @@
                     <div class="input-box">
                         <div>
                             <input type="text" placeholder="Enter Email Address">
-                            <button class="primary-btn footer-readmore">read more</button>
+                            <button class="primary-btn footer-readmore">submit</button>
                         </div>
 
                     </div>

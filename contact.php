@@ -10,13 +10,13 @@
                                 <h2 class="section-head">get in touch</h2>
                                 <p>Have a question or need assistance?</p>
                             </div>
-                            <form action="">
-                                <input type="text" placeholder="enter your name">
-                                <input type="text" placeholder="enter your email address">
-                                <textarea name="" id="" cols="30" rows="10"></textarea>
+                            <form class="contact-form" action="">
+                                <input type="text" placeholder="Your Name">
+                                <input type="text" placeholder="Your Email">
+                                <textarea placeholder="Message ..." name="" id="" cols="30" rows="10"></textarea>
     
                                 <button class="primary-btn mt-4">submit</button>
-    
+
                             </form>
                         </div>
                     </div>
@@ -27,9 +27,6 @@
                             <div>
                                 <h2>contact <br> information</h2>
                             </div>
-    
-    
-    
                             <div>
                                 <ul>
                                     <li>
@@ -42,7 +39,9 @@
                                     <li>
                                         <div class="list">
                                             <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="image">
-                                            <p>info@metafis</p>
+                                            <p>
+                                                <a href="mailto:info@metafis">info@metafis</a>  
+                                                </p>
                                         </div>
                                     </li>
     

@@ -174,7 +174,7 @@
 
             <div class="col-lg-6 col-md-12">
                 <div class="px-3">
-                    <div class="">
+                    <div>
                         <h5 class="section-top-head">About</h5>
                         <h2 class="section-head">Metafis</h2>
                     </div>
@@ -189,7 +189,7 @@
                         empower students to unlock their potential, both academically and personally. Join us and embark
                         on a journey of educational success.</p>
 
-                    <a href="about" class="primary-btn">read more</a>
+                    <a href="about" class="primary-btn">view more</a>
                 </div>
             </div>
 
@@ -207,12 +207,12 @@
             <div class="row">
 
                 <div class="col-lg-3 col-md-6">
-                    <div class="py-3">
+                    <div class="">
                         <div class="row">
-                            <div class="col-5">
+                            <div class="col-4">
                                 <img src="assets/images/feature/lock.png" alt="image">
                             </div>
-                            <div class="col-7">
+                            <div class="col-8">
                                 <div>
                                     <h4>Lifetime Access</h4>
                                     <p>Gain lifetime access and unlock endless possibilities.</p>
@@ -226,13 +226,13 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="pb-3">
                         <div class="row">
-                            <div class="col-5">
+                            <div class="col-4">
                                 <img src="assets/images/feature/arrow.png" alt="image">
                             </div>
-                            <div class="col-7">
+                            <div class="col-8">
                                 <div>
                                     <h4>Expert Mentors</h4>
-                                    <p>Accelerate your growth with guidance from expert mentors who make a lasting impact</p>
+                                    <p>Accelerate your growth with guidance from expert mentors.</p>
                                 </div>
                             </div>
                         </div>
@@ -243,13 +243,13 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="pb-3">
                         <div class="row">
-                            <div class="col-5">
+                            <div class="col-4">
                                 <img src="assets/images/feature/certificate.png" alt="image">
                             </div>
-                            <div class="col-7">
+                            <div class="col-8">
                                 <div>
                                     <h4>Official Certificate</h4>
-                                    <p>Earn official certificates to validate your expertise and enhance your career prospects</p>
+                                    <p>Earn certificates to validate your expertise and enhance</p>
                                 </div>
                             </div>
                         </div>
@@ -259,10 +259,10 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="pb-3">
                         <div class="row">
-                            <div class="col-5">
+                            <div class="col-4">
                                 <img src="assets/images/feature/office.png" alt="image">
                             </div>
-                            <div class="col-7">
+                            <div class="col-8">
                                 <div>
                                     <h4>Offline Mode</h4>
                                     <p>Access your content and stay productive even when offline</p>
@@ -320,7 +320,7 @@
                         abroad.
 
                     </p>
-                    <a href="study-abroad" class="primary-btn">read more</a>
+                    <a href="study-abroad" class="primary-btn">view more</a>
                 </div>
             </div>
 
@@ -413,7 +413,7 @@
                             </li>
                         </ul> -->
 
-                        <a href="online-tutorial" class="primary-btn">read more</a href="online-tutorial">
+                        <a href="online-tutorial" class="primary-btn">view more</a href="online-tutorial">
                     </div>
                 </div>
             </div>
@@ -601,12 +601,12 @@
                                 <input type="text" placeholder="Enter Your Name">
                                 <input type="text" placeholder="Enter Email Address">
                                 <div class="btn-box">
-                                    <button class="primary-btn">read more</button>
+                                    <button class="primary-btn">view more</button>
                                 </div>
 
                             </form> -->
 
-
+                            <a href="student-counselling" class="primary-btn">view more</a>
                         </div>
 
                     </div>
@@ -645,7 +645,7 @@
                         <li class="pb-2">
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
+                                    <img src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Suffered alteration in some
@@ -658,7 +658,7 @@
                             <div class="row">
                                 <div class="col-1">
 
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
+                                    <img src="assets/images/courses/list-icon.png" alt="image">
 
                                 </div>
                                 <div class="col-11">
@@ -671,7 +671,7 @@
 
                             <div class="row">
                                 <div class="col-1">
-                                    <img class="" src="assets/images/courses/list-icon.png" alt="image">
+                                    <img src="assets/images/courses/list-icon.png" alt="image">
                                 </div>
                                 <div class="col-11">
                                     Randomised words which don't
@@ -680,7 +680,7 @@
                             </div>
                         </li>
                     </ul> -->
-                    <a href="mentorship" class="primary-btn">read more</a href="mentorship">
+                    <a href="mentorship" class="primary-btn">view more</a href="mentorship">
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
@@ -742,7 +742,7 @@
                         textbooks. Join us in these enlightening events and shape a future where education transcends
                         boundaries, fueled by knowledge and innovation.</p>
 
-                    <button class="primary-btn">read more</button>
+                    <a href="education-event.php" class="primary-btn">view more</a>
                 </div>
 
             </div>
@@ -788,7 +788,7 @@
                             suffered alteration in some form, by injected humour, or randomised words which don't look
                             even slightly believable. If you are going to use a passage.</p>
 
-                        <button class="primary-btn">read more</button>
+                        <button class="primary-btn">view more</button>
                     </div>
                 </div>
             </div>
@@ -819,7 +819,7 @@
                         of sports, where victories go beyond the field, shaping individuals ready to conquer challenges
                         on and off the pitch. Let the games begin.</p>
 
-                    <button class="primary-btn">read more</button>
+                    <a href="sports-event" class="primary-btn">view more</a>
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="row">
@@ -1051,7 +1051,7 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="image">18/7/2023</p>
-                            <a class="read-more" href="blog-inner" class="">read more</a>
+                            <a class="read-more" href="blog-inner">read more</a>
                         </div>
                     </div>
                 </div>
@@ -1073,7 +1073,7 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="image">18/7/2023</p>
-                            <a class="read-more" href="blog-inner" class="">read more</a>
+                            <a class="read-more" href="blog-inner">read more</a>
                         </div>
                     </div>
                 </div>
@@ -1093,7 +1093,7 @@
                         <div class="card-footer">
                             <p class="m-0"><img class="calender me-2" src="assets/images/blog/calendar.svg"
                                     alt="image">18/7/2023</p>
-                            <a class="read-more" href="blog-inner" class="">read more</a>
+                            <a class="read-more" href="blog-inner">read more</a>
                         </div>
                     </div>
                 </div>
@@ -1123,10 +1123,10 @@
                                 Metafis for all your educational queries and services. Let's start a conversation.
                             </p>
                         </div>
-                        <form action="">
-                            <input type="text" placeholder="enter your name">
-                            <input type="text" placeholder="enter your email address">
-                            <textarea name="" id="" cols="30" rows="10"></textarea>
+                        <form class="contact-form" action="">
+                            <input type="text" placeholder="Your Name">
+                            <input type="text" placeholder="Your Email">
+                            <textarea placeholder="Message ..." name="" id="" cols="30" rows="10"></textarea>
 
                             <button class="primary-btn mt-4">submit</button>
 
@@ -1152,7 +1152,9 @@
                                 <li>
                                     <div class="list">
                                         <img class="pe-3 icon" src="assets/images/contact/icon2.png" alt="image">
-                                        <p>info@metafis</p>
+                                        <p>
+                                            <a href="mailto:info@metafis">info@metafis</a>  
+                                            </p>
                                     </div>
                                 </li>
 

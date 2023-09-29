@@ -17,7 +17,7 @@
                         </div>
                         <div class="blog-date-button">
     
-                            <a href="study-abroad" class="read-more-btn">Read More<i
+                            <a href="study-abroad" class="read-more-btn">View More<i
                                     class="fa-solid fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="online-tutorial" class="read-more-btn">Read More<i
+                        <a href="online-tutorial" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div></a>
@@ -55,7 +55,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="student-counselling" class="read-more-btn">Read More<i
+                        <a href="student-counselling" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="mentorship" class="read-more-btn">Read More<i
+                        <a href="mentorship" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="sports-event" class="read-more-btn">Read More<i
+                        <a href="sports-event" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="education-event" class="read-more-btn">Read More<i
+                        <a href="education-event" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                     </div>
                     <div class="blog-date-button">
 
-                        <a href="web-design" class="read-more-btn">Read More<i
+                        <a href="web-design" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                         <p>Experience digital marketing excellence with our expert-driven strategies and campaigns, tailored for your business success</p>
                     </div>
                     <div class="blog-date-button">
-                        <a href="digital-marketing" class="read-more-btn">Read More<i
+                        <a href="digital-marketing" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -165,7 +165,7 @@
                         <p>Elevate your business efficiency with our expert ERP solutions, customized for your specific needs.</p>
                     </div>
                     <div class="blog-date-button">
-                        <a href="erp" class="read-more-btn">Read More<i
+                        <a href="erp" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                         <p>Acquire next-generation skills with guidance from our experts, paving the way for a successful future</p>
                     </div>
                     <div class="blog-date-button">
-                        <a href="next-gen-skills" class="read-more-btn">Read More<i
+                        <a href="next-gen-skills" class="read-more-btn">View More<i
                                 class="fa-solid fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
