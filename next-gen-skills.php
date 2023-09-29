@@ -4,7 +4,7 @@
     <div class="next-gen-skill">
 
         <div class="text-center">
-            <h5 class="section-top-head">immersive experiential learning</h5>
+            <h5 class="section-top-head">immersive learning</h5>
             <h2 class="section-head">preschool to phd</h2>
         </div>
     </div>
