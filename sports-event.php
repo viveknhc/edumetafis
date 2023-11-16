@@ -24,9 +24,10 @@
                             Shaping Future Champions, One <br> <span class="mt-5"> Game at a Time</span>
                         </h1>
                         <p>
-                            Metafis promotes holistic development with organized sports events, fostering teamwork, discipline, and leadership for success in Dubai's modern landscape.</p>
+                            MetaFIS promotes holistic development with organized sports events, fostering teamwork, discipline, and leadership for success in Dubai's modern landscape.</p>
                             <div class="text-lg-start text-center">
-                                <a href="#" class="primary-btn">View More</a>                   </div>
+                                <a href="contact" class="primary-btn">Enquire now</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -57,7 +58,7 @@
                             <h2 class="section-head">Sports Events</h2>
                         </div>
                         <div>
-                            <p>Metafis champions holistic development through our meticulously organized sports
+                            <p>MetaFIS champions holistic development through our meticulously organized sports
                                 events. Beyond academics, we prioritize physical well-being and character building. Our
                                 events nurture teamwork, discipline, and leadership—vital traits for success in the
                                 modern Dubai landscape.  </p>

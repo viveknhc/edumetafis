@@ -23,7 +23,8 @@
                         <p>Experience top-notch web designing and development from our expert team. Transform your
                             digital presence with us</p>
                         <div class="text-lg-start text-center">
-                            <a href="#" class="primary-btn">View More</a>
+                            <a href="contact" class="primary-btn">Enquire now</a>
+
 
                         </div>
                     </div>
@@ -61,7 +62,7 @@
                             <h2 class="section-head">Become a digital stand-out with a best-in-class web development
                                 company</h2>
                         </div>
-                        <p>At Metafis, we offer every web development service you need to build a full-blown web-based
+                        <p>At MetaFIS, we offer every web development service you need to build a full-blown web-based
                             product, such as:</p>
 
 

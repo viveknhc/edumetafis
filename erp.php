@@ -6,13 +6,14 @@
 
                 <div class="col-lg-6 left-side">
                     <div class="px-2">
-                        <img src="assets/images/erp/digital-campus-logo.png" alt="">
+                        <!-- <img src="assets/images/erp/digital-campus-logo.png" alt=""> -->
                         <h1>
                             <!-- Digital <br> Campus <br>  -->
                             <span class="mt-5">Digital Campus <br>ERP </span>
                         </h1>
                         <p>Streamline your business operations and efficiency with our expert ERP solutions.</p>
-                        <button class="primary-btn">View More</button>
+                        <a href="contact" class="primary-btn">Enquire now</a>
+
                     </div>
                 </div>
 

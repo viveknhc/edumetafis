@@ -12,8 +12,8 @@
                             src="assets/images/education-event/banner-study-event-2.png" alt="image">
                         <img class="img-fluid banner-shape2"
                             src="assets/images/education-event/banner-study-event-3.png" alt="image">
-                        <img class="img-fluid banner-shape3"
-                            src="assets/images/education-event/banner-study-event-4.png" alt="image">
+                        <!-- <img class="img-fluid banner-shape3"
+                            src="assets/images/education-event/banner-study-event-4.png" alt="image"> -->
                     </div>
                 </div>
 
@@ -23,15 +23,16 @@
                             Igniting minds and fostering <br> <span class="mt-5"> growth</span>
                         </h1>
                         <p>
-                            Metafis hosts educational events in Dubai to inspire creativity and empower individuals
+                            MetaFIS hosts educational events in Dubai to inspire creativity and empower individuals
                             for a rapidly changing world, contributing to societal progress.</p>
                         <div class="text-lg-start text-center">
-                            <a href="#" class="primary-btn">View More</a>
+                            <a href="contact" class="primary-btn">Enquire now</a>
+
                         </div>
                     </div>
 
                 </div>
-               
+
             </div>
 
         </div>
@@ -58,7 +59,7 @@
                             <h2 class="section-head">education Events</h2>
                         </div>
                         <div>
-                            <p>Metafis proudly hosts a series of enriching educational events, aiming to
+                            <p>MetaFIS proudly hosts a series of enriching educational events, aiming to
                                 revolutionize learning in the vibrant landscape of present-day Dubai. In a city known
                                 for its cultural diversity and rapid advancements, these events play a pivotal role.
                             </p>
@@ -78,7 +79,36 @@
     </div>
 </section>
 
-<section class="prev-event-box section">
+<section class="section event-join-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 left order-1">
+                <div class="event-join">
+                    <h3>Join us for our future events as <br>
+                        an Exhibitor</h3>
+
+                    <a href="contact" class="primary-white-btn">Join now</a>
+
+                </div>
+            </div>
+
+
+            <div class="col-lg-6 right order-0">
+                <div class="event-join">
+                    <h3>Do your Students want to <br> see us</h3>
+
+                    <a href="contact" class="primary-btn">Join now</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="prev-event-box prev-eduevent-box section">
     <div class="text-center py-lg-5">
         <h5 class="section-top-head">events</h5>
         <h2 class="section-head">upcomming events</h2>

@@ -96,7 +96,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-1.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>
@@ -113,7 +113,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-2.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>
@@ -130,7 +130,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>
@@ -147,7 +147,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-1.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>
@@ -164,7 +164,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-2.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>
@@ -181,7 +181,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="edumetafis-blog-card">
+                <div class="eduMetaFIS-blog-card">
                     <div class="blog-img">
                         <img src="assets/images/blog/blog-3.jpg" class="img-fluid" alt="image">
                         <div class="category-badge">Sports</div>

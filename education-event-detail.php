@@ -1,7 +1,7 @@
 <?php include 'partials/header.php';?>
 
 
-<section class="pb-3"  data-aos="fade-right" data-aos-duration="2000">
+<section class="pb-3" data-aos="fade-right" data-aos-duration="2000">
     <div class="container pg-edu-event-detail">
         <div class="row">
             <div>
@@ -19,26 +19,34 @@
                         </div>
                     </div>
                     <div class="event-join-btn-box">
-                        <button class="primary-white-btn" data-bs-toggle="modal" data-bs-target="#eventJoinNow">Join
-                            Now</button>
+                        <a class="primary-white-btn" data-bs-toggle="modal" data-bs-target="#eventJoinNow">Visitor
+                            Registraton</a>
+                        <a class="primary-border-white-btn" data-bs-toggle="modal" data-bs-target="#eventJoinNow">
+                            Exhibit Registration
+                        </a>
                     </div>
+
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section" >
+<section class="section">
     <div class="container event-content">
         <div class="row">
             <div class="col-lg-6">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
-                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+                    industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+                    and
+                    scrambled it to make a type specimen book. It has survived not only five centuries, but also the
+                    leap
+                    into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with
+                    the
+                    release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
+                    publishing
                     software like Aldus PageMaker including versions of Lorem Ipsum.
-            </p>
+                </p>
             </div>
 
             <div class="col-lg-6">
@@ -46,15 +54,23 @@
                     <h4>Event Details</h4>
 
                     <ul>
-                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-calendar-days"></i> 25/11/2023</p></li>
-                        <li><p class="pe-3"><i class=" pe-2 fa-regular fa-clock"></i> 10:30</p></li>
-                        <li> <p class="pe-3"><i class=" pe-2 fa-solid fa-location-dot"></i> USA</p></li>
-                        <li><p class="pe-3"><i class=" pe-2 fa-solid fa-server"></i>Online</p></li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-regular fa-calendar-days"></i> 25/11/2023</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-regular fa-clock"></i> 10:30</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-solid fa-location-dot"></i> USA</p>
+                        </li>
+                        <li>
+                            <p class="pe-3"><i class=" pe-2 fa-solid fa-server"></i>Online</p>
+                        </li>
                     </ul>
 
                 </div>
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -69,7 +85,7 @@
     <div>
         <div class="container">
             <div class="row gy-5">
-                <div class="col-lg-4 col-md-6"  data-aos="fade-up" data-aos-duration="2000">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -91,7 +107,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6"  data-aos="fade-up" data-aos-duration="2000">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -113,7 +129,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6"  data-aos="fade-up" data-aos-duration="2000">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="2000">
                     <div class="card h-100">
                         <img src="assets/images/education-event/events.jpg" class="card-img-top" alt="...">
                         <div class="card-body">

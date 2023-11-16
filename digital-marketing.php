@@ -20,7 +20,8 @@
                         </h1>
                         <p>Elevate your digital marketing efforts with guidance from our seasoned experts and watch your online success soar</p>
                         <div class="text-lg-start text-center">
-                            <a href="#" class="primary-btn">View More</a>
+                            <a href="contact" class="primary-btn">Enquire now</a>
+
 
                         </div>
                     </div>

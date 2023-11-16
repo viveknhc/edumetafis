@@ -176,9 +176,9 @@
                 <div class="px-3">
                     <div>
                         <h5 class="section-top-head">About</h5>
-                        <h2 class="section-head">Metafis</h2>
+                        <h2 class="section-head">MetaFIS</h2>
                     </div>
-                    <p>Metafis, your partners in educational excellence. As a leading educational service provider in
+                    <p>MetaFIS, your partners in educational excellence. As a leading educational service provider in
                         Dubai, we are dedicated to nurturing and guiding students on their academic journeys. Our
                         comprehensive suite of services includes online tutorials, expert counseling, mentoring, and
                         support for studying abroad.
@@ -189,7 +189,7 @@
                         empower students to unlock their potential, both academically and personally. Join us and embark
                         on a journey of educational success.</p>
 
-                    <a href="about" class="primary-btn">view more</a>
+                    <a href="about" class="primary-btn">read More</a>
                 </div>
             </div>
 
@@ -314,13 +314,13 @@
                     </div>
 
                     <p>
-                        Explore limitless opportunities for education and career growth overseas. Metafis helps you
+                        Explore limitless opportunities for education and career growth overseas. MetaFIS helps you
                         navigate the path to international success, offering expert guidance, visa assistance, and
                         tailored career counseling. Seize your chance to excel globally and shape a thriving career
                         abroad.
 
                     </p>
-                    <a href="study-abroad" class="primary-btn">view more</a>
+                    <a href="study-abroad" class="primary-btn">read More</a>
                 </div>
             </div>
 
@@ -351,13 +351,13 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="heading-box">
-                        <h5 class="section-top-head">TUITION</h5>
-                        <h2 class="section-head">ONLINE TUITION FOR CLASSES 1-10</h2>
+                        <h5 class="section-top-head">COACHING</h5>
+                        <h2 class="section-head">ONLINE COACHING FOR CLASSES K TO 12</h2>
                     </div>
 
                     <div>
                         <p>
-                            Metafis provides interactive and comprehensive lessons that cater to various subjects and
+                            MetaFIS provides interactive and comprehensive lessons that cater to various subjects and
                             syllabi. Our experienced tutors employ engaging methods to ensure a thorough understanding
                             of concepts and encourage active participation. With a focus on individual progress, we
                             provide personalized attention to address specific learning needs.
@@ -413,7 +413,7 @@
                             </li>
                         </ul> -->
 
-                        <a href="online-tutorial" class="primary-btn">view more</a href="online-tutorial">
+                        <a href="online-tutorial" class="primary-btn">read More</a href="online-tutorial">
                     </div>
                 </div>
             </div>
@@ -522,7 +522,7 @@
                             <h5 class="section-top-head-white">student</h5>
                             <h2 class="section-head-white">counselling</h2>
 
-                            <p>Metafis provides a safe space for students to discuss academic challenges, career
+                            <p>MetaFIS provides a safe space for students to discuss academic challenges, career
                                 aspirations, and personal growth. Let us empower you to make informed decisions and
                                 thrive in your academic journey</p>
 
@@ -601,12 +601,12 @@
                                 <input type="text" placeholder="Enter Your Name">
                                 <input type="text" placeholder="Enter Email Address">
                                 <div class="btn-box">
-                                    <button class="primary-btn">view more</button>
+                                    <button class="primary-btn">read More</button>
                                 </div>
 
                             </form> -->
 
-                            <a href="student-counselling" class="primary-btn">view more</a>
+                            <a href="student-counselling" class="primary-btn">read More</a>
                         </div>
 
                     </div>
@@ -680,7 +680,7 @@
                             </div>
                         </li>
                     </ul> -->
-                    <a href="mentorship" class="primary-btn">view more</a href="mentorship">
+                    <a href="mentorship" class="primary-btn">read More</a href="mentorship">
                 </div>
                 <div class="col-lg-6">
                     <div class="relative-box">
@@ -742,7 +742,7 @@
                         textbooks. Join us in these enlightening events and shape a future where education transcends
                         boundaries, fueled by knowledge and innovation.</p>
 
-                    <a href="education-event.php" class="primary-btn">view more</a>
+                    <a href="education-event.php" class="primary-btn">read More</a>
                 </div>
 
             </div>
@@ -788,7 +788,7 @@
                             suffered alteration in some form, by injected humour, or randomised words which don't look
                             even slightly believable. If you are going to use a passage.</p>
 
-                        <button class="primary-btn">view more</button>
+                        <button class="primary-btn">read More</button>
                     </div>
                 </div>
             </div>
@@ -808,7 +808,7 @@
                     <h5 class="section-top-head">sports</h5>
                     <h2 class="section-head">sports events</h2>
 
-                    <p>Metafis recognizes the power of sports in character building and overall development. Our
+                    <p>MetaFIS recognizes the power of sports in character building and overall development. Our
                         sports events offer a dynamic arena for students to showcase their talent, teamwork, and
                         sportsmanship. From inter-school competitions to organized tournaments, we provide a platform
                         for healthy competition and physical well-being. </p>
@@ -819,7 +819,7 @@
                         of sports, where victories go beyond the field, shaping individuals ready to conquer challenges
                         on and off the pitch. Let the games begin.</p>
 
-                    <a href="sports-event" class="primary-btn">view more</a>
+                    <a href="sports-event" class="primary-btn">read More</a>
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="row">
@@ -1120,7 +1120,7 @@
                         <div>
                             <h2 class="section-head">get in touch</h2>
                             <p>Have a question or need assistance? Reach out to us today! We're here to help. Contact
-                                Metafis for all your educational queries and services. Let's start a conversation.
+                                MetaFIS for all your educational queries and services. Let's start a conversation.
                             </p>
                         </div>
                         <form class="contact-form" action="">

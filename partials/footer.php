@@ -1,3 +1,5 @@
+
+
 <!-- cta end -->
 
 <div class="footer-section">
@@ -13,7 +15,7 @@
 
 
                     <h3>Subscribe Our <br><span>Newsletter....!</span></h3>
-                    <p>Stay informed and inspired! Subscribe to the Edumetafis newsletter for the latest updates,
+                    <p>Stay informed and inspired! Subscribe to the EduMetaFIS newsletter for the latest updates,
                         educational insights, and exclusive opportunities. Join our community and be a part of our
                         educational journey. Subscribe now.</p>
                 </div>
@@ -31,13 +33,14 @@
         <div class="row">
             <div class="col-lg-3 col-md-12">
                 <img src="assets/images/logo/logo-white.png" alt="image" class="footer-logo">
-                <P class="footer-desc">Metafis, your partners in educational excellence. As a leading educational
+                <P class="footer-desc">MetaFIS, your partners in educational excellence. As a leading educational
                     service provider in Dubai, we are dedicated to nurturing and guiding students on their academic
                     journeys</P>
                 <div class="ftr-sm-icons">
                     <i class="fa-brands fa-facebook-f"></i>
                     <i class="fa-brands fa-instagram"></i>
                     <i class="fa-brands fa-youtube"></i>
+                    <i class="fa-brands fa-whatsapp"></i>
                 </div>
 
             </div>
@@ -74,7 +77,7 @@
     </div>
 
     <hr class="footer-hr">
-    <p class="copyrigt-text">Copyright © 2023 Edumetafis. All Rights Reserved | Designed by Mentegoz
+    <p class="copyrigt-text">Copyright © 2023 EduMetaFIS. All Rights Reserved | Designed by Mentegoz
         Technologies
     </p>
 
@@ -83,7 +86,7 @@
 <!-- <div>
 
         <p class="copyrigt-text">Copyright ©
-            <script>document.write(new Date().getFullYear())</script> <span> Edumetafis. </span>All Rights Reserved |
+            <script>document.write(new Date().getFullYear())</script> <span> EduMetaFIS. </span>All Rights Reserved |
             Designed by <span>Mentegoz Technologies</span>
         </p>
 
@@ -94,6 +97,12 @@
 
 <!-- event join modal -->
 
+<div class="whatsapp">
+    <a href="https://wa.me/914565132456/?text=How I assist you">
+        <img src="assets/images/whatsapp.png" alt="">
+    </a>
+  
+</div>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>

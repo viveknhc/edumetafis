@@ -16,9 +16,9 @@
 
                             Expertise your skills <br> <span class="mt-5">from Experts</span>
                         </h1>
-                        <p>Metafis offers interactive online classes for grades 1-10, blending modern pedagogy, multimedia, and flexibility for personalized learning.</p>
+                        <p>MetaFIS offers interactive online classes for grades 1-10, blending modern pedagogy, multimedia, and flexibility for personalized learning.</p>
                         <div class="text-lg-start text-center">
-                            <a href="#" class="primary-btn">View More</a>
+                            <a href="contact" class="primary-btn">Enquire now</a>
 
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                 </div>
 
                 <p>
-                    Experience transformative learning through Edumetafis' online classes. Tailored for grades one to
+                    Experience transformative learning through EduMetaFIS' online classes. Tailored for grades one to
                     ten, our interactive sessions break conventional barriers. Expert educators utilize modern pedagogy,
                     incorporating multimedia and real-world examples. Live and pre-recorded classes offer flexibility,
                     allowing personalized learning at the student's pace.
@@ -46,7 +46,7 @@
 
                 <p>
                     Interactive quizzes enhance understanding.
-                    Join us in this journey, where knowledge knows no bounds. Edumetafis' online classes revolutionize
+                    Join us in this journey, where knowledge knows no bounds. EduMetaFIS' online classes revolutionize
                     education, preparing students for a future of academic triumphs, blending innovation, accessibility,
                     and engagement seamlessly. Unveil a world of possibilities and embrace learning through our online
                     platform.

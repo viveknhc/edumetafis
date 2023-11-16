@@ -37,7 +37,7 @@
         </div>
     </div>
 
-    
+
     <div class="topbar">
         <div class="container">
             <div class="row">
@@ -47,14 +47,14 @@
                           <a href="">
                             <i class="fa-solid fa-phone pe-2"></i>
                             +91 1234567890
-                          </a>  
+                          </a>
                         </p>
                         <p class="m-0 ps-4">
                             <a href="">
                                 <i class="fa-regular fa-envelope pe-2"></i>
                                 metafis8@gmail.com
                             </a>
-                          
+
                         </p>
                     </div>
                 </div>
@@ -75,8 +75,6 @@
                         </a>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </div>
@@ -119,7 +117,7 @@
                             Events
                         </a>
                         <ul class="dropdown-menu drop-list">
-                            <li><a class="dropdown-item" href="sports-event">Sports Events</a></li>
+                            <!-- <li><a class="dropdown-item" href="sports-event">Sports Events</a></li> -->
                             <li><a class="dropdown-item" href="education-event">Education Events</a></li>
 
                         </ul>

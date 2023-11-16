@@ -83,8 +83,8 @@ $(document).ready(function () {
         margin: 10,
         nav: true,
         navText: [
-            '<i class="fa fa-thin fa-arrow-left fa-2x"></i>',
-            '<i class="fa fa-thin fa-arrow-right fa-2x"></i>'
+            '<i class="fa fa-thin fa-arrow-left"></i>',
+            '<i class="fa fa-thin fa-arrow-right"></i>'
         ],
         responsive: {
             0: {

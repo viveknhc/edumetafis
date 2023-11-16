@@ -14,151 +14,158 @@
         bottom: 182px;
         z-index: 2;
     }
+
+
+
 }
 
 
-
-/* tab */
-@media only screen and (max-width:999px) {
-
-    /* NEW GEN */
-
-    .next-gen-skill-mobile{
-display: none;
-    }
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
 
 
-    /* WEB DESIGN */
-    .web-design {
-        overflow: hidden;
-    }
+}
 
-    .website-service {
-        overflow: hidden;
-    }
+    /* tab */
+    @media only screen and (max-width:999px) {
 
-    .web-design .left {
-        display: none;
-    }
+        /* NEW GEN */
 
-    .website-service img {
-        display: none;
-    }
-
-    .website-service .content-box {
-        text-align: start !important;
-    }
-
-    .website-service-head {
-        padding-bottom: 22px;
-    }
-
-    .website-service .content-box {
-        padding: 20px;
-    }
-    
-
-    #banner .banner-item {
-        height: 75vh;
-    }
-
-    .about .img-box {
-        display: none;
-    }
-
-    .study-abroad {
-        padding: 0;
-    }
-
-    .pg-study-abroad .left-side-content{
-        padding: 0 10px;
-    }
-
-    .inner .left-side {
-        padding: 22px 0;
-        justify-content: center;
-    }
-
-    .inner span {
-        font-size: 60px;
-    }
-
-    .inner h1 {
-        text-align: center;
-        font-size: 35px;
-    }
-    
-
-    .career-path {
-        display: none;
-    }
-
-    .about .img-box {
-        height: 100vh;
-    }
-
-    .about {
-        overflow-x: hidden;
-        padding: 10px 0px;
-    }
-
-    .about .img-box .about-img1 {
-        top: 0;
-        left: 25%;
-    }
-
-    .about .img-box .about-shape1 {
-        top: 0;
-        left: 25%;
-    }
-
-    .about .img-box .about-img2 {
-        left: 15px;
-    }
-
-    .study-abroad-counter img {
-        display: none;
-    }
-
-    /* === Sports Event Page */
-
-    .pg-sports-event .ball {
-        bottom: 180px;
-        max-width: 75px;
-    }
-
-    /* ==abroad study page== */
-    .abroad-study-profiling {
-        display: none;
-    }
-
-    .study-abroad-counter {
-        background-image: url(../images/study-abroad/17128684_travel41-[Converted]\ 1.png);
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 75vh;
-        display: flex;
-        justify-content: start;
-        align-items: center;
-    }
-
-    .study-abroad-counter h2 {
-        text-transform: uppercase;
-        font-size: 22px;
-        font-weight: 800;
-        color: #3fb9da;
-        text-align: start;
-    }
-
-    .abroad-study-cta .row .cta-girl {
-        display: none;
-    }
+        .next-gen-skill-mobile {
+            display: none;
+        }
 
 
+        /* WEB DESIGN */
+        .web-design {
+            overflow: hidden;
+        }
 
-    /* about */
+        .website-service {
+            overflow: hidden;
+        }
 
-    /* .about .img-box .about-img1 {
+        .web-design .left {
+            display: none;
+        }
+
+        .website-service img {
+            display: none;
+        }
+
+        .website-service .content-box {
+            text-align: start !important;
+        }
+
+        .website-service-head {
+            padding-bottom: 22px;
+        }
+
+        .website-service .content-box {
+            padding: 20px;
+        }
+
+
+        #banner .banner-item {
+            height: 75vh;
+        }
+
+        .about .img-box {
+            display: none;
+        }
+
+        .study-abroad {
+            padding: 0;
+        }
+
+        .pg-study-abroad .left-side-content {
+            padding: 0 10px;
+        }
+
+        .inner .left-side {
+            padding: 22px 0;
+            justify-content: center;
+        }
+
+        .inner span {
+            font-size: 60px;
+        }
+
+        .inner h1 {
+            text-align: center;
+            font-size: 35px;
+        }
+
+
+        .career-path {
+            display: none;
+        }
+
+        .about .img-box {
+            height: 100vh;
+        }
+
+        .about {
+            overflow-x: hidden;
+            padding: 10px 0px;
+        }
+
+        .about .img-box .about-img1 {
+            top: 0;
+            left: 25%;
+        }
+
+        .about .img-box .about-shape1 {
+            top: 0;
+            left: 25%;
+        }
+
+        .about .img-box .about-img2 {
+            left: 15px;
+        }
+
+        .study-abroad-counter img {
+            display: none;
+        }
+
+        /* === Sports Event Page */
+
+        .pg-sports-event .ball {
+            bottom: 180px;
+            max-width: 75px;
+        }
+
+        /* ==abroad study page== */
+        .abroad-study-profiling {
+            display: none;
+        }
+
+        .study-abroad-counter {
+            background-image: url(../images/study-abroad/17128684_travel41-[Converted]\ 1.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 75vh;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+        }
+
+        .study-abroad-counter h2 {
+            text-transform: uppercase;
+            font-size: 22px;
+            font-weight: 800;
+            color: #3fb9da;
+            text-align: start;
+        }
+
+        .abroad-study-cta .row .cta-girl {
+            display: none;
+        }
+
+
+
+        /* about */
+
+        /* .about .img-box .about-img1 {
   
     }
  
@@ -173,215 +180,215 @@ display: none;
 
         */
 
-    /* career */
+        /* career */
 
-    .relative-box .shape2 {
-        left: 134px;
-        top: 12px;
+        .relative-box .shape2 {
+            left: 134px;
+            top: 12px;
+        }
+
+        .relative-box .shape1 {
+            left: 94px;
+            top: 7px;
+        }
+
+        .career-content {
+            max-width: 65%;
+        }
+
+        /* cta */
+
+        .counselling .right .white-shape4 {
+            position: absolute;
+            top: 0px;
+            right: 0;
+            max-width: 36px;
+        }
+
+
+        .counselling .content-box .white-shape5 {
+            display: none;
+        }
+
+        .content-box p {
+            width: 100%;
+        }
+
+        .counselling-form input {
+            width: 100%;
+        }
+
+        .cta .contact-information {
+            margin-top: 35px;
+        }
+
+
+
+        .heading-box {
+            padding: 40px 0px 10px 0px;
+        }
+
+        .primary-btn {
+            padding: 11px 14px;
+            width: 123px;
+            font-size: 14px;
+        }
+
+        .footer-readmore {
+            font-size: 10px;
+        }
+
+        .get-in-touch-box {
+            border-style: none;
+            padding-left: 0;
+            margin-top: 50px;
+            padding: 10px 20px;
+        }
+
+        .contact-map-section iframe {
+            height: 400px;
+            margin-bottom: -8px;
+        }
+
+        .ftr-sm-icons {
+            margin-bottom: 10px;
+        }
+
+        .ftr-links-head {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .footer-hr {
+            margin-top: 40px;
+        }
+
+        .edumetfis-navbar .nav-left-btn {
+            display: none;
+        }
+
+        .blog-section {
+            padding: 50px 0;
+        }
+
+        .blog-inner-pg-section {
+            padding: 50px 10px;
+        }
+
+        .blog-inner-pg-section .blog-img img {
+            height: 340px;
+        }
+
+
+        .blog .relative-box span {
+            bottom: -62px;
+            height: 83px;
+        }
+
+
+        .related-blogs-btm {
+            padding: 0px;
+        }
+
+        .our-partners-section .partners-img {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .our-partners-section .partners-img img {
+            width: 330px;
+            margin-bottom: 20px;
+        }
+
+        .investors-section .investors-img {
+            grid-template-columns: repeat(3, 1fr);
+
+        }
+
+        .investors-section .investors-img img {
+            margin-bottom: 20px;
+        }
+
+        .career-section .career-box {
+            flex-direction: column;
+            align-items: start;
+        }
+
+        .career-section .career-box .right-section .apply-btn {
+            margin-top: 30px;
+            display: block;
+        }
+
+        .career-section .career-box .left-section p {
+            font-size: 14px;
+        }
+
+        /* footer */
+        .footer-news-letter .footer-shape2 {
+            position: absolute;
+            right: 77%;
+            bottom: -41px;
+        }
+
+        #testimonial-carousel .item {
+            padding: 40px 0 0;
+        }
+
+        #testimonial-carousel .item .person {
+            max-width: 71px;
+            right: 43px;
+            top: 7px;
+        }
+
+        .sports .sports-img2 {
+            display: none;
+        }
+
+
     }
 
-    .relative-box .shape1 {
-        left: 94px;
-        top: 7px;
-    }
 
-    .career-content {
-        max-width: 65%;
-    }
-
-    /* cta */
-
-    .counselling .right .white-shape4 {
-        position: absolute;
-        top: 0px;
-        right: 0;
-        max-width: 36px;
-    }
+    /* ==========MOBILE============= */
 
 
-    .counselling .content-box .white-shape5 {
-        display: none;
-    }
+    @media only screen and (max-width:767px) {
 
-    .content-box p {
-        width: 100%;
-    }
+        /* NEW GEN TECHNOLOGY */
 
-    .counselling-form input {
-        width: 100%;
-    }
+        .next-gen-skill {
+            display: none;
+        }
 
-    .cta .contact-information {
-        margin-top: 35px;
-    }
+        /* WEB DESIGN */
+        .web-design {
+            overflow: hidden;
+        }
 
+        .website-service {
+            overflow: hidden;
+        }
 
+        .web-design .left {
+            display: none;
+        }
 
-    .heading-box {
-        padding: 40px 0px 10px 0px;
-    }
+        .website-service img {
+            display: none;
+        }
 
-    .primary-btn {
-        padding: 11px 14px;
-        width: 123px;
-        font-size: 14px;
-    }
+        .website-service .content-box {
+            text-align: start !important;
+        }
 
-    .footer-readmore {
-        font-size: 10px;
-    }
+        .website-service-head {
+            padding-bottom: 22px;
+        }
 
-    .get-in-touch-box {
-        border-style: none;
-        padding-left: 0;
-        margin-top: 50px;
-        padding: 10px 20px;
-    }
-
-    .contact-map-section iframe {
-        height: 400px;
-        margin-bottom: -8px;
-    }
-
-    .ftr-sm-icons {
-        margin-bottom: 10px;
-    }
-
-    .ftr-links-head {
-        margin-top: 20px;
-        margin-bottom: 10px;
-    }
-
-    .footer-hr {
-        margin-top: 40px;
-    }
-
-    .edumetfis-navbar .nav-left-btn {
-        display: none;
-    }
-
-    .blog-section {
-        padding: 50px 0;
-    }
-
-    .blog-inner-pg-section {
-        padding: 50px 10px;
-    }
-
-    .blog-inner-pg-section .blog-img img {
-        height: 340px;
-    }
+        .website-service .content-box {
+            padding: 20px;
+        }
 
 
-    .blog .relative-box span {
-        bottom: -62px;
-        height: 83px;
-    }
-
-
-    .related-blogs-btm {
-        padding: 0px;
-    }
-
-    .our-partners-section .partners-img {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-    .our-partners-section .partners-img img {
-        width: 330px;
-        margin-bottom: 20px;
-    }
-
-    .investors-section .investors-img {
-        grid-template-columns: repeat(3, 1fr);
-
-    }
-
-    .investors-section .investors-img img {
-        margin-bottom: 20px;
-    }
-
-    .career-section .career-box {
-        flex-direction: column;
-        align-items: start;
-    }
-
-    .career-section .career-box .right-section .apply-btn {
-        margin-top: 30px;
-        display: block;
-    }
-
-    .career-section .career-box .left-section p {
-        font-size: 14px;
-    }
-
-    /* footer */
-    .footer-news-letter .footer-shape2 {
-        position: absolute;
-        right: 77%;
-        bottom: -41px;
-    }
-
-    #testimonial-carousel .item {
-        padding: 40px 0 0;
-    }
-
-    #testimonial-carousel .item .person {
-        max-width: 71px;
-        right: 43px;
-        top: 7px;
-    }
-
-    .sports .sports-img2 {
-        display: none;
-    }
-
-
-}
-
-
-/* ==========MOBILE============= */
-
-
-@media only screen and (max-width:767px) {
-
-    /* NEW GEN TECHNOLOGY */
-
-    .next-gen-skill {
-        display: none;
-    }
-
-    /* WEB DESIGN */
-    .web-design {
-        overflow: hidden;
-    }
-
-    .website-service {
-        overflow: hidden;
-    }
-
-    .web-design .left {
-        display: none;
-    }
-
-    .website-service img {
-        display: none;
-    }
-
-    .website-service .content-box {
-        text-align: start !important;
-    }
-
-    .website-service-head {
-        padding-bottom: 22px;
-    }
-
-    .website-service .content-box {
-        padding: 20px;
-    }
-    
-
-    /* .web-design .left-img1 {
+        /* .web-design .left-img1 {
         position: absolute;
         top: -70px;
         max-width: 360px;
@@ -392,77 +399,77 @@ display: none;
         bottom: 50px;
     } */
 
-    .section {
-        padding: 0 10px;
-    }
+        .section {
+            padding: 0 10px;
+        }
 
-    .study-abroad-counter {
-        justify-content: center;
-    }
+        .study-abroad-counter {
+            justify-content: center;
+        }
 
-    .about .img-box {
-        display: none;
-    }
-
-
-    .inner .left-side {
-        padding: 22px 0;
-        justify-content: center;
-    }
-
-    .inner h1 {
-        text-align: center;
-        font-size: 20px;
-    }
-
-    .inner span {
-        font-size: 41px;
-    }
-
-    .inner p{
-        text-align: center;
-    }
-
-    .banner-content {
-        white-space: wrap;
-
-    }
+        .about .img-box {
+            display: none;
+        }
 
 
-    .about {
-        overflow-x: hidden;
-    }
+        .inner .left-side {
+            padding: 22px 0;
+            justify-content: center;
+        }
 
-    .career-aptitude-section {
-        padding: 0;
-    }
+        .inner h1 {
+            text-align: center;
+            font-size: 20px;
+        }
 
-    #banner .video-bg {
-        height: 100vh;
-    }
+        .inner span {
+            font-size: 41px;
+        }
 
-    #banner .banner-item {
-        height: 100vh;
-    }
+        .inner p {
+            text-align: center;
+        }
 
-    .career-path {
-        display: none;
-    }
+        .banner-content {
+            white-space: wrap;
 
-    /* .edumetfis-navbar img {
+        }
+
+
+        .about {
+            overflow-x: hidden;
+        }
+
+        .career-aptitude-section {
+            padding: 0;
+        }
+
+        #banner .video-bg {
+            height: 100vh;
+        }
+
+        #banner .banner-item {
+            height: 100vh;
+        }
+
+        .career-path {
+            display: none;
+        }
+
+        /* .edumetfis-navbar img {
         
     } */
 
-    .edumetfis-navbar .navbar-brand img {
-        width: 130px;
-    }
+        .edumetfis-navbar .navbar-brand img {
+            width: 130px;
+        }
 
-    .topbar {
-        display: none;
-    }
+        .topbar {
+            display: none;
+        }
 
 
-    /* 
+        /* 
     .topbar .mail{
         flex-direction: column;
     }
@@ -473,688 +480,704 @@ display: none;
     }
      */
 
-    /* ==sports events page== */
+        /* ==sports events page== */
 
-    .pg-sports-event .ball {
-        bottom: 70px;
-        max-width: 43px;
-    }
+        .pg-sports-event .ball {
+            bottom: 70px;
+            max-width: 43px;
+        }
 
 
-    .pg-sports-event-banner {
-        /* background-size: contain;
+        .pg-sports-event-banner {
+            /* background-size: contain;
         height: 25vh; */
-    }
-
-    .pg-sports-event-banner .sp-event-img {
-        padding: 2px;
-    }
-
-    .pg-sports-event-banner .sp-shape2 {
-        display: none;
-    }
-
-    .pg-sports-event-banner .sp-shape1 {
-        display: none;
-    }
-
-    .pg-sports-event-banner .sp-shape3 {
-        display: none;
-    }
-
-
-    .pg-edu-event-detail .event-img {
-        justify-content: end;
-        flex-direction: column;
-    }
-
-    .event-join-btn-box {
-        padding: 0px 28px 26px 0px;
-    }
-
-    .primary-white-btn {
-        color: var(--white-col);
-        padding: 7px 16px;
-        box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
-        border-radius: 40px;
-        padding: 10px 30px;
-        border: none;
-        text-transform: uppercase;
-        background-image: linear-gradient(var(--gradient-button));
-        width: 170px;
-        font-weight: 700;
-        text-decoration: none;
-    }
-
-    .pg-sports-event-detail .event-img {
-        flex-direction: column;
-        justify-content: end;
-    }
-
-    .pg-sports-event-detail .event-img h3 {
-        font-size: 22px;
-    }
-
-    .pg-sports-event-banner .inner-header {
-        font-size: 22px;
-    }
-
-
-    .pg-sports-event-banner {
-        justify-content: center;
-    }
-
-    .pg-sports-event-banner {
-        padding: 0 10px;
-    }
-
-    .pg-edu-event-detail .event-img h3 {
-        font-size: 22px;
-    }
-
-    /* ==abroad study page== */
-
-    .pg-study-abroad {
-        background-size: contain;
-    }
-
-    .abroad-study-cta h3 {
-        font-size: 21px;
-    }
-
-    .college-seletion {
-        padding: 0 10px;
-        overflow: hidden;
-    }
-
-    .application-process {
-        padding: 0 10px;
-        overflow: hidden;
-    }
-
-    .abroad-study-cta {
-        height: auto;
-        padding: 0 10px;
-        margin: 30px 0px;
-    }
-
-    .abroad-study-cta .row {
-        padding: 17px;
-    }
-
-    .abroad-study-cta .row .shape1 {
-        display: none;
-    }
-
-    .abroad-study-cta .row .shape2 {
-        display: none;
-    }
-
-
-
-
-    .abroad-study-profiling {
-        display: none;
-    }
-
-    .abroad-study-cta .row .cta-girl {
-        display: none;
-    }
-
-    .study-abroad-counter h2 {
-        text-transform: uppercase;
-        font-size: 22px;
-        font-weight: 800;
-        color: #3fb9da;
-        text-align: start;
-    }
-
-    .study-abroad-counter img {
-        display: none;
-    }
-
-
-    /* banner */
-
-    #banner .banner-item .banner-content {
-        gap: 3px;
-    }
-
-    #banner .banner-item .banner-content p {
-        width: 100%;
-        font-size: 14px;
-    }
-
-    #banner .banner-item .banner-content h1 {
-        font-size: 27px;
-    }
-
-    #banner .banner-item .banner-content h1 span {
-        font-size: 20px;
-
-    }
+        }
+
+        .pg-sports-event-banner .sp-event-img {
+            padding: 2px;
+        }
+
+        .pg-sports-event-banner .sp-shape2 {
+            display: none;
+        }
+
+        .pg-sports-event-banner .sp-shape1 {
+            display: none;
+        }
+
+        .pg-sports-event-banner .sp-shape3 {
+            display: none;
+        }
+
+
+        .pg-edu-event-detail .event-img {
+            justify-content: end;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .event-join-btn-box {
+            padding: 0px 28px 26px 0px;
+        }
+
+        .primary-white-btn {
+            color: var(--white-col);
+        
+            box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
+            border-radius: 40px;
+            padding: 10px 30px;
+            border: none;
+            text-transform: uppercase;
+            background-image: linear-gradient(var(--gradient-button));
+       
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+
+        .primary-border-white-btn {
+            color: var(--white-col);
+            box-shadow: 4px 4px 20px 2px gba(255, 255, 255, 0.2);
+            border-radius: 40px;
+            padding: 10px 30px;
+            border: 1px solid var(--white-col);
+            text-transform: uppercase;
+            background-color: transparent;
+            /* width: 170px; */
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        
+        .pg-sports-event-detail .event-img {
+            flex-direction: column;
+            justify-content: end;
+        }
+
+        .pg-sports-event-detail .event-img h3 {
+            font-size: 22px;
+        }
+
+        .pg-sports-event-banner .inner-header {
+            font-size: 22px;
+        }
+
+
+        .pg-sports-event-banner {
+            justify-content: center;
+        }
+
+        .pg-sports-event-banner {
+            padding: 0 10px;
+        }
+
+        .pg-edu-event-detail .event-img h3 {
+            font-size: 22px;
+        }
+
+        /* ==abroad study page== */
+
+        .pg-study-abroad {
+            background-size: contain;
+        }
+
+        .abroad-study-cta h3 {
+            font-size: 21px;
+        }
+
+        .college-seletion {
+            padding: 0 10px;
+            overflow: hidden;
+        }
+
+        .application-process {
+            padding: 0 10px;
+            overflow: hidden;
+        }
 
-    .sec-text {
-        font-size: 27px;
-        padding-top: 10px;
-    }
-
-    .banner-btn {
-        padding: 4px 15px;
-    }
-
-    .pg-banner {
-        min-height: 220px;
-        padding-top: 70px;
-    }
-
-    .book-icon {
-        top: 18%;
-        left: 10%;
-        width: 40px;
-    }
-
-    .cap-icon {
-        width: 55px;
-    }
-
-    .edumetfis-navbar .nav-left-btn {
-        display: none;
-    }
+        .abroad-study-cta {
+            height: auto;
+            padding: 0 10px;
+            margin: 30px 0px;
+        }
 
-    .contact-pg-form-section {
-        padding: 50px 5px;
-    }
+        .abroad-study-cta .row {
+            padding: 17px;
+        }
 
-    .contact-pg-form-section .contact-form {
-        padding: 50px 20px 20px;
-    }
+        .abroad-study-cta .row .shape1 {
+            display: none;
+        }
 
-    .contact-pg-form-section .contact-form .head {
-        font-size: 26px;
-    }
+        .abroad-study-cta .row .shape2 {
+            display: none;
+        }
 
-    .contact-form .input-form {
-        margin-top: 20px;
-    }
 
-    .contact-form .contact-btn {
-        margin-top: 0;
-    }
 
-    .get-in-touch-box {
-        border-style: none;
-        padding: 40px 20px;
-    }
 
-    .pg-banner .head {
-        font-size: 22px;
-        line-height: 34px;
-    }
+        .abroad-study-profiling {
+            display: none;
+        }
 
-    .pg-banner .pages-link .non-link {
-        font-size: 14px;
-    }
+        .abroad-study-cta .row .cta-girl {
+            display: none;
+        }
 
-    .pg-banner .pages-link .active-link {
-        font-size: 14px;
-    }
+        .study-abroad-counter h2 {
+            text-transform: uppercase;
+            font-size: 22px;
+            font-weight: 800;
+            color: #3fb9da;
+            text-align: start;
+        }
 
-    .contact-map-section iframe {
-        margin-top: -120px;
-        height: 320px;
-        margin-bottom: -8px;
-    }
+        .study-abroad-counter img {
+            display: none;
+        }
 
-    /* about */
 
-    .about .img-box {
-        height: 55vh;
-    }
+        /* banner */
 
-    .counter-box {
-        position: absolute;
-        top: 200px;
-        right: 224px;
-        z-index: 111;
-    }
+        #banner .banner-item .banner-content {
+            gap: 3px;
+        }
 
-    .counter-box div img {
-        position: absolute;
-        width: 110px;
-    }
+        #banner .banner-item .banner-content p {
+            width: 100%;
+            font-size: 14px;
+        }
 
+        #banner .banner-item .banner-content h1 {
+            font-size: 27px;
+        }
 
+        #banner .banner-item .banner-content h1 span {
+            font-size: 20px;
 
-    .about .img-box .about-img1 {
+        }
 
-        left: 50%;
-        transform: translateX(-50%);
-        max-width: 205px !important;
+        .sec-text {
+            font-size: 27px;
+            padding-top: 10px;
+        }
 
-    }
+        .banner-btn {
+            padding: 4px 15px;
+        }
 
-    .about .img-box .about-img2 {
-        left: 0px !important;
-        top: 148px !important;
-        max-width: 145px;
-    }
+        .pg-banner {
+            min-height: 220px;
+            padding-top: 70px;
+        }
 
-    .about .img-box .about-shape1 {
-        top: 0;
-        right: 68px !important;
-        max-width: 205px !important;
-    }
+        .book-icon {
+            top: 18%;
+            left: 10%;
+            width: 40px;
+        }
 
-    .counter-box div {
-        display: none;
-    }
+        .cap-icon {
+            width: 55px;
+        }
 
-    .feature {
-        margin: 5px;
-        padding: 37px;
+        .edumetfis-navbar .nav-left-btn {
+            display: none;
+        }
 
-    }
+        .contact-pg-form-section {
+            padding: 50px 5px;
+        }
 
-    /* career */
+        .contact-pg-form-section .contact-form {
+            padding: 50px 20px 20px;
+        }
 
-    .career-content {
-        max-width: 100%;
-        padding-top: 7px;
-    }
+        .contact-pg-form-section .contact-form .head {
+            font-size: 26px;
+        }
 
-    /* mentor */
+        .contact-form .input-form {
+            margin-top: 20px;
+        }
 
-    .mentor .girl-shape {
-        padding: 13px;
-    }
+        .contact-form .contact-btn {
+            margin-top: 0;
+        }
 
-    .sports .sports-img1 {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+        .get-in-touch-box {
+            border-style: none;
+            padding: 40px 20px;
+        }
 
+        .pg-banner .head {
+            font-size: 22px;
+            line-height: 34px;
+        }
 
-    .footer-news-letter h3 {
-        font-size: 22px;
-        line-height: 32px;
-    }
+        .pg-banner .pages-link .non-link {
+            font-size: 14px;
+        }
 
-    .footer-news-letter .input-box {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+        .pg-banner .pages-link .active-link {
+            font-size: 14px;
+        }
 
-    .footer-news-letter .input-box input {
-        width: 100%;
-        padding: 8px 20px;
-    }
+        .contact-map-section iframe {
+            margin-top: -120px;
+            height: 320px;
+            margin-bottom: -8px;
+        }
 
-    .footer-news-letter {
-        padding: 40px 20px;
-        background-color: #ffffff;
-        border-radius: 20px;
-        margin-bottom: 40px;
-    }
+        /* about */
 
-    .footer-news-letter .input-box a {
-        margin-left: 0;
-        margin-top: 10px;
-        font-size: 14px;
-        padding: 8px 25px;
-    }
+        .about .img-box {
+            height: 55vh;
+        }
 
-    .footer-section {
-        padding: 60px 10px 10px;
-    }
+        .counter-box {
+            position: absolute;
+            top: 200px;
+            right: 224px;
+            z-index: 111;
+        }
 
-    .footer-news-letter .footer-shape1 {
-        display: none;
-    }
+        .counter-box div img {
+            position: absolute;
+            width: 110px;
+        }
 
-    .footer-news-letter .footer-shape2 {
-        display: none;
-    }
 
-    .footer-news-letter .footer-shape3 {
-        display: none;
-    }
 
-    .footer-news-letter h3 span {
-        font-size: 25px;
-    }
+        .about .img-box .about-img1 {
 
-    .footer-news-letter h3 {
-        font-size: 15px;
-    }
+            left: 50%;
+            transform: translateX(-50%);
+            max-width: 205px !important;
 
-    .footer-news-letter .input-box input {
-        width: 100%;
-        padding: 0px 2px;
-    }
+        }
+
+        .about .img-box .about-img2 {
+            left: 0px !important;
+            top: 148px !important;
+            max-width: 145px;
+        }
 
-    .footer-news-letter .input-box div {
-        padding: 3px;
-    }
+        .about .img-box .about-shape1 {
+            top: 0;
+            right: 68px !important;
+            max-width: 205px !important;
+        }
 
-    .footer-news-letter p {
-        margin-top: 6px;
-        font-size: 14px;
-    }
+        .counter-box div {
+            display: none;
+        }
 
+        .feature {
+            margin: 5px;
+            padding: 37px;
 
+        }
 
-    .copyrigt-text {
-        font-size: 14px;
-    }
+        /* career */
 
-    .blog-section {
-        padding: 50px 10px;
-    }
+        .career-content {
+            max-width: 100%;
+            padding-top: 7px;
+        }
 
-    .blog-inner-pg-section .heading {
-        font-size: 20px;
-        line-height: 30px;
-        font-weight: 600;
-        margin-top: 10px;
-    }
+        /* mentor */
 
-    .blog-inner-pg-section .blog-img img {
-        height: 240px;
-    }
+        .mentor .girl-shape {
+            padding: 13px;
+        }
 
-    .blog-inner-pg-section .blog-content {
-        margin-bottom: 15px;
-    }
+        .sports .sports-img1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
-    .related-blogs-btm {
-        margin-bottom: 40px;
-    }
 
-    .our-partners-section .partners-img img {
-        width: 160px;
-        margin-bottom: 20px;
-    }
+        .footer-news-letter h3 {
+            font-size: 22px;
+            line-height: 32px;
+        }
 
-    .investors-section .investors-img {
-        grid-template-columns: repeat(2, 1fr);
-    }
+        .footer-news-letter .input-box {
+            flex-direction: column;
+            align-items: flex-start;
+        }
 
-    .partners-investors-section {
-        padding: 50px 10px;
-    }
+        .footer-news-letter .input-box input {
+            width: 100%;
+            padding: 8px 20px;
+        }
 
-    .our-partners-section {
-        padding-top: 50px;
-    }
+        .footer-news-letter {
+            padding: 40px 20px;
+            background-color: #ffffff;
+            border-radius: 20px;
+            margin-bottom: 40px;
+        }
 
-    .career-section {
-        padding: 50px 10px;
-    }
+        .footer-news-letter .input-box a {
+            margin-left: 0;
+            margin-top: 10px;
+            font-size: 14px;
+            padding: 8px 25px;
+        }
 
-    .career-section .career-box .left-section p {
-        font-size: 14px;
-    }
+        .footer-section {
+            padding: 60px 10px 10px;
+        }
 
-    .career-section .career-box .job-prefernces {
-        font-size: 14px;
-    }
+        .footer-news-letter .footer-shape1 {
+            display: none;
+        }
 
-    .career-section .career-box .right-section .apply-btn {
-        margin-top: 20px;
-        display: block;
-        font-size: 14px;
-    }
+        .footer-news-letter .footer-shape2 {
+            display: none;
+        }
+
+        .footer-news-letter .footer-shape3 {
+            display: none;
+        }
+
+        .footer-news-letter h3 span {
+            font-size: 25px;
+        }
+
+        .footer-news-letter h3 {
+            font-size: 15px;
+        }
+
+        .footer-news-letter .input-box input {
+            width: 100%;
+            padding: 0px 2px;
+        }
+
+        .footer-news-letter .input-box div {
+            padding: 3px;
+        }
+
+        .footer-news-letter p {
+            margin-top: 6px;
+            font-size: 14px;
+        }
+
+
+
+        .copyrigt-text {
+            font-size: 14px;
+        }
+
+        .blog-section {
+            padding: 50px 10px;
+        }
+
+        .blog-inner-pg-section .heading {
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+
+        .blog-inner-pg-section .blog-img img {
+            height: 240px;
+        }
+
+        .blog-inner-pg-section .blog-content {
+            margin-bottom: 15px;
+        }
+
+        .related-blogs-btm {
+            margin-bottom: 40px;
+        }
+
+        .our-partners-section .partners-img img {
+            width: 160px;
+            margin-bottom: 20px;
+        }
+
+        .investors-section .investors-img {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .partners-investors-section {
+            padding: 50px 10px;
+        }
+
+        .our-partners-section {
+            padding-top: 50px;
+        }
+
+        .career-section {
+            padding: 50px 10px;
+        }
+
+        .career-section .career-box .left-section p {
+            font-size: 14px;
+        }
+
+        .career-section .career-box .job-prefernces {
+            font-size: 14px;
+        }
+
+        .career-section .career-box .right-section .apply-btn {
+            margin-top: 20px;
+            display: block;
+            font-size: 14px;
+        }
+
+        .relative-box .career-content .sm-shape3 {
+            right: 12px;
+            bottom: 154px;
+        }
+
+        .cta .contact-information .shape1 {
+            top: -13px;
+            right: 30px;
+            max-width: 51px;
+        }
 
-    .relative-box .career-content .sm-shape3 {
-        right: 12px;
-        bottom: 154px;
-    }
+        .cta .contact-information .shape2 {
+            top: -23px;
+            max-width: 44px;
+            right: 69px;
+        }
 
-    .cta .contact-information .shape1 {
-        top: -13px;
-        right: 30px;
-        max-width: 51px;
-    }
+        .cta .contact-information {
+            margin-top: 35px;
+        }
 
-    .cta .contact-information .shape2 {
-        top: -23px;
-        max-width: 44px;
-        right: 69px;
-    }
+        .career-index {
+            background-image: none;
+            height: 72vh;
+        }
 
-    .cta .contact-information {
-        margin-top: 35px;
-    }
+        .relative-box .shape1 {
+            display: none;
+        }
 
-    .career-index {
-        background-image: none;
-        height: 72vh;
-    }
+        .relative-box .shape2 {
+            display: none;
+        }
 
-    .relative-box .shape1 {
-        display: none;
-    }
+        .flag img {
+            max-width: 40px;
+        }
 
-    .relative-box .shape2 {
-        display: none;
-    }
+        .section-top-head {
+            font-size: 15px;
+        }
 
-    .flag img {
-        max-width: 40px;
-    }
+        .section-head {
+            font-size: 24px;
+        }
 
-    .section-top-head {
-        font-size: 15px;
-    }
+        .career-content p {
+            font-size: 14px;
+        }
 
-    .section-head {
-        font-size: 24px;
-    }
+        .relative-box .career-content .sm-shape3 {
+            display: none;
+        }
 
-    .career-content p {
-        font-size: 14px;
-    }
+        .relative-box .career-content .sm-shape2 {
+            display: none;
+        }
 
-    .relative-box .career-content .sm-shape3 {
-        display: none;
-    }
+        .relative-box .career-content .sm-shape3 {
+            display: none;
+        }
 
-    .relative-box .career-content .sm-shape2 {
-        display: none;
-    }
+        /* courses */
 
-    .relative-box .career-content .sm-shape3 {
-        display: none;
-    }
+        .courses {
+            padding: 0;
+        }
 
-    /* courses */
+        .courses .sm-shape2 {
+            right: 36%;
+            top: 160px;
+        }
 
-    .courses {
-        padding: 0;
-    }
+        .courses .sm-shape1 {
+            right: 82px;
+            top: 4px;
+        }
 
-    .courses .sm-shape2 {
-        right: 36%;
-        top: 160px;
-    }
+        .courses .sm-shape3 {
+            right: 43px;
+            bottom: 125px;
+        }
+
+        .courses .right {
+            padding: 50px 0px 20px 0px;
+        }
 
-    .courses .sm-shape1 {
-        right: 82px;
-        top: 4px;
-    }
+        .course-carousel-box {
+            padding: 34px 0px 0px 0px;
+        }
 
-    .courses .sm-shape3 {
-        right: 43px;
-        bottom: 125px;
-    }
+        .counselling .white-shape2 {
+            display: none;
+        }
 
-    .courses .right {
-        padding: 50px 0px 20px 0px;
-    }
+        .counselling .right .white-shape4 {
+            display: none;
+        }
 
-    .course-carousel-box {
-        padding: 34px 0px 0px 0px;
-    }
+        .counselling .white-shape1 {
+            display: none;
+        }
 
-    .counselling .white-shape2 {
-        display: none;
-    }
 
-    .counselling .right .white-shape4 {
-        display: none;
-    }
+        .counselling .white-shape3 {
+            display: none;
+        }
 
-    .counselling .white-shape1 {
-        display: none;
-    }
 
 
-    .counselling .white-shape3 {
-        display: none;
-    }
+        .banner-section {
+            padding: 0px;
+        }
 
+        .counselling .content-box {
+            height: 145vh;
+        }
 
+        .counselling .content-box .white-shape5 {
+            display: none;
+        }
 
-    .banner-section {
-        padding: 0px;
-    }
+        .section-top-head-white {
+            font-size: 15px;
+        }
 
-    .counselling .content-box {
-        height: 145vh;
-    }
+        .section-head-white {
+            font-size: 24px;
+        }
 
-    .counselling .content-box .white-shape5 {
-        display: none;
-    }
+        .content-box p {
+            width: 100%;
+        }
 
-    .section-top-head-white {
-        font-size: 15px;
-    }
+        .counselling-form input {
+            width: 100%;
+        }
 
-    .section-head-white {
-        font-size: 24px;
-    }
+        .career-partner h5 {
+            font-size: 14px;
+        }
 
-    .content-box p {
-        width: 100%;
-    }
+        .right .btn-box {
+            text-align: center;
+        }
 
-    .counselling-form input {
-        width: 100%;
-    }
+        .mentor .relative-box .shape1 {
+            left: -7px;
+            max-width: 120px;
+            top: 285px;
+        }
 
-    .career-partner h5 {
-        font-size: 14px;
-    }
+        /* mentor */
 
-    .right .btn-box {
-        text-align: center;
-    }
+        .mentor .girl-shape {
+            padding: 13px;
+        }
 
-    .mentor .relative-box .shape1 {
-        left: -7px;
-        max-width: 120px;
-        top: 285px;
-    }
+        .event-img2 {
+            display: none;
+        }
 
-    /* mentor */
+        .event .red-shape {
+            display: none;
+        }
 
-    .mentor .girl-shape {
-        padding: 13px;
-    }
+        .event .black-shape {
+            display: none;
+        }
 
-    .event-img2 {
-        display: none;
-    }
+        .event .orange-shape {
+            display: none;
+        }
 
-    .event .red-shape {
-        display: none;
-    }
+        .sports .sports-img1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
-    .event .black-shape {
-        display: none;
-    }
+        .sports .sports-img2 {
+            display: none;
+        }
 
-    .event .orange-shape {
-        display: none;
-    }
 
-    .sports .sports-img1 {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
 
-    .sports .sports-img2 {
-        display: none;
-    }
+        /* sports */
 
+        .sports .orange-shape {
+            display: none;
+        }
 
+        .sports .red-shape {
+            display: none;
+        }
 
-    /* sports */
+        .sports .black-shape {
+            display: none;
+        }
 
-    .sports .orange-shape {
-        display: none;
-    }
+        /* testimonial */
 
-    .sports .red-shape {
-        display: none;
-    }
+        #testimonial-carousel .item {
+            padding: 40px 0 0;
+        }
 
-    .sports .black-shape {
-        display: none;
-    }
+        #testimonial-carousel .item .person {
+            max-width: 71px;
+            right: 43px;
+            top: 7px;
+        }
 
-    /* testimonial */
+        /* ABOUT PAGE */
 
-    #testimonial-carousel .item {
-        padding: 40px 0 0;
-    }
+        .pg-about {
+            overflow-x: hidden;
+        }
 
-    #testimonial-carousel .item .person {
-        max-width: 71px;
-        right: 43px;
-        top: 7px;
-    }
+        .pg-about .about2 {
+            left: 23px;
+            top: -115px;
+        }
 
-    /* ABOUT PAGE */
+        .personalised-student .img-1 {
+            top: 17px;
+            max-width: 152px;
+        }
 
-    .pg-about {
-        overflow-x: hidden;
-    }
+        .proffesional-learning .img-1 {
+            top: 17px;
+            max-width: 152px;
+        }
 
-    .pg-about .about2 {
-        left: 23px;
-        top: -115px;
-    }
+        /* study abroad page */
 
-    .personalised-student .img-1 {
-        top: 17px;
-        max-width: 152px;
-    }
+        .top-ucity-box {
+            padding: 10px 0;
+        }
 
-    .proffesional-learning .img-1 {
-        top: 17px;
-        max-width: 152px;
-    }
 
-    /* study abroad page */
+        /* NEW GEN SKILLS */
 
-    .top-ucity-box {
-        padding: 10px 0;
-    }
+        .next-gen-skill-mobile {
+            padding: 0 10px;
+            overflow: hidden;
+            display: block;
+        }
 
 
-    /* NEW GEN SKILLS */
 
-    .next-gen-skill-mobile{
-        padding: 0 10px;
-        overflow: hidden;
-        display: block;
     }
-
-
-
-}

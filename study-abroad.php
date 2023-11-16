@@ -16,12 +16,12 @@
                 <div class="col-lg-6 left-side order-lg-0">
                     <div class="left-side-content">
                         <h1>
-                            GRAB YOUR DREAM CAREER <br> CAREER <br> <span class="mt-5">Metfis</span>
+                            GRAB YOUR DREAM  <br> CAREER <br> <span class="mt-5 metafis">MetaFIS</span>
                         </h1>
                         <p>
                             We provide comprehensive support for your smooth transition to international education, from
                             program selection to visa assistance and scholarships.</p>
-                            <div class="text-lg-start text-center">
+                            <div class="text-lg-start text-md-start text-center">
                                 <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">View More</a>
 
                             </div>

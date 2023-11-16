@@ -23,8 +23,6 @@
     --black-col: #000;
     --font-sec-color: #0000009e;
     --gradient-button: 90deg, #F15A26 0%, #F99D23 100%;
-
-
 }
 
 /* LOADER */
@@ -171,15 +169,41 @@ section {
 
 .primary-white-btn {
     color: var(--gradient-button);
-    box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20);
+    box-shadow: 4px 4px 20px 2px gba(255, 255, 255, 0.2);
     border-radius: 40px;
-    padding: 10px 30px;
+    padding: 15px 30px;
     border: none;
     text-transform: uppercase;
     background-color: var(--white-col);
-    width: 170px;
+    /* width: 170px; */
     font-weight: 700;
     text-decoration: none;
+    margin: 0 0 10px 0;
+}
+
+
+.primary-white-btn:hover {
+    color: var(--white-col);
+    border: 1px solid var(--white-col);
+    background-color: transparent;
+}
+
+.primary-border-white-btn {
+    color: var(--white-col);
+    box-shadow: 4px 4px 20px 2px gba(255, 255, 255, 0.2);
+    border-radius: 40px;
+    padding: 15px 30px;
+    border: 1px solid var(--white-col);
+    text-transform: uppercase;
+    background-color: transparent;
+    /* width: 170px; */
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.primary-border-white-btn:hover {
+    background-color: var(--white-col);
+    color: #000;
 }
 
 .topbar {
@@ -251,6 +275,10 @@ section {
     text-transform: uppercase;
 }
 
+
+.metafis {
+    text-transform: none !important;
+}
 
 
 
@@ -650,20 +678,20 @@ section {
 
 /* contact page */
 
-.service-card-link{
+.service-card-link {
     text-decoration: none;
 }
 
-.service-card-link p{
+.service-card-link p {
     color: #252525;
 }
 
- .cta .contact-form input::placeholder{
+.cta .contact-form input::placeholder {
     padding: 0 10px;
 }
 
 
-.cta textarea::placeholder{
+.cta textarea::placeholder {
     /* padding: 10 20px 0 0; */
     padding-top: 10px;
     padding-left: 25px;
@@ -673,7 +701,7 @@ section {
 
 .contact-pg-form-section {
     padding: 100px 10px;
-   
+
 }
 
 .contact-pg-form-section .contact-form {
@@ -781,6 +809,10 @@ section {
 }
 
 
+.about .section-head {
+    text-transform: none !important;
+}
+
 
 .about .img-box {
     position: relative;
@@ -837,7 +869,7 @@ section {
     background-color: var(--white-col);
 }
 
-.finance-administration .right h6{
+.finance-administration .right h6 {
     font-size: 18px;
 }
 
@@ -1012,7 +1044,7 @@ section {
 .relative-box .career-content .sm-shape1 {
     max-width: 22px;
     position: absolute;
-    right: 83px;
+    right: 0px;
     bottom: 243px;
     animation: sm-career-roatation 6s infinite linear;
 }
@@ -1307,6 +1339,34 @@ section {
     padding: 90px;
 }
 
+
+.mentor-skill-box .card {
+    background-image: url('../images/mentor/mentor-skill.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    z-index: 11;
+    border-radius: 10px;
+    color: #fff;
+}
+
+
+.mentor-skill-box .card::after {
+    content: '';
+    background-color: #4b8ee6b8;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border-radius: 10px;
+}
+
 /* event */
 
 .event {
@@ -1339,6 +1399,64 @@ section {
 .event .orange-shape {
     position: absolute;
     bottom: 20px;
+}
+
+.event-join {
+    text-align: center;
+    padding: 60px 0;
+}
+
+
+.event-join-section .row {
+    /* border-radius: 10px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 0.5px solid #00000078;
+
+}
+
+.event-join-section .row .left {
+    background-image: url('../images/education-event/event-join.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 11;
+    /* border-radius: 10px; */
+
+    /* background: linear-gradient(90deg, #ff0000e3 0%, #ff6b00bd 100%); */
+    /* box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20); */
+}
+
+.event-join-section .row .left::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    background-color: #00000093;
+    /* border-radius: 10px; */
+    /* background: linear-gradient(90deg, #ff0000b8 0%, #ff6a009f 100%); */
+    /* box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20); */
+}
+
+.event-join-section .row .left a {
+    background-color: #fff !important;
+    color: #000;
+    padding: 10px 22px !important;
+}
+
+.right .event-join h3 {
+    color: #346cb3;
+    padding: 0 0 25px 0;
+    font-weight: 600;
+}
+
+
+.event-join h3 {
+    color: #fff;
+    padding: 0 0 25px 0;
+    font-weight: 600;
 }
 
 
@@ -1437,7 +1555,7 @@ section {
 #testimonial-carousel .fa {
     color: #fff;
     background-color: #356CB3;
-    padding: 2px 20px 2px 20px;
+    padding: 6px 18px 6px 18px;
     border-radius: 10px;
 }
 
@@ -1585,7 +1703,7 @@ section {
     padding: 32px 0 0 0;
 }
 
-.cta .contact-information ul a{
+.cta .contact-information ul a {
     text-decoration: none;
     color: #fff;
 }
@@ -2591,6 +2709,8 @@ section {
 
 .event-join-btn-box {
     padding: 0px 56px 26px 0px;
+    display: flex;
+    flex-direction: column;
 
 }
 
@@ -2870,7 +2990,7 @@ section {
     font-size: 26px;
 }
 
-.website-service .web-box{
+.website-service .web-box {
     background: linear-gradient(173deg, #003C89 0%, #0070FF 104.1%);
     border-radius: 15px;
 }
@@ -3000,7 +3120,7 @@ section {
 
 /* NEXT GEN  */
 
-.next-gen-skill{
+.next-gen-skill {
     overflow: hidden;
     height: 80vh;
     background-image: url(../images/next\ gen\ skills/banner.png);
@@ -3048,26 +3168,93 @@ section {
     padding: 10px;
 } */
 
-.feedback-card{
+.feedback-card {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border: 0;
     padding: 20px;
     border-radius: 15px;
 }
-.feedback-card h5{
+
+.feedback-card h5 {
     text-transform: capitalize;
     font-size: 20px;
     font-weight: 400;
 }
 
-.new-gen-course-section .header-box{
+.new-gen-course-section .header-box {
     margin-bottom: 50px;
 }
 
-.next-gen-skill-mobile{
+.next-gen-skill-mobile {
     display: none;
 }
 
+
+/* WHATSAPP */
+
+.whatsapp img {
+    position: fixed;
+    bottom: 41px;
+    right: 37px;
+    z-index: 11;
+    max-width: 51px;
+}
+
+
+.benefits .card {
+    border: none;
+    text-align: center;
+}
+
+
+.benefits .card img {
+    max-width: 80px;
+    margin: auto;
+}
+
+.benefits-section {
+    padding: 100px 0 0 0;
+}
+
+.benefits-section .head-title {
+    padding-bottom: 50px;
+}
+
+
+.kids-section {
+    background-image: url('../images/next gen skills/kids-skill.jpg');
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kids-section h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 0 0 100px;
+
+}
+
+.world-class-feature span {
+    color: var(--sec-col);
+    font-weight: 500;
+}
+
+.next-gen-counter {
+    color: #fff;
+}
+
+.next-gen-counter .row {
+    background: linear-gradient(100deg, #FF4100 0.62%, rgba(255, 64, 0, 0.713) 119.03%);
+    padding: 60px 30px 30px 30px;
+    border-radius: 10px;
+}
 
 
 
