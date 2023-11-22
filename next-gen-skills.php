@@ -797,7 +797,7 @@
 
                 <div class="col-lg-6 left-side order-lg-0">
                     <div>
-                        <h1>
+                        <h1 class="pb-lg-1">
                             BECOME A GLOBAL<br> <span class="mt-5">SKILLS SCHOOL</span>
                         </h1>
                         <p>We’ve built a breakthrough skills
@@ -818,7 +818,7 @@
                             decades of experience working
                             with learners globally.
                         </p>
-                        <div class="text-lg-start text-center">
+                        <div class="text-lg-start text-center pt-lg-3">
                             <a href="" class="primary-btn">Enquire Now</a>
 
 
@@ -1135,7 +1135,7 @@
             </div>
 
             <div class="col-lg-6">
-                <div  class="pb-5">
+                <div class="pb-5">
                     <h5 class="section-top-head-white">Delivering learning outcomes </h5>
                     <h2 class="section-head-white">constantly and consistently</h2>
                 </div>

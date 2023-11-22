@@ -22,10 +22,8 @@
                         </h1>
                         <p>Experience top-notch web designing and development from our expert team. Transform your
                             digital presence with us</p>
-                        <div class="text-lg-start text-center">
+                        <div class="text-lg-start text-center pt-lg-3">
                             <a href="contact" class="primary-btn">Enquire now</a>
-
-
                         </div>
                     </div>
                 </div>

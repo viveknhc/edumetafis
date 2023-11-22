@@ -12,8 +12,11 @@
                             <span class="mt-5">Digital Campus <br>ERP </span>
                         </h1>
                         <p>Streamline your business operations and efficiency with our expert ERP solutions.</p>
-                        <a href="contact" class="primary-btn">Enquire now</a>
+                        <div class="pt-lg-3">
+                            <a href="contact" class="primary-btn">Enquire now</a>
 
+                        </div>
+                       
                     </div>
                 </div>
 

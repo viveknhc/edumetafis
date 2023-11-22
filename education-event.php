@@ -25,7 +25,7 @@
                         <p>
                             MetaFIS hosts educational events in Dubai to inspire creativity and empower individuals
                             for a rapidly changing world, contributing to societal progress.</p>
-                        <div class="text-lg-start text-center">
+                        <div class="text-lg-start text-center pt-lg-3">
                             <a href="contact" class="primary-btn">Enquire now</a>
 
                         </div>
@@ -82,19 +82,19 @@
 <section class="section event-join-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 left order-1">
-                <div class="event-join">
+            <div class="col-lg-6 order-1">
+                <div class="event-join left">
                     <h3>Join us for our future events as <br>
                         an Exhibitor</h3>
 
-                    <a href="contact" class="primary-white-btn">Join now</a>
+    <a href="contact" class="primary-btn">Join now</a>
 
+
+                        
                 </div>
             </div>
-
-
-            <div class="col-lg-6 right order-0">
-                <div class="event-join">
+            <div class="col-lg-6 order-0">
+                <div class="event-join right">
                     <h3>Do your Students want to <br> see us</h3>
 
                     <a href="contact" class="primary-btn">Join now</a>

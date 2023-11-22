@@ -21,8 +21,8 @@
                         <p>
                             We provide comprehensive support for your smooth transition to international education, from
                             program selection to visa assistance and scholarships.</p>
-                            <div class="text-lg-start text-md-start text-center">
-                                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">View More</a>
+                            <div class="text-lg-start text-md-start text-center pt-lg-3">
+                                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">Read More</a>
 
                             </div>
                     </div>
@@ -83,7 +83,7 @@
         <div class="pe-5 ps-md-5">
             <h2>Study Abroad <br> Explore, Learn, Grow</h2>
             <div class="text-lg-end pt-4">
-                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-white-btn">View More</a>
+                <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-white-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -107,9 +107,9 @@
                         university program that aligns with their aspirations for a successful international academic
                         journey and a fulfilling career.
                     </p>
-                    <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
-                    </div>
+                    <!-- <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">Read More</a>
+                    </div> -->
 
                 </div>
             </div>
@@ -214,9 +214,9 @@
                             </div>
                         </li>
                     </ul>
-                    <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
-                    </div>
+                    <!-- <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">Read More</a>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -246,9 +246,9 @@
                         you make confident, data-backed decisions about your education.
                     </p>
 
-                    <div class="pt-lg-3">
-                        <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn" href="">View More</a>
-                    </div>
+                    <!-- <div class="pt-lg-3">
+                        <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn" href="">Read More</a>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-6">
@@ -350,9 +350,9 @@
                             </div>
                         </li>
                     </ul>
-                    <div class="pt-lg-3">
-                        <a class="primary-btn" href="https://studyin.edumetafis.com/">View More</a>
-                    </div>
+                    <!-- <div class="pt-lg-3">
+                        <a class="primary-btn" href="https://studyin.edumetafis.com/">Read More</a>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -369,7 +369,10 @@
 
                     <h3>are you Ready to fly & <br> Persure your dreams</h3>
                     <p>Connect with us today to embark on your journey to success!</p>
-                    <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">View More</a>
+                    <div class="pt-lg-3">
+                        <a href="https://studyin.edumetafis.com/studies-abroad/" class="primary-btn">Read More</a>
+                    </div>
+                    
                 </div>
             </div>
             <div class="col-lg-4">

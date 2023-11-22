@@ -16,9 +16,9 @@
 
                             Expertise your skills <br> <span class="mt-5">from Experts</span>
                         </h1>
-                        <p>MetaFIS offers interactive online classes for grades 1-10, blending modern pedagogy, multimedia, and flexibility for personalized learning.</p>
-                        <div class="text-lg-start text-center">
-                            <a href="contact" class="primary-btn">Enquire now</a>
+                        <p>MetaFIS offers interactive online classes for grades K-12, blending modern pedagogy, multimedia, and flexibility for personalized learning.</p>
+                        <div class="text-lg-start text-center pt-lg-3">
+                            <a href="https://www.learning.edumetafis.com/customer/login?token=QkgGr2TB6Ji9fpvwg2Q2EEn1t6atyX5Q" class="primary-btn">Read More</a>
 
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                 </div>
 
                 <p>
-                    Experience transformative learning through EduMetaFIS' online classes. Tailored for grades one to
+                    Experience transformative learning through MetaFIS' online classes. Tailored for grades one to
                     ten, our interactive sessions break conventional barriers. Expert educators utilize modern pedagogy,
                     incorporating multimedia and real-world examples. Live and pre-recorded classes offer flexibility,
                     allowing personalized learning at the student's pace.
@@ -46,7 +46,7 @@
 
                 <p>
                     Interactive quizzes enhance understanding.
-                    Join us in this journey, where knowledge knows no bounds. EduMetaFIS' online classes revolutionize
+                    Join us in this journey, where knowledge knows no bounds. MetaFIS' online classes revolutionize
                     education, preparing students for a future of academic triumphs, blending innovation, accessibility,
                     and engagement seamlessly. Unveil a world of possibilities and embrace learning through our online
                     platform.
@@ -69,7 +69,7 @@
                     <img src="assets/images/online-tutorial/icon1.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Tailored Learning</h5>
-                        <p class="card-text">Customized classes for various grade levels (class one to ten), ensuring
+                        <p class="card-text">Customized classes for various grade levels (class K to 12), ensuring
                             targeted teaching and comprehensive coverage of the curriculum.</p>
                     </div>
                 </div>

@@ -34,8 +34,7 @@
                         </div>
                         <div class="blog-desc">
                             <h4 class="blog-head">Online Tutorial</h4>
-                            <p>Excel in your academic studies with our comprehensive online tutorials led by expert
-                                educators and interactive content</p>
+                            <p>Excel in studies with online tutorials led by expert educators and interactive content</p>
                         </div>
                         <div class="blog-date-button">
 
@@ -111,8 +110,7 @@
                         </div>
                         <div class="blog-desc">
                             <h4 class="blog-head">Educational Events</h4>
-                            <p>Unlock the potential of your educational events with the guidance of our expert
-                                organizers and educators.</p>
+                            <p>Unlock the full potential of your educational events with the guidance of our expert organizers and dedicated educators</p>
                         </div>
                         <div class="blog-date-button">
 

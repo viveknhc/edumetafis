@@ -15,7 +15,7 @@
 
 
                     <h3>Subscribe Our <br><span>Newsletter....!</span></h3>
-                    <p>Stay informed and inspired! Subscribe to the EduMetaFIS newsletter for the latest updates,
+                    <p>Stay informed and inspired! Subscribe to the MetaFIS newsletter for the latest updates,
                         educational insights, and exclusive opportunities. Join our community and be a part of our
                         educational journey. Subscribe now.</p>
                 </div>
@@ -51,6 +51,7 @@
                 <a class="ftr-links" href="courses">Courses</a>
                 <a class="ftr-links" href="services">Services</a>
                 <a class="ftr-links" href="partners-investors">Partners & Investors</a>
+                <a class="ftr-links" href="testimonial">Testimonials</a>
             </div>
 
             <div class="col-lg-3 col-md-12">
@@ -59,8 +60,7 @@
                 <a class="ftr-links" href="study-abroad">Study Abroad</a>
                 <a class="ftr-links" href="online-tutorial">Online Tutorial</a>
                 <a class="ftr-links" href="student-counselling">Student Counselling</a>
-                <a class="ftr-links" href="mentorship">Mentership</a>
-                <a class="ftr-links" href="sports-event">Sports Events</a>
+            
                 <a class="ftr-links" href="education-event">Educational Events</a>
             </div>
 
@@ -77,7 +77,7 @@
     </div>
 
     <hr class="footer-hr">
-    <p class="copyrigt-text">Copyright © 2023 EduMetaFIS. All Rights Reserved | Designed by Mentegoz
+    <p class="copyrigt-text">Copyright © 2023 MetaFIS. All Rights Reserved | Designed by Mentegoz
         Technologies
     </p>
 

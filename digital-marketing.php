@@ -19,10 +19,8 @@
                             Digital Marketing<br> <span class="mt-5">from Experts</span>
                         </h1>
                         <p>Elevate your digital marketing efforts with guidance from our seasoned experts and watch your online success soar</p>
-                        <div class="text-lg-start text-center">
+                        <div class="text-lg-start text-center pt-lg-3">
                             <a href="contact" class="primary-btn">Enquire now</a>
-
-
                         </div>
                     </div>
                 </div>

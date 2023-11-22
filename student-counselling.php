@@ -21,17 +21,19 @@
 
                             We guide you to <br><span class="mt-5"> the best</span>
                         </h1>
-                        <p>We offer expert guidance for education and career decisions.</p>
+                        <p>We specialize in expert guidance for education, ensuring you make informed decisions with confidence and clarity"</p>
 
-                        <div class="text-lg-start text-center">
-                            <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>                   </div>
+                        <div class="text-lg-start text-center pt-4">
+                            <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">Read More
+                                </a>
+                        </div>
                     </div>
 
 
 
 
                 </div>
-       
+
             </div>
         </div>
     </div>
@@ -106,7 +108,8 @@
 
                             </ul>
                             <div class="text-center p-4">
-                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest"
+                                    class="primary-btn">Read More</a>
                             </div>
 
                         </div>
@@ -127,7 +130,8 @@
                                 <li>Interventions for recommended careers</li>
                             </ul>
                             <div class="text-center p-4">
-                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest"
+                                    class="primary-btn">Read More</a>
                             </div>
 
                         </div>
@@ -148,7 +152,8 @@
                                 <li>Interventions for recommended careers</li>
                             </ul>
                             <div class="text-center p-4">
-                                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
+                                <a href="https://www.careertest.edumetafis.com/general/careerTest"
+                                    class="primary-btn">Read More</a>
                             </div>
 
                         </div>
@@ -287,7 +292,7 @@
                         </div>
                     </li>
 
-                    <li class="pb-2">
+                    <li class="">
 
                         <div class="row">
                             <div class="col-1">
@@ -299,8 +304,12 @@
                         </div>
                     </li>
                 </ul>
-                <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn mt-4">View More</a>
-
+                <div class="pt-lg-4">
+                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn mt-4">Read
+                        More</a>
+    
+                </div>
+               
             </div>
         </div>
 
@@ -416,7 +425,7 @@
                     interventions based on your current class and learning levels
                 </p>
                 <div class="text-start pt-4">
-                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
+                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">Read More</a>
                 </div>
             </div>
 
@@ -451,7 +460,7 @@
                     your skills and career options and provides the recommendation on career growth
                 </p>
                 <div class="text-start pt-4">
-                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">View More</a>
+                    <a href="https://www.careertest.edumetafis.com/general/careerTest" class="primary-btn">Read More</a>
                 </div>
             </div>
 

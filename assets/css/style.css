@@ -1409,8 +1409,8 @@ section {
 
 .event-join-section .row {
     /* border-radius: 10px; */
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    border: 0.5px solid #00000078;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    /* border: 0.5px solid #00000078; */
 
 }
 
@@ -1420,6 +1420,7 @@ section {
     background-position: center;
     position: relative;
     z-index: 11;
+    /* border: 10px solid #fff; */
     /* border-radius: 10px; */
 
     /* background: linear-gradient(90deg, #ff0000e3 0%, #ff6b00bd 100%); */
@@ -1440,14 +1441,46 @@ section {
     /* box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20); */
 }
 
+
+.event-join-section .row .right{
+    background-image: url('../images/education-event/event-join-2.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 11;
+    /* border: 10px  solid #ff0000; */
+}
+
+
+.event-join-section .row .right::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    background-color: #00000093;
+    /* border-radius: 10px; */
+    /* background: linear-gradient(90deg, #ff0000b8 0%, #ff6a009f 100%); */
+    /* box-shadow: 4px 4px 20px 2px rgba(255, 0, 0, 0.20); */
+}
+
+
 .event-join-section .row .left a {
-    background-color: #fff !important;
-    color: #000;
+    /* background-color: #fff !important; */
+    color: #e9e9e9;
+    padding: 10px 22px !important;
+}
+
+.event-join-section .row .right a{
+    /* background-color: #fff !important; */
+    color: #ffffff;
     padding: 10px 22px !important;
 }
 
 .right .event-join h3 {
-    color: #346cb3;
+    color: #ffffff;
     padding: 0 0 25px 0;
     font-weight: 600;
 }
@@ -2339,10 +2372,10 @@ section {
 
 
 .abroad-study-cta {
-    height: 100vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
 }
 
 .abroad-study-cta .row {
@@ -3213,7 +3246,7 @@ section {
 }
 
 .benefits-section {
-    padding: 100px 0 0 0;
+    padding: 100px 0 100px 0;
 }
 
 .benefits-section .head-title {
@@ -3240,6 +3273,11 @@ section {
     padding: 0 0 0 100px;
 
 }
+
+.world-class-feature{
+    padding: 100px 0 100px 0;
+}
+
 
 .world-class-feature span {
     color: var(--sec-col);
